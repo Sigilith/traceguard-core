@@ -26,7 +26,6 @@ class AsyncEvidenceLedger:
                 "payload": payload,
                 "prev_hash": self.last_hash
             }
-            # Explicitly sort keys to bypass Termux Python 3.13 json.dumps sort_keys bug
             sorted_entry = dict(sorted(entry.items()))
             entry_json = json.dumps(sorted_entry)
             current_hash = await self._compute_hash(entry_json)
@@ -37,21 +36,19 @@ class AsyncEvidenceLedger:
             return entry
 
     async def verify_integrity(self) -> bool:
-        """Verifies the immutable integrity of the entire cryptographic chain."""
+        """Verifies immutable chain integrity by recomputing hashes sequentially from genesis."""
         async with self._lock:
             if not self.chain:
                 return True
             
-            if self.chain[0]["prev_hash"] != "0" * 64:
-                return False
+            expected_prev_hash = "0" * 64
 
-            for i in range(1, len(self.chain)):
-                prev = self.chain[i - 1]
-                curr = self.chain[i]
-                
-                if curr["prev_hash"] != prev["current_hash"]:
+            for curr in self.chain:
+                # 1. Validate previous hash linkage
+                if curr["prev_hash"] != expected_prev_hash:
                     return False
                 
+                # 2. Recompute current block hash from its source data
                 recheck_entry = {
                     "timestamp": curr["timestamp"],
                     "payload": curr["payload"],
@@ -61,7 +58,10 @@ class AsyncEvidenceLedger:
                 recheck_json = json.dumps(sorted_recheck)
                 recheck_hash = hashlib.sha256(recheck_json.encode('utf-8')).hexdigest()
                 
+                # 3. Validate stored hash matches recomputed hash
                 if recheck_hash != curr["current_hash"]:
                     return False
+                
+                expected_prev_hash = recheck_hash
                     
             return True

@@ -1,10 +1,10 @@
 import sys
 import json
 import time
-from src.traceguard import TraceGuard
-from src.aximos import AXIOMOSEvaluator
-from src.evidence import EvidenceLedger
-from src.compliance_report import ComplianceReportGenerator
+from traceguard.traceguard import TraceGuard
+from traceguard.aximos import AXIOMOSEvaluator
+from traceguard.evidence import EvidenceLedger
+from traceguard.compliance_report import ComplianceReportGenerator
 
 def print_help():
     print("TRACEGUARD CLI // Enterprise Autonomous Agent Governance SDK")
@@ -98,7 +98,7 @@ def run_drift():
 
 def run_pdf():
     print("=== ENTERPRISE PDF EXPORT ===")
-    from src.pdf_generator import generate_compliance_pdf
+    from traceguard.pdf_generator import generate_compliance_pdf
     reporter = ComplianceReportGenerator()
     packet = reporter.generate_packet(consequence=3, autonomy=3, oversight=False, violations_detected=1)
     filename = generate_compliance_pdf(packet, "traceguard_compliance_audit.pdf")

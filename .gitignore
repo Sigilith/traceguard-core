@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pdf
+fresh_env/
+venv/
+.pytest_cache/
+build/
+dist/
+*.egg-info/

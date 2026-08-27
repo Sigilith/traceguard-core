@@ -14,8 +14,8 @@ dependencies = [
 ]
 
 [project.scripts]
-traceguard = "src.cli:main"
+traceguard = "cli:main"
 
-[tool.setuptools.packages.find]
-where = ["."]
-include = ["src", "src.*"]
+[tool.setuptools]
+packages = ["src"]
+py-modules = ["cli"]

@@ -2,6 +2,7 @@ from src.traceguard import TraceGuard
 from src.aximos import AXIOMOSEvaluator
 from src.matrix import AssuranceMatrix
 from src.compliance_report import ComplianceReportGenerator
+from src.pdf_generator import generate_compliance_pdf
 
 def main():
     print("Initializing TraceGuard Engine...")
@@ -16,7 +17,7 @@ def main():
     risk_status = ax.evaluate_logs(tg.get_logs())
     print(f"AXIOMOS Risk Classification: {risk_status}")
     
-    print("\nGenerating Enterprise Compliance Audit Packet...")
+    print("\nGenerating Enterprise Compliance Audit Packet & PDF...")
     reporter = ComplianceReportGenerator()
     packet = reporter.generate_packet(
         consequence=3, 
@@ -25,13 +26,13 @@ def main():
         violations_detected=sum(1 for l in tg.get_logs() if l["decision"] == "BLOCK")
     )
     
+    # Export Markdown and PDF artifacts
     markdown_report = reporter.export_as_markdown(packet)
-    print("\n" + markdown_report)
-    
-    # Save compliance artifact to file
     with open("compliance_audit_packet.md", "w") as f:
         f.write(markdown_report)
-    print("Compliance audit packet successfully written to 'compliance_audit_packet.md'.")
+        
+    pdf_filename = generate_compliance_pdf(packet, "compliance_audit_packet.pdf")
+    print(f"Compliance PDF successfully compiled and saved to '{pdf_filename}'.")
 
 if __name__ == "__main__":
     main()

@@ -5,14 +5,16 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "traceguard"
 version = "1.0.0"
-description = "Deterministic containment and tamper-evident compliance."
+description = "Deterministic containment, behavioral drift evaluation, and tamper-evident compliance for autonomous agent systems."
 readme = "README.md"
 requires-python = ">=3.8"
-dependencies = ["fpdf2>=2.7.0", "pytest>=7.0.0"]
+dependencies = [
+    "fpdf2>=2.7.0",
+    "pytest>=7.0.0"
+]
 
 [project.scripts]
-traceguard = "cli:main"
+traceguard = "traceguard.cli:main"
 
-[tool.setuptools]
-packages = ["src"]
-py-modules = ["cli"]
+[tool.setuptools.packages.find]
+where = ["src"]

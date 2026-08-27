@@ -1,13 +1,14 @@
+#!/usr/bin/env python3
+
 import sys
-import json
-import time
 from traceguard.traceguard import TraceGuard
 from traceguard.aximos import AXIOMOSEvaluator
 from traceguard.evidence import EvidenceLedger
 from traceguard.compliance_report import ComplianceReportGenerator
+from traceguard.pdf_generator import generate_compliance_pdf
 
 def print_help():
-    print("TRACEGUARD CLI // Enterprise Autonomous Agent Governance SDK")
+    print("TRACEGUARD CLI // Autonomous Agent Governance SDK")
     print("\nUsage:")
     print("  traceguard <command> [options]")
     print("\nAvailable Commands:")
@@ -41,20 +42,19 @@ def main():
 
 def run_demo():
     print("=== TRACEGUARD ZERO-TRUST DEMO ===")
-    time.sleep(0.1)
     tg = TraceGuard(allowed_actions=["read_logs", "safe_query"])
     ledger = EvidenceLedger()
 
     res1 = tg.evaluate_action("read_logs")
     ledger.append_entry({"action": "read_logs", "decision": res1})
     print(f"[1] Legitimate action       {res1}")
-    
+
     res2 = tg.evaluate_action("delete_system_root")
     ledger.append_entry({"action": "delete_system_root", "decision": res2})
     print(f"[2] Unauthorized action     {res2}")
 
     print(f"[3] Evidence recorded      ✓ (Ledger Index: {len(ledger.chain)-1})")
-    
+
     is_valid = ledger.verify_integrity()
     print(f"[4] Hash chain verified     {'✓' if is_valid else '✗'}")
 
@@ -72,7 +72,7 @@ def run_verification():
     ledger = EvidenceLedger()
     ledger.append_entry({"action": "safe_query", "decision": "ALLOW"})
     ledger.append_entry({"action": "unauthorized", "decision": "BLOCK"})
-    
+
     integrity = ledger.verify_integrity()
     print(f"Chain Length: {len(ledger.chain)}")
     print(f"Cryptographic Integrity Check: {'PASSED ✓' if integrity else 'FAILED ✗'}")
@@ -82,11 +82,11 @@ def run_audit():
     print("=== TRACEGUARD COMPLIANCE AUDIT PACKET ===")
     reporter = ComplianceReportGenerator()
     packet = reporter.generate_packet(consequence=3, autonomy=3, oversight=False, violations_detected=1)
-    print(json.dumps(packet["risk_classification"], indent=2))
+    print(packet["risk_classification"])
 
 def run_drift():
     print("=== AXIOMOS BEHAVIORAL DRIFT ANALYSIS ===")
-    ax = AXIOMOSEvaluator(block_threshold=2)
+    ax = AXIOMOS(block_threshold=2)
     sample_logs = [
         {"action": "read_data", "decision": "ALLOW"},
         {"action": "unauthorized_drop", "decision": "BLOCK"},
@@ -98,7 +98,6 @@ def run_drift():
 
 def run_pdf():
     print("=== ENTERPRISE PDF EXPORT ===")
-    from traceguard.pdf_generator import generate_compliance_pdf
     reporter = ComplianceReportGenerator()
     packet = reporter.generate_packet(consequence=3, autonomy=3, oversight=False, violations_detected=1)
     filename = generate_compliance_pdf(packet, "traceguard_compliance_audit.pdf")

@@ -1,20 +1,17 @@
-[build-system]
-requires = ["setuptools>=61.0"]
-build-backend = "setuptools.build_meta"
-
 [project]
 name = "traceguard"
-version = "1.0.0"
-description = "Deterministic containment, behavioral drift evaluation, and tamper-evident compliance for autonomous agent systems."
+version = "1.0.1"
+description = "Zero-trust governance and audit framework"
+authors = [{name="Ky"}]
 readme = "README.md"
-requires-python = ">=3.8"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
 dependencies = [
     "fpdf2>=2.7.0",
     "pytest>=7.0.0"
 ]
 
-[project.scripts]
-traceguard = "traceguard.cli:main"
-
-[tool.setuptools.packages.find]
-where = ["src"]
+[tool.setuptools]
+package-dir = {"" = "src"}
+packages = ["traceguard"]

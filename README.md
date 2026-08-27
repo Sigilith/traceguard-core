@@ -1,20 +1,21 @@
-# TraceGuard Core
+# TraceGuard
 
-![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)
-![Python](https://img.shields.io/badge/python-3.8%2B-brightgreen.svg)
-![License](https://img.shields.io/badge/license-MIT-yellow.svg)
-![Status](https://img.shields.io/badge/status-stable-success.svg)
+TraceGuard is a zero-trust governance and audit framework providing:
+- Action verification
+- Ledger integrity
+- AXIOMOS risk scoring
+- Compliance reporting
+- CLI demo
 
-TraceGuard Core is an AI governance engine combining deterministic containment, behavioral drift evaluation, and tamper-evident compliance tiering.
+## Installation
+    pip install traceguard
 
----
+## Examples
+See the `examples/` directory.
 
-## Quickstart
+## Documentation
+See the `docs/` directory.
 
-Install locally:
-
-```bash
-git clone [https://github.com/Sigilith/traceguard-core.git](https://github.com/Sigilith/traceguard-core.git)
-cd traceguard-core
-pip install .
+## CLI
+    traceguard demo
 

@@ -26,7 +26,9 @@ class AsyncEvidenceLedger:
                 "payload": payload,
                 "prev_hash": self.last_hash
             }
-            entry_json = json.dumps(entry, sort_keys=True)
+            # Explicitly sort keys to bypass Termux Python 3.13 json.dumps sort_keys bug
+            sorted_entry = dict(sorted(entry.items()))
+            entry_json = json.dumps(sorted_entry)
             current_hash = await self._compute_hash(entry_json)
             
             entry["current_hash"] = current_hash
@@ -55,7 +57,8 @@ class AsyncEvidenceLedger:
                     "payload": curr["payload"],
                     "prev_hash": curr["prev_hash"]
                 }
-                recheck_json = json.dumps(recheck_entry, sort_keys=True)
+                sorted_recheck = dict(sorted(recheck_entry.items()))
+                recheck_json = json.dumps(sorted_recheck)
                 recheck_hash = hashlib.sha256(recheck_json.encode('utf-8')).hexdigest()
                 
                 if recheck_hash != curr["current_hash"]:

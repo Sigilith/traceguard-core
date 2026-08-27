@@ -26,7 +26,7 @@ class AsyncEvidenceLedger:
                 "payload": payload,
                 "prev_hash": self.last_hash
             }
-            entry_json = json.dumps(entry, sortkeys=True)
+            entry_json = json.dumps(entry, sort_keys=True)
             current_hash = await self._compute_hash(entry_json)
             
             entry["current_hash"] = current_hash
@@ -55,7 +55,7 @@ class AsyncEvidenceLedger:
                     "payload": curr["payload"],
                     "prev_hash": curr["prev_hash"]
                 }
-                recheck_json = json.dumps(recheck_entry, sortkeys=True)
+                recheck_json = json.dumps(recheck_entry, sort_keys=True)
                 recheck_hash = hashlib.sha256(recheck_json.encode('utf-8')).hexdigest()
                 
                 if recheck_hash != curr["current_hash"]:

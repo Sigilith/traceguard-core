@@ -1,5 +1,5 @@
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 from traceguard.asyncledger import AsyncEvidenceLedger
 from traceguard.aximos import AXIOMOSEvaluator
 
@@ -15,7 +15,7 @@ class ComplianceAuditGenerator:
         risk_status = self.evaluator.evaluate_logs(self.ledger.chain)
         
         packet = {
-            "audit_timestamp": datetime.utcnow().isoformat() + "Z",
+            "audit_timestamp": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
             "regulatory_framework": framework_name,
             "ledger_metrics": {
                 "total_records": len(self.ledger.chain),

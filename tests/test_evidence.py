@@ -1,20 +1,20 @@
 import pytest
-from src.evidence import EvidenceLedger
+import asyncio
+from traceguard import AsyncEvidenceLedger
 
-def test_ledger_integrity_valid():
-    ledger = EvidenceLedger()
-    ledger.append_entry({"action": "safe_query", "decision": "ALLOW"})
-    ledger.append_entry({"action": "unauthorized_exec", "decision": "BLOCK"})
-    
-    assert ledger.verify_integrity() is True
+@pytest.mark.asyncio
+async def test_ledger_integrity_valid():
+    ledger = AsyncEvidenceLedger()
+    await ledger.append_entry({"action": "test_1"})
+    await ledger.append_entry({"action": "test_2"})
+    assert await ledger.verify_integrity() is True
 
-def test_ledger_tamper_detection():
-    ledger = EvidenceLedger()
-    ledger.append_entry({"action": "safe_query", "decision": "ALLOW"})
-    ledger.append_entry({"action": "unauthorized_exec", "decision": "BLOCK"})
+@pytest.mark.asyncio
+async def test_ledger_tamper_detection():
+    ledger = AsyncEvidenceLedger()
+    await ledger.append_entry({"action": "test_1"})
+    await ledger.append_entry({"action": "test_2"})
     
-    assert ledger.verify_integrity() is True
-    
-    ledger.tamper_with_entry(0, {"action": "safe_query", "decision": "BLOCK_BYPASSED"})
-    
-    assert ledger.verify_integrity() is False
+    # Tamper with historical payload
+    ledger.chain[0]["payload"]["action"] = "tampered"
+    assert await ledger.verify_integrity() is False

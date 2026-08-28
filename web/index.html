@@ -2,170 +2,19 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TraceGuard | Assurance Matrix Calculator</title>
+    <title>TraceGuard Assurance Matrix</title>
     <style>
-        :root {
-            --bg: #0d1117;
-            --card-bg: #161b22;
-            --border: #30363d;
-            --text: #c9d1d9;
-            --accent: #58a6ff;
-            --success: #3fb950;
-            --warning: #d29922;
-            --danger: #f85149;
-        }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            background-color: var(--bg);
-            color: var(--text);
-            margin: 0;
-            padding: 20px;
-            display: flex;
-            justify-content: center;
-        }
-        .container {
-            width: 100%;
-            max-width: 600px;
-            background-color: var(--card-bg);
-            border: 1px solid var(--border);
-            border-radius: 6px;
-            padding: 24px;
-            box-sizing: border-box;
-        }
-        h1 { font-size: 1.5rem; margin-top: 0; color: #f0f6fc; }
-        .form-group {
-            margin-bottom: 16px;
-        }
-        label {
-            display: block;
-            margin-bottom: 6px;
-            font-weight: 600;
-        }
-        select, input[type="checkbox"] {
-            background-color: var(--bg);
-            color: var(--text);
-            border: 1px solid var(--border);
-            padding: 8px;
-            border-radius: 4px;
-            width: 100%;
-            box-sizing: border-box;
-        }
-        .checkbox-group {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-        .checkbox-group input {
-            width: auto;
-        }
-        button {
-            background-color: #238636;
-            color: white;
-            border: none;
-            padding: 10px 16px;
-            border-radius: 6px;
-            font-weight: 600;
-            cursor: pointer;
-            width: 100%;
-            margin-top: 10px;
-        }
-        button:hover { background-color: #2ea043; }
-        .output {
-            margin-top: 24px;
-            background-color: var(--bg);
-            border: 1px solid var(--border);
-            border-radius: 6px;
-            padding: 16px;
-        }
-        pre {
-            margin: 0;
-            white-space: pre-wrap;
-            word-wrap: break-word;
-            font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
-            font-size: 0.85rem;
-            color: var(--accent);
-        }
-        .tier-3 { color: var(--danger); font-weight: bold; }
-        .tier-2 { color: var(--warning); font-weight: bold; }
-        .tier-1 { color: var(--success); font-weight: bold; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #0d1117; color: #c9d1d9; padding: 40px; }
+        .card { background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 24px; max-width: 600px; margin: auto; }
+        h1 { color: #58a6ff; font-size: 24px; margin-top: 0; }
+        .badge { background: #238636; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; }
     </style>
 </head>
 <body>
-
-<div class="container">
-    <h1>Assurance Matrix Calculator</h1>
-    <p>Evaluate system autonomy and consequence parameters to generate compliance tiers and TraceGuard execution schemas.</p>
-
-    <div class="form-group">
-        <label for="consequence">Consequence Level (1-3):</label>
-        <select id="consequence">
-            <option value="1">1 — Low Impact / Informational</option>
-            <option value="2">2 — Moderate Impact / Operational Support</option>
-            <option value="3" selected>3 — High Impact / Critical Infrastructure</option>
-        </select>
+    <div class="card">
+        <h1>TraceGuard Assurance Matrix <span class="badge">LIVE</span></h1>
+        <p>Interactive client-side risk tier evaluation and runtime compliance telemetry for autonomous agent frameworks.</p>
+        <p><strong>Deployment Target:</strong> GitHub Pages (<code>/web</code> branch root configuration)</p>
     </div>
-
-    <div class="form-group">
-        <label for="autonomy">Autonomy Level (1-3):</label>
-        <select id="autonomy">
-            <option value="1">1 — Human-in-the-loop recommendation</option>
-            <option value="2">2 — Semi-autonomous multi-stage actions</option>
-            <option value="3" selected>3 — Fully autonomous execution</option>
-        </select>
-    </div>
-
-    <div class="form-group checkbox-group">
-        <input type="checkbox" id="oversight">
-        <label for="oversight" style="margin-bottom:0;">Enforce Technical Human Oversight Boundary</label>
-    </div>
-
-    <button onclick="calculateTier()">Calculate Compliance Tier & Schema</button>
-
-    <div class="output">
-        <strong>Generated Schema Output:</strong>
-        <pre id="result-box">Click calculate to evaluate parameters...</pre>
-    </div>
-</div>
-
-<script>
-function calculateTier() {
-    const consequence = parseInt(document.getElementById('consequence').value);
-    const autonomy = parseInt(document.getElementById('autonomy').value);
-    const oversight = document.getElementById('oversight').checked;
-
-    let score = consequence + autonomy - (oversight ? 2 : 0);
-    let tierName, tierClass;
-
-    if (score >= 4) {
-        tierName = "Tier 3 — High Impact";
-        tierClass = "tier-3";
-    } else if (score >= 2) {
-        tierName = "Tier 2 — Moderate Impact";
-        tierClass = "tier-2";
-    } else {
-        tierName = "Tier 1 — Low Impact";
-        tierClass = "tier-1";
-    }
-
-    const schema = {
-        "engine": "traceguard-core",
-        "version": "1.0.0",
-        "parameters": {
-            "consequence": consequence,
-            "autonomy": autonomy,
-            "oversight_enforced": oversight,
-            "calculated_score": score
-        },
-        "compliance_tier": tierName,
-        "enforced_rules": oversight ? ["STRICT_BLOCK", "HUMAN_APPROVAL_GATE"] : ["STRICT_BLOCK", "UNSUPERVISED_CONTAINMENT"]
-    };
-
-    document.getElementById('result-box').innerHTML = 
-        `Tier: <span class="${tierClass}">${tierName}</span>\nScore: ${score}\n\n` + 
-        JSON.stringify(schema, null, 2);
-}
-</script>
-
 </body>
 </html>

@@ -5,16 +5,45 @@
     <title>TraceGuard Assurance Matrix</title>
     <style>
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #0d1117; color: #c9d1d9; padding: 40px; }
-        .card { background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 24px; max-width: 600px; margin: auto; }
-        h1 { color: #58a6ff; font-size: 24px; margin-top: 0; }
-        .badge { background: #238636; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; }
+        .card { background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 28px; max-width: 720px; margin: auto; box-shadow: 0 8px 24px rgba(0,0,0,0.4); }
+        h1 { color: #58a6ff; font-size: 24px; margin-top: 0; display: flex; justify-content: space-between; align-items: center; }
+        p { color: #8b949e; line-height: 1.5; }
+        .metric-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 24px; }
+        .metric-box { background: #21262d; border: 1px solid #30363d; padding: 18px; border-radius: 6px; }
+        .metric-title { font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.5px; }
+        .metric-value { font-size: 18px; font-weight: 600; color: #58a6ff; margin-top: 8px; font-family: monospace; }
+        .badge { background: #238636; color: white; padding: 3px 8px; border-radius: 4px; font-size: 12px; font-weight: 600; }
+        .footer { margin-top: 24px; font-size: 12px; color: #8b949e; border-top: 1px solid #30363d; padding-top: 16px; display: flex; justify-content: space-between; }
     </style>
 </head>
 <body>
     <div class="card">
-        <h1>TraceGuard Assurance Matrix <span class="badge">LIVE</span></h1>
-        <p>Interactive client-side risk tier evaluation and runtime compliance telemetry for autonomous agent frameworks.</p>
-        <p><strong>Deployment Target:</strong> GitHub Pages (<code>/web</code> branch root configuration)</p>
+        <h1>TraceGuard Assurance Matrix <span class="badge">LIVE TELEMETRY</span></h1>
+        <p>Deterministic zero-trust boundary enforcement and cryptographic runtime logging for autonomous agent pipelines.</p>
+        
+        <div class="metric-grid">
+            <div class="metric-box">
+                <div class="metric-title">Perimeter Status</div>
+                <div class="metric-value" id="status">ACTIVE_SECURE</div>
+            </div>
+            <div class="metric-box">
+                <div class="metric-title">AXIOMOS Risk Tier</div>
+                <div class="metric-value" id="risk">NOMINAL_0X</div>
+            </div>
+            <div class="metric-box">
+                <div class="metric-title">Ledger Chain Length</div>
+                <div class="metric-value" id="chain-length">0 Genesis Blocks</div>
+            </div>
+            <div class="metric-box">
+                <div class="metric-title">Integrity Verification</div>
+                <div class="metric-value" id="integrity">VERIFIED_SHA256</div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <span>Runtime Engine: v0.1.0-alpha</span>
+            <span>Sigilith Labs Architecture</span>
+        </div>
     </div>
 </body>
 </html>

@@ -1,34 +1,28 @@
 [build-system]
-requires = ["setuptools>=61.0.0", "wheel"]
+requires = ["setuptools>=61.0.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "traceguard-core"
-version = "0.1.0"
+version = "0.1.4"
 description = "Deterministic zero-trust runtime and evidence demonstrator for autonomous AI agent pipelines."
 readme = "README.md"
 authors = [
-    { name = "Sigilith Labs", email = "sigilith@proton.me" }
+    { name = "Sigilith", email = "sigilith@github.com" }
 ]
 license = { text = "MIT" }
 classifiers = [
-    "Programming Language :: Python :: 3.11",
-    "Programming Language :: Python :: 3.12",
-    "Programming Language :: Python :: 3.13",
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
     "License :: OSI Approved :: MIT License",
-    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Topic :: Security",
+    "Topic :: Software Development :: Libraries :: Application Frameworks",
 ]
-requires-python = ">=3.11"
-dependencies = [
-    "pytest>=8.0.0",
-    "pytest-asyncio>=0.23.0",
-]
+keywords = ["zero-trust", "runtime", "ledger", "cryptographic", "audit", "axiomos"]
+requires-python = ">=3.8"
 
 [project.urls]
 Homepage = "https://github.com/Sigilith/traceguard-core"
-
-[tool.setuptools]
-package-dir = {"" = "src"}
-
-[tool.setuptools.packages.find]
-where = ["src"]
+Repository = "https://github.com/Sigilith/traceguard-core"

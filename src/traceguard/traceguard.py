@@ -1,27 +1,15 @@
-import time
-
 class TraceGuard:
-    def __init__(self, allowed_actions=None):
-        self.allowed_actions = allowed_actions or ["read_logs", "safe_query"]
-        self.audit_log = []
+    """Zero-trust runtime boundary enforcement engine for autonomous AI agents."""
+    
+    def __init__(self, allowed_actions: list[str]):
+        self.allowed_actions = set(allowed_actions)
+        self.breaches = []
 
-    def evaluate_action(self, action: str, context: dict = None) -> str:
-        timestamp = time.time()
-        context = context or {}
-        
-        if action in self.allowed_actions:
-            decision = "ALLOW"
-        else:
-            decision = "BLOCK"
-            
-        log_entry = {
-            "timestamp": timestamp,
-            "action": action,
-            "context": context,
-            "decision": decision
-        }
-        self.audit_log.append(log_entry)
-        return decision
+    def evaluate_action(self, action: str) -> str:
+        if not action or action not in self.allowed_actions:
+            self.breaches.append(action)
+            return "BLOCK"
+        return "ALLOW"
 
-    def get_logs(self):
-        return self.audit_log
+    def get_breach_count(self) -> int:
+        return len(self.breaches)

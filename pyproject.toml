@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "traceguard-core"
-version = "0.1.5"
+version = "0.1.6"
 description = "Deterministic zero-trust runtime and evidence demonstrator for autonomous AI agent pipelines."
 readme = "README.md"
 authors = [

@@ -1,0 +1,1 @@
+"""ThreeLineage TraceGuard integration boundary."""

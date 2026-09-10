@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pdf
+fresh_env/
+venv/
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+
+# Ignore Rust build artifacts
+target/
+
+# Ignore temporary Sentinel & diagnostic scripts
+*.sh
+vault_*
+system_integration_test.py
+
+# Ephemeral runtime files and queues
+sys_production.log
+staging/

@@ -1,0 +1,21 @@
+{
+  "pipeline": "ThreeLineage NASA Battery Telemetry Ingestion",
+  "timestamp_utc": "2026-09-06 17:25:06",
+  "total_files_processed": 2,
+  "records": [
+    {
+      "file": "./nasa_battery_data/metadata.csv",
+      "sha256": "ba09e9072bd485ec7d76060b49f347bc317ef9701863a74216df0c46ed63ab25",
+      "rows": 34,
+      "status": "INGESTED_VALID",
+      "timestamp": 1788715506.5850403
+    },
+    {
+      "file": "./nasa_battery_data/Battery_DataSet/Battery_DataSet/metadata.csv",
+      "sha256": "ba09e9072bd485ec7d76060b49f347bc317ef9701863a74216df0c46ed63ab25",
+      "rows": 34,
+      "status": "INGESTED_VALID",
+      "timestamp": 1788715506.58889
+    }
+  ]
+}

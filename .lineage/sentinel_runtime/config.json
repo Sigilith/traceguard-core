@@ -1,0 +1,9 @@
+{
+    "mode": "sentinel",
+    "environment": "termux",
+    "lan_agents_active": true,
+    "subsystem_status": "frozen_and_archived",
+    "runtime_path": "runtime_core/",
+    "wan_edge_relay": "66.249.64.129",
+    "mTLS_enforced": true
+}

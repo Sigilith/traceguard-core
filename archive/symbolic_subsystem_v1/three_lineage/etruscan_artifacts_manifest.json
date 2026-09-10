@@ -1,0 +1,6 @@
+{
+  "anomaly_type": "bio_mimetic_structural_drift",
+  "signature": "organic_heuristic_v1",
+  "status": "pending_axiomos_review",
+  "description": "Synthetic bio-mimetic mutation injected for runtime behavior observation."
+}

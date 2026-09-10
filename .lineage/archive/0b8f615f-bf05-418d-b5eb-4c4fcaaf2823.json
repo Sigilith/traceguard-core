@@ -1,0 +1,10 @@
+{
+    "receipt_id": "0b8f615f-bf05-418d-b5eb-4c4fcaaf2823",
+    "receipt_type": "governed_operational_action",
+    "timestamp": 1788523136,
+    "axiomos_authority": "GRANTED",
+    "runtime_governance": "CONFIRMED",
+    "operation": "INITIAL_GOVERNED_RUNTIME_TASK",
+    "status": "EXECUTED",
+    "traceguard_epoch_hash": "cdc9af94457a69829f466582c77b52a7b26ef258a54cb50143e3102497cacc50"
+}

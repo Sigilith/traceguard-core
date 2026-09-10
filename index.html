@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Three-Lineage | Sovereign Runtime Containment for Agentic AI</title>
+    <style>
+        :root {
+            --bg-color: #050505;
+            --card-bg: #0d0d0d;
+            --accent-green: #00ff66;
+            --accent-red: #ff3333;
+            --border-color: #1a1a1a;
+            --text-primary: #ffffff;
+            --text-secondary: #888888;
+            --font-mono: 'Courier New', Courier, monospace;
+            --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            font-family: var(--font-sans);
+            line-height: 1.6;
+            padding: 2rem 1rem;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        header {
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 2rem;
+            margin-bottom: 3rem;
+        }
+
+        .logo {
+            font-family: var(--font-mono);
+            font-size: 1.5rem;
+            font-weight: bold;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        .logo span {
+            color: var(--accent-green);
+        }
+
+        .tagline {
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+            margin-top: 0.5rem;
+        }
+
+        /* Terminal Display Box */
+        .terminal-container {
+            background-color: #000000;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            font-family: var(--font-mono);
+            padding: 1.5rem;
+            margin-bottom: 3rem;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.8);
+        }
+
+        .terminal-header {
+            display: flex;
+            gap: 6px;
+            margin-bottom: 1rem;
+            border-bottom: 1px solid #111;
+            padding-bottom: 0.5rem;
+        }
+
+        .dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background-color: #222;
+        }
+
+        .dot.red { background-color: var(--accent-red); }
+        .dot.yellow { background-color: #ffcc00; }
+        .dot.green { background-color: var(--accent-green); }
+
+        .terminal-body {
+            font-size: 0.9rem;
+            color: #d1d1d1;
+            white-space: pre-wrap;
+        }
+
+        .line-green { color: var(--accent-green); }
+        .line-red { color: var(--accent-red); font-weight: bold; }
+        .line-dim { color: #555; }
+
+        /* Pillars Grid */
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 1.5rem;
+            margin-bottom: 4rem;
+        }
+
+        @media (min-width: 768px) {
+            .grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        .card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 2rem;
+            transition: border-color 0.3s ease;
+        }
+
+        .card:hover {
+            border-color: #333;
+        }
+
+        .card-title {
+            font-family: var(--font-mono);
+            font-size: 1.1rem;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            margin-bottom: 0.75rem;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .card-title::before {
+            content: "[+]";
+            color: var(--accent-green);
+        }
+
+        .card-desc {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+        }
+
+        footer {
+            border-top: 1px solid var(--border-color);
+            padding-top: 2rem;
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+            font-family: var(--font-mono);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">Three<span>Lineage</span></div>
+            <div class="tagline">Sovereign Runtime Containment & Multi-Agent Governance for AI</div>
+        </header>
+
+        <div class="terminal-container">
+            <div class="terminal-header">
+                <div class="dot red"></div>
+                <div class="dot yellow"></div>
+                <div class="dot green"></div>
+            </div>
+            <div class="terminal-body"><span class="line-dim"># Initializing local-first governance kernel...</span>
+<span class="line-green">> [SIGILITH] Structural anomaly scan: OK (0.0 drift)</span>
+<span class="line-green">> [TRACEGUARD] Boundary check: ENFORCED</span>
+<span class="line-red">> [DEREK] Poison-pill payload intercepted. Cryptographic circuit-breaker triggered.</span>
+<span class="line-green">> [VAULT] Payload hashed to immutable SHA-256 staging vault.</span>
+<span class="line-red">> [AXIOMOS_PIPELINE] Drift status: UNSTABLE (0.582). Node isolated.</span></div>
+        </div>
+
+        <div class="grid">
+            <div class="card">
+                <div class="card-title">Sigilith Engine</div>
+                <div class="card-desc">Maps structural anomalies and file footprints for real-time file and state integrity verification.</div>
+            </div>
+            <div class="card">
+                <div class="card-title">TraceGuard</div>
+                <div class="card-desc">Enforces strict runtime execution boundaries preventing unauthorized agent mutations or drift.</div>
+            </div>
+            <div class="card">
+                <div class="card-title">Axiomos Risk</div>
+                <div class="card-desc">Classifies live risk metrics and calculates cumulative behavioral drift scores across pipelines.</div>
+            </div>
+            <div class="card">
+                <div class="card-title">Derek & DriftSentinel</div>
+                <div class="card-desc">Hard cryptographic circuit-breakers that halt rogue executions and maintain immutable audit vaults.</div>
+            </div>
+        </div>
+
+        <footer>
+            <p>Air-gapped • Local-First • Zero Trust Architecture</p>
+        </footer>
+    </div>
+</body>
+</html>
+

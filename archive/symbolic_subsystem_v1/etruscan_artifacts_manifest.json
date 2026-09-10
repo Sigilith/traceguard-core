@@ -1,0 +1,90 @@
+{
+  "framework": "Sigilith / Three-Lineage",
+  "author": "Ky Nash",
+  "artifacts": [
+    {
+      "name": "Liber Linteus Zagrabiensis",
+      "type": "Linen ritual manuscript",
+      "scale": "1,330 words, 12 columns/domains",
+      "architecture": "4 macro-phases, collapse nodes at [3, 6, 9, 12]",
+      "status": "Verified"
+    },
+    {
+      "name": "Tabula Capuana (Capua Tile)",
+      "type": "Terracotta ritual-calendar text",
+      "scale": "Multi-line operational text",
+      "architecture": "Periodic monthly ritual progression mapping",
+      "status": "Aligned"
+    },
+    {
+      "name": "Piacenza Liver",
+      "type": "Bronze divinatory model",
+      "scale": "External celestial/divine sector partitioning",
+      "architecture": "Macro-divisional spatial zoning",
+      "status": "Aligned"
+    },
+    {
+      "name": "Voynich Folio 77r",
+      "type": "Ritualistic healing invocation manuscript",
+      "scale": "EVA modular segmentation corpus",
+      "architecture": "Ritual refrains, procedural triads, cyclical motifs",
+      "status": "Verified"
+    },
+    {
+      "name": "Rohonc Codex",
+      "type": "Ritual-cue and mnemonic symbolic manuscript",
+      "scale": "448 pages of structural symbol corpora",
+      "architecture": "C-D-M-Q-SRT framework, high stability index",
+      "status": "Verified"
+    },
+    {
+      "name": "Beale Ciphers #1 and #3 Cross-Cipher Overlay",
+      "type": "Modular semantic decoding and emotional terrain corpus",
+      "scale": "Dual-cipher comparative structural analysis",
+      "architecture": "Symbolic roles, emotional terrain maps (fracture, silence, seal, veil)",
+      "status": "Verified"
+    },
+    {
+      "name": "Merchant Royal Overlooked Zones",
+      "type": "Wreck coordinate and emotional terrain manifest",
+      "scale": "Territorial water drift and recovery zones",
+      "architecture": "Symbolic contradictions, emotional terrain arc, Receiver of Wreck compliance",
+      "status": "Verified"
+    },
+    {
+      "name": "Palmer-Oak Island Structural Reconstruction",
+      "type": "Engineered concealment system mapping",
+      "scale": "7-step operational ancestor system vs. Money Pit features",
+      "architecture": "Collapse map of Kidd narrative, Smith-Cove flood interface alignment",
+      "status": "Verified"
+    },
+    {
+      "name": "Lancashire Treasure Zones Bundle",
+      "type": "Symbolic terrain and monument mapping",
+      "scale": "Cuerdale, Lancaster Moor, and Dolphinholme grid",
+      "architecture": "Emotional arcs, legal compliance, PAS submission guidance",
+      "status": "Verified"
+    },
+    {
+      "name": "Sigilith Core Private Framework",
+      "type": "Internal mechanical architecture and 10-lock engine",
+      "scale": "Full CDMQSRT private expansion and case study ledger",
+      "architecture": "Drift detection, entropy stabilisation, 10-lock progression",
+      "status": "Verified"
+    },
+    {
+      "name": "Cosenza Confluence Symbolic Terrain",
+      "type": "River confluence emotional and spatial terrain model",
+      "scale": "Dual-river hydrological symbolic grid (Busento & Crati)",
+      "architecture": "Rupture bend, altar confluence, veiling eddies, emergent fork",
+      "status": "Verified"
+    },
+    {
+      "name": "Rongorongo Structural Analysis",
+      "type": "Non-linguistic temporal-ritual symbolic system corpus",
+      "scale": "24 incised wooden tablets (Rapa Nui)",
+      "architecture": "CDMQSRT framework, 4-domain architecture, temporal-structural resolution",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+/data/data/com.termux/files/home/three-lineage-core/three_lineage_sidecar.py:30: DeprecationWarning: ast.Num is deprecated and will be removed in Python 3.14; use ast.Constant instead
+  ast.Num,
+[*] FSM-Governed Sidecar [derek-node-01] active on http://127.0.0.1:8443
+[+] Kernel PRCTL Sandbox Engaged: No new privileges can be acquired.
+======== Running on http://127.0.0.1:8443 ========
+(Press CTRL+C to quit)

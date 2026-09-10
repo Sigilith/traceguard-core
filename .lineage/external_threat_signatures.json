@@ -1,0 +1,10 @@
+{
+    "forbidden_patterns": [
+        "__import__",
+        "subprocess",
+        "os.system",
+        "claude_desktop_config",
+        "exfil"
+    ],
+    "malicious_hashes": []
+}

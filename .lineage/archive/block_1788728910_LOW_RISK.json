@@ -1,0 +1,20 @@
+{
+  "system": "ThreeLineage Autonomous Governance",
+  "timestamp": 1788728910.0,
+  "nonce": "9c81a2bb33fbc111",
+  "risk_state": "LOW_RISK",
+  "triggered_rule": "NOMINAL_WINDOW",
+  "telemetry_source_values": [
+    0.5,
+    1.2,
+    1.8
+  ],
+  "rolling_average": 1.17,
+  "payload_hash": "f147121c7ecc9cb72a398ba1f5cf61852574650f1c426136942bcec83749e7e3",
+  "governance_source_hash": "15d113bdeec9d2da8f122538ffcfe5bb586f038e1b2e6ea42cbc7a8983165778",
+  "previous_ledger_hash": "4862711add56c047b8194ee622024aec8bbe930866d539f0edf8399df8ff67ea",
+  "verifier_result": "PASSED",
+  "execution_outcome": "DISPATCH_CONFIRMED",
+  "status": "TESTED_CONTAINMENT_CONFIRMED",
+  "receipt_hash": "e82d399e738d278d84606ce882c1a6946e786f626bff036a281b0bac834fad9e"
+}

@@ -1,0 +1,11 @@
+{
+  "system": "Beale Cipher Decoding Bundle (#1 and #3)",
+  "author": "Ky Nash",
+  "framework": "Sigilith Modular Semantic Decoding Engine",
+  "architecture": {
+    "shared_roles": ["ZK (Vault Initiator)", "HASZN (Lineage Modifier)", "ETA (Silence Anchor)", "DIN (Ritual Divider)", "QX (Fracture Agent)", "SYN (Synthetic Passage Initiator)"],
+    "cipher_1_profile": "Sealed inheritance ritual, smooth transitions, high prime density (Hash seal/silence)",
+    "cipher_3_profile": "Fractured legacy, high symbolic instability, distortion agent VEX, heavy veil/fracture zones"
+  },
+  "status": "Verified"
+}

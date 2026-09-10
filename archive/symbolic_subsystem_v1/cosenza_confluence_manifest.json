@@ -1,0 +1,15 @@
+{
+  "system": "Cosenza Confluence Terrain (Busento and Crati Rivers)",
+  "author": "Ky Nash",
+  "framework": "Sigilith Symbolic Terrain Mapping",
+  "architecture": {
+    "coordinates": "39.2935 N, 16.2535 E",
+    "terrain_highlights": {
+      "river_bend": "Emotional rupture / Descent",
+      "confluence_zone": "Ceremonial altar / Offering",
+      "downstream_eddies": "Mythic veiling / Transformation",
+      "upstream_fork": "Legacy resurfacing / Emergence"
+    }
+  },
+  "status": "Verified"
+}

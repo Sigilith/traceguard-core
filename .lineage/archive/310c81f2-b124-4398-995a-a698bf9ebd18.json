@@ -1,0 +1,8 @@
+{
+    "receipt_id": "310c81f2-b124-4398-995a-a698bf9ebd18",
+    "receipt_type": "governed_runtime_compliance",
+    "timestamp": 1788522455,
+    "axiomos_authority": "GRANTED",
+    "traceguard_epoch_hash": "9cd7d8626d9cd911d5ff85c2ff5a3d839cc65518bbc7b22b722c1ea8064aa935",
+    "status": "COMPLIANT"
+}

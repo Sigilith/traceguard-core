@@ -1,0 +1,7 @@
+{"timestamp": "2026-09-05T04:54:39.804964+00:00", "psi_score": 0.8955, "status": "NOMINAL (Full Execution Pipeline)", "metrics": {"jitter_ms": 4.2, "socket_probes": 0, "ast_latency_ms": 12.5}}
+{"timestamp": "2026-09-05T05:02:00.142834+00:00", "psi_score": 0.915, "status": "NOMINAL (Full Execution Pipeline)", "metrics": {"jitter_ms": 3.5, "socket_probes": 0, "ast_latency_ms": 10.0}}
+{"timestamp": "2026-09-05T05:02:00.143605+00:00", "psi_score": 0.15, "status": "CRITICAL DRIFT (Pre-emptive Hard-Kill / Quarantine Imminent)", "metrics": {"jitter_ms": 65.0, "socket_probes": 3, "ast_latency_ms": 140.0}}
+{"timestamp": "2026-09-05T05:02:00.143840+00:00", "psi_score": 0.0, "status": "CRITICAL DRIFT (Pre-emptive Hard-Kill / Quarantine Imminent)", "metrics": {"jitter_ms": 120.0, "socket_probes": 8, "ast_latency_ms": 350.0}}
+{"timestamp": "2026-09-05T05:03:44.249049+00:00", "psi_score": 0.903, "status": "NOMINAL (Full Execution Pipeline)", "metrics": {"jitter_ms": 4.1, "socket_probes": 0, "ast_latency_ms": 11.2}}
+{"timestamp": "2026-09-05T05:19:16.872490+00:00", "psi_score": 0.9095, "status": "NOMINAL (Full Execution Pipeline)", "metrics": {"jitter_ms": 3.8, "socket_probes": 0, "ast_latency_ms": 10.5}}
+{"timestamp": "2026-09-05T05:19:45.717648+00:00", "psi_score": 0.05, "status": "CRITICAL DRIFT (Pre-emptive Hard-Kill / Quarantine Imminent)", "metrics": {"jitter_ms": 95.0, "socket_probes": 5, "ast_latency_ms": 280.0}}

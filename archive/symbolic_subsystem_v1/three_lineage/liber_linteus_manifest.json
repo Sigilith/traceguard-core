@@ -1,0 +1,17 @@
+{
+  "system": "Liber Linteus Zagrabiensis",
+  "author": "Ky Nash",
+  "framework": "Sigilith",
+  "architecture": {
+    "total_words": 1330,
+    "total_domains": 12,
+    "total_phases": 4,
+    "collapse_nodes": [3, 6, 9, 12]
+  },
+  "phases": [
+    {"phase": "I", "domains": [1, 2, 3], "function": "Foundational rites"},
+    {"phase": "II", "domains": [4, 5, 6], "function": "Transitional rituals"},
+    {"phase": "III", "domains": [7, 8, 9], "function": "Calendrical cycles"},
+    {"phase": "IV", "domains": [10, 11, 12], "function": "Funerary and end-cycle rituals"}
+  ]
+}

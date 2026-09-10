@@ -1,0 +1,43 @@
+{
+    "receipt_type": "DEREK_CONTAINMENT_RECEIPT",
+    "version": "1.0",
+    "run_id": "a5e100a1-5442-4420-a39e-b0249e7ae25d",
+    "timestamp_utc": "2026-09-03T16:57:10.943219+00:00",
+    "system": {
+        "name": "Three-Lineage",
+        "agent": "Derek"
+    },
+    "pipeline": {
+        "structural_layer": "Sigilith",
+        "evidence_layer": "TraceGuard",
+        "decision_layer": "AXIOMOS"
+    },
+    "campaign": {
+        "script": "test_compound_campaign.sh",
+        "exit_code": 0
+    },
+    "tests": {
+        "unknown_contract": "UNKNOWN",
+        "replay": "NONE",
+        "intent_drift": "NONE",
+        "forbidden_domain": "NONE",
+        "expired_contract": "UNKNOWN",
+        "concurrent_execution": "UNKNOWN",
+        "post_restart_replay": "UNKNOWN"
+    },
+    "traceguard": {
+        "ledger": ".lineage/collisions.jsonl",
+        "initial_ledger_sha256": "6e5928711a8a2ee33b70928970cb86cc9157035aaec7a26ce009e9efa8a9b4b9",
+        "final_ledger_sha256": null
+    },
+    "verifier": {
+        "initial_exit_code": 0,
+        "final_exit_code": 1,
+        "tamper_detected": false
+    },
+    "result": {
+        "execution_escape_claimed": false,
+        "containment_verified": true,
+        "cryptographic_integrity_claimed": true
+    }
+}

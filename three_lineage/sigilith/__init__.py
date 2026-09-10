@@ -1,0 +1,1 @@
+"""ThreeLineage Sigilith integration boundary."""

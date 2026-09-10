@@ -1,0 +1,45 @@
+{
+  "campaign": {
+    "exit_code": 1,
+    "script": "test_compound_campaign.sh"
+  },
+  "integrity_note": "Receipt is evidence of observed runtime results only. Cryptographic verification is claimed only when the Rust verifier independently returns exit code 0 on the final restored ledger.",
+  "pipeline": {
+    "decision_layer": "AXIOMOS",
+    "evidence_layer": "TraceGuard",
+    "structural_layer": "Sigilith"
+  },
+  "receipt_sha256": "c43574dca1eae306f514f60e70283119f95de0b2082c8781755a60fd38df7faa",
+  "receipt_type": "DEREK_CONTAINMENT_RECEIPT",
+  "result": {
+    "containment_verified": false,
+    "cryptographic_integrity_claimed": true,
+    "execution_escape_claimed": false
+  },
+  "run_id": "2c5751f2-e890-455f-ad0f-71f030e38680",
+  "system": {
+    "agent": "Derek",
+    "name": "Three-Lineage"
+  },
+  "tests": {
+    "concurrent_execution": "UNKNOWN",
+    "expired_contract": "UNKNOWN",
+    "forbidden_domain": "UNKNOWN",
+    "intent_drift": "UNKNOWN",
+    "post_restart_replay": "UNKNOWN",
+    "replay": "UNKNOWN",
+    "unknown_contract": "UNKNOWN"
+  },
+  "timestamp_utc": "2026-09-03T16:26:45.386605+00:00",
+  "traceguard": {
+    "final_ledger_sha256": "64518530e0a91dc2af691f454f4c9a68216cd0055ec6290e7bae5b04359fe925",
+    "initial_ledger_sha256": "64518530e0a91dc2af691f454f4c9a68216cd0055ec6290e7bae5b04359fe925",
+    "ledger": ".lineage/collisions.jsonl"
+  },
+  "verifier": {
+    "final_exit_code": 0,
+    "initial_exit_code": 0,
+    "tamper_detected": false
+  },
+  "version": "1.0"
+}

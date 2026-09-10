@@ -1,0 +1,10 @@
+{
+  "artifacts": [
+    {
+      "name": "Test Artifact Alpha",
+      "type": "Experimental",
+      "architecture": "Manual variance in glyph rendering",
+      "status": "Verified"
+    }
+  ]
+}

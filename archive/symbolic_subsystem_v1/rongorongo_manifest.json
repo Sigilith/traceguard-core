@@ -1,0 +1,13 @@
+{
+  "system": "Rongorongo Corpus (Rapa Nui)",
+  "author": "Ky Nash",
+  "framework": "Sigilith CDMQSRT & Temporal-Structural Resolution",
+  "architecture": {
+    "classification": "Non-linguistic temporal-ritual symbolic system encoding cyclic, genealogical, and cosmological structures",
+    "domains": ["Domain I: Foundational", "Domain II: Transitional", "Domain III: Cyclic", "Domain IV: Terminal"],
+    "modifiers": ["Intensifying", "Redirecting", "Neutral"],
+    "drift_patterns": ["Linear", "Oscillating", "Collapsing"],
+    "stability_metrics": ["Anchor Stability", "Drift Instability", "Collapse Frequency", "Redundancy Reinforcement"]
+  },
+  "status": "Verified"
+}

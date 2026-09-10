@@ -1,0 +1,13 @@
+{
+  "system": "Voynich Manuscript - Folio 77r",
+  "author": "Ky Nash",
+  "framework": "Sigilith EVA Segmentation",
+  "architecture": {
+    "dialect_scope": "Single Currier-A / Currier-B (Isolated)",
+    "segmentation": "Prefix-Root-Suffix modular breakdown",
+    "core_refrain": "qokeedy ('to prepare healing')",
+    "procedural_triad": ["chedy", "shedy", "dain"],
+    "metaphysical_markers": ["shol", "otol"]
+  },
+  "status": "Verified"
+}

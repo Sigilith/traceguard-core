@@ -1,0 +1,1 @@
+{"timestamp": "2026-09-05T04:46:54.051322+00:00", "event_type": "UNAUTHORIZED_SOCKET_PROBE", "details": "Blocked external egress attempt on port 443.", "severity": "CRITICAL"}

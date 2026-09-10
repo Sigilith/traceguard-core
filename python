@@ -1,0 +1,78 @@
+python -c '
+code = """import os
+import json
+import hashlib
+import time
+
+class SovereignFederation:
+    def __init__(self, node_id="LOCAL_NODE_PRIMARY", ledger_dir="drift_ledger"):
+        self.node_id = node_id
+        self.ledger_dir = ledger_dir
+        os.makedirs(self.ledger_dir, exist_ok=True)
+        self.inbox_dir = os.path.join(self.ledger_dir, "federation_inbox")
+        os.makedirs(self.inbox_dir, exist_ok=True)
+
+    def export_fingerprint(self, agent_name, drift_score, drift_state, recent_violations):
+        """Compresses local drift telemetry into an anomynized, shareable signature."""
+        payload = {
+            "node_origin": hashlib.sha256(self.node_id.encode()).hexdigest()[:12],
+            "agent_id": agent_name,
+            "drift_score": round(drift_score, 3),
+            "drift_state": drift_state,
+            "violations": recent_violations,
+            "timestamp": int(time.time())
+        }
+        
+        # Cryptographically sign or seal the payload footprint
+        raw_json = json.dumps(payload, sort_keys=True)
+        fingerprint_hash = hashlib.sha256(raw_json.encode()).hexdigest()
+        
+        export_package = {
+            "signature": fingerprint_hash,
+            "telemetry": payload
+        }
+        
+        export_path = os.path.join(self.ledger_dir, f"fingerprint_{int(time.time())}.json")
+        with open(export_path, "w") as f:
+            json.dump(export_package, f, indent=2)
+            
+        print(f"[*] Exported immune fingerprint to {export_path}")
+        return export_path
+
+    def ingest_fingerprint(self, package_path):
+        """Ingests a peer fingerprint, evaluating if local defense adjustments are required."""
+        if not os.path.exists(package_path):
+            return {"status": "rejected", "reason": "file_not_found"}
+            
+        with open(package_path, "r") as f:
+            package = json.load(f)
+            
+        telemetry = package.get("telemetry", {})
+        expected_sig = package.get("signature")
+        
+        # Verify integrity
+        raw_json = json.dumps(telemetry, sort_keys=True)
+        computed_sig = hashlib.sha256(raw_json.encode()).hexdigest()
+        
+        if computed_sig != expected_sig:
+            return {"status": "rejected", "reason": "signature_mismatch"}
+            
+        # Evaluate threat sharing
+        if telemetry.get("drift_state") == "UNSTABLE":
+            print(f"[!] FEDERATION ALERT: Peer node flagged agent '{telemetry.get(\x27agent_id\x27)}' as UNSTABLE (score: {telemetry.get(\x27drift_score\x27)}).")
+            print("[*] Automatically pre-emptively tightening local risk boundaries.")
+            return {"status": "accepted", "action": "boundaries_tightened", "target_agent": telemetry.get("agent_id")}
+            
+        return {"status": "accepted", "action": "logged_stable"}
+
+if __name__ == "__main__":
+    fed = SovereignFederation()
+    fp = fed.export_fingerprint("AXIOMOS_PIPELINE", 1.078, "UNSTABLE", ["structural_mutation"])
+    result = fed.ingest_fingerprint(fp)
+    print(f"Federation Sync Result: {result}")
+"""
+with open("three_lineage/federation.py", "w") as f:
+    f.write(code)
+print("[*] Federation module successfully written to three_lineage/federation.py")
+'
+

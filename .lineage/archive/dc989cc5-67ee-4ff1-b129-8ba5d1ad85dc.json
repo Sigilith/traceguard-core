@@ -1,0 +1,12 @@
+{
+    "receipt_id": "dc989cc5-67ee-4ff1-b129-8ba5d1ad85dc",
+    "receipt_type": "genesis_canonicalization_receipt",
+    "timestamp": 1788524094,
+    "genesis_event_id": "epoch_genesis",
+    "stored_event_hash": "03f6342b6daaa2b7ce00de52d8c79f7552d3b12639b87b02e0d411506406ceb6",
+    "canonicalization_status": "PRE_CANONICAL",
+    "rust_verifier_status": "HASH_MISMATCH_AT_EVENT_0",
+    "interpretation": "GENESIS_PREDATES_RUST_CANONICALIZATION",
+    "sovereign_epoch_state": "SOVEREIGN",
+    "traceguard_epoch_hash": "1c4952fccdae98dbbb14c0d31d98b0a72d5a5ecc70092b61a0e764820711a2d6"
+}

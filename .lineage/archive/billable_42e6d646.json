@@ -1,0 +1,24 @@
+{
+  "receipt_id": "42e6d6461c754d5f836290dd114cbcaf",
+  "tenant": {
+    "client_id": "nexus_labs",
+    "tier": "enterprise_tier"
+  },
+  "telemetry": {
+    "node": "derek_node_alpha",
+    "status": "autonomous_solve",
+    "cost_gbp": 7.5
+  },
+  "payment_action": {
+    "provider": "paypal",
+    "url": "https://www.paypal.me/Kynash1/7.50GBP",
+    "recipient": "Biscoff063104@gmail.com"
+  },
+  "source_task": {
+    "client_id": "nexus_labs",
+    "client_email": "Biscoff063104@gmail.com",
+    "tier": "enterprise_tier",
+    "amount": 7.5,
+    "payload": "run_symbolic_cipher_solve"
+  }
+}

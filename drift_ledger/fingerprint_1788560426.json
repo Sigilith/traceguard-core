@@ -1,0 +1,13 @@
+{
+  "signature": "db941d90073a5a51e1e81b9178979a6fa4931d4f94aa863ee7ffc0d2aa919482",
+  "telemetry": {
+    "node_origin": "b29593149e7b",
+    "agent_id": "AXIOMOS_PIPELINE",
+    "drift_score": 1.078,
+    "drift_state": "UNSTABLE",
+    "violations": [
+      "structural_mutation"
+    ],
+    "timestamp": 1788560426
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "system": "ThreeLineage Autonomous Governance",
+  "block_index": 4,
+  "timestamp": 1788839556.3823788,
+  "nonce": "delta_04",
+  "risk_state": "LOW_RISK",
+  "telemetry_source_values": [
+    0.5,
+    0.9,
+    1.1
+  ],
+  "ewma_score": 0.74,
+  "previous_ledger_hash": "8009f2f7f1f7376b7415aa597b6556a8e168033df139ba798869053ba785dc51",
+  "execution_outcome": "DISPATCH_CONFIRMED",
+  "receipt_hash": "d82890fca173f5187434939024053ecdbeedd9a7402027ee384d10dee1ca24c4"
+}

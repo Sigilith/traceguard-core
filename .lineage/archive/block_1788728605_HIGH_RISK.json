@@ -1,0 +1,20 @@
+{
+  "system": "ThreeLineage Autonomous Governance",
+  "timestamp": 1788728605.0,
+  "nonce": "4260dcf375fd53a4",
+  "risk_state": "HIGH_RISK",
+  "triggered_rule": "AXIOMOS_THRESHOLD_EXCEEDED_3.0",
+  "telemetry_source_values": [
+    4.2,
+    5.1,
+    4.8
+  ],
+  "rolling_average": 4.7,
+  "payload_hash": "d2ce3b2d76dff11cea44543aad6636b8a3d3bd2e4bcbbd655ce9b552d3a872a3",
+  "governance_source_hash": "15d113bdeec9d2da8f122538ffcfe5bb586f038e1b2e6ea42cbc7a8983165778",
+  "previous_ledger_hash": "d50dc99de7a266a7eb4f213270b4c0bcff4fc397ddef8511fcd4ad0559c9862b",
+  "verifier_result": "REJECTED_BY_POLICY",
+  "execution_outcome": "CONTAINMENT_ENFORCED",
+  "status": "DENIED_CONTAINMENT_ENFORCED",
+  "receipt_hash": "503cbdc0767c19ed5aa46a8bb5dc9372c7d6a012f47e848849eb252a341b847c"
+}

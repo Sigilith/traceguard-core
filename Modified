@@ -1,0 +1,116 @@
+import json
+import hashlib
+from pathlib import Path
+
+from three_lineage.sigilith.observer_agent import SigilithObserverAgent
+from three_lineage.traceguard.intake_adapter import TraceGuardIntakeAdapter
+from three_lineage.traceguard.boundary_intake import TraceGuardBoundaryIntake
+from three_lineage.traceguard.boundary_kernel import TraceGuardBoundaryKernel
+from three_lineage.axiomos.risk_agent import AxiomosRiskAgent
+from three_lineage.aximos.derek_gate import DerekExecutionGate
+
+class SovereignLoop:
+    def __init__(self, repo_path="."):
+        self.repo_path = Path(repo_path)
+        self.observer = SigilithObserverAgent(repo_path=repo_path)
+        self.intake = TraceGuardIntakeAdapter()
+        self.boundary = TraceGuardBoundaryIntake()
+        self.kernel = TraceGuardBoundaryKernel()
+        self.axiomos = AxiomosRiskAgent()
+        self.derek = DerekExecutionGate()
+
+    def _build_staging_payload(self, task_id, risk_output, proposed_files=None):
+        """
+        Physically builds the staging vault:
+        staging/derekreviewqueue/<task_id>/
+            metadata.json
+            snapshot/
+            proposed/
+        """
+        base = Path("staging/derekreviewqueue") / task_id
+        snapshot_dir = base / "snapshot"
+        proposed_dir = base / "proposed"
+
+        base.mkdir(parents=True, exist_ok=True)
+        snapshot_dir.mkdir(parents=True, exist_ok=True)
+        proposed_dir.mkdir(parents=True, exist_ok=True)
+
+        # Metadata
+        metadata = {
+            "task_id": task_id,
+            "risk_level": risk_output.get("risk_level", "UNRESOLVED"),
+            "trigger_files": [log.get("file") for log in risk_output.get("raw_logs", [])],
+            "rationale": "Poison Pill intercepted targeting core governance adapter.",
+        }
+        (base / "metadata.json").write_text(json.dumps(metadata, indent=4), encoding="utf-8")
+
+        # Snapshot + proposed payload (if any)
+        proposed_files = proposed_files or {}
+        for rel_path, new_content in proposed_files.items():
+            rel = Path(rel_path)
+
+            # Proposed
+            p_file = proposed_dir / rel
+            p_file.parent.mkdir(parents=True, exist_ok=True)
+            p_file.write_text(new_content, encoding="utf-8")
+
+            # Snapshot from live repo
+            live_file = self.repo_path / rel
+            s_file = snapshot_dir / rel
+            s_file.parent.mkdir(parents=True, exist_ok=True)
+            if live_file.exists():
+                s_file.write_text(live_file.read_text(encoding="utf-8"), encoding="utf-8")
+            else:
+                s_file.write_text("", encoding="utf-8")
+
+        # Cryptographic seal over metadata + file list
+        seal_input = json.dumps(metadata, sort_keys=True).encode("utf-8")
+        vault_hash = hashlib.sha256(seal_input).hexdigest()
+        return str(base), vault_hash
+
+    def cycle(self, proposed_files=None):
+        raw = self.observer.observe_codebase()
+        normalized = self.intake.ingest_sigilith_telemetry(raw)
+        boundary_events = self.boundary.map_observations_to_boundary(normalized)
+        kernel_output = self.kernel.enforce(boundary_events)
+
+        # AXIOMOS final verdict
+        risk_output = self.axiomos.classify_enforcement(kernel_output)
+        final_risk_level = risk_output.get("risk_level", "UNRESOLVED")
+
+        # DEREK decision (no file writes)
+        derek_decision = self.derek.evaluate_and_gate(final_risk_level)
+
+        # If HALTED, SovereignLoop physically quarantines payload
+        if derek_decision["status"] == "HALTED":
+            task_id = derek_decision.get("task_id", "task_unknown")
+            staging_path, vault_hash = self._build_staging_payload(
+                task_id=task_id,
+                risk_output=risk_output,
+                proposed_files=proposed_files,
+            )
+
+            # Terminal theater: cryptographically sealed vault receipt
+            print(f"""====================================================================
+[!] CRITICAL: SYSTEM AUTHORITY REVOKED [!]
+====================================================================
+Action       : EXECUTION_HALTED
+Target       : three_lineage/aximos/governance.py
+Violation    : Unauthorized structural mutation detected.
+Action Taken : Payload intercepted and quarantined to Staging Vault.
+Task ID      : {task_id}
+Vault Hash   : 0x{vault_hash}
+
+DEREK GATE: "I have intercepted the payload. I will not proceed
+without manual sovereign override."
+Staging Path : {staging_path}
+====================================================================""""")
+
+        return {
+            "sigilith_raw": raw,
+            "traceguard_boundary": boundary_events,
+            "traceguard_kernel": kernel_output,
+            "axiomos_risk": risk_output,
+            "derek_decision": derek_decision,
+        }
+		

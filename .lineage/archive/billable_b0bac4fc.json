@@ -1,0 +1,12 @@
+{
+  "receipt_id": "b0bac4fc43ec4bcaab23837cf493a489",
+  "tenant": {
+    "client_id": "acme_corp_01",
+    "tier": "enterprise_tier"
+  },
+  "telemetry": {
+    "node": "derek_node_alpha",
+    "status": "invoiced",
+    "cost_gbp": 5.0
+  }
+}

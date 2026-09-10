@@ -1,0 +1,10 @@
+{
+    "genesis_event": "VALID",
+    "continuity_event": "VALID",
+    "policy_handshake": "VALID",
+    "manifest_state": "VALID",
+    "sensitive_artifacts": [
+        ".lineage/processed_work/task_01.json"
+    ],
+    "authorization": "GRANTED"
+}

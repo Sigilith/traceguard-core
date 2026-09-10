@@ -1,0 +1,21 @@
+{
+  "derek-node-01": {
+    "role": "Lead Analytical Agent",
+    "permitted_transitions": [
+      "select_data",
+      "execute_analysis",
+      "finalize_reporting",
+      "terminate"
+    ],
+    "max_ast_depth": 5
+  },
+  "validator-node-02": {
+    "role": "Compliance Auditor",
+    "permitted_transitions": [
+      "select_data",
+      "finalize_reporting",
+      "terminate"
+    ],
+    "max_ast_depth": 3
+  }
+}

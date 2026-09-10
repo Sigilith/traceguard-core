@@ -1,0 +1,16 @@
+{
+  "system": "ThreeLineage Autonomous Governance",
+  "block_index": 1,
+  "timestamp": 1788839160.400412,
+  "nonce": "alpha_01",
+  "risk_state": "LOW_RISK",
+  "telemetry_source_values": [
+    0.4,
+    1.0,
+    1.5
+  ],
+  "ewma_score": 0.8,
+  "previous_ledger_hash": "GENESIS_BLOCK",
+  "execution_outcome": "DISPATCH_CONFIRMED",
+  "receipt_hash": "66dad31dd982cd68a0681f2ed264bdf9958ee493928fdda8bcab699b12f803c0"
+}

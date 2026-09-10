@@ -1,0 +1,21 @@
+{
+  "system": "ThreeLineage Autonomous Governance",
+  "block_index": 3,
+  "timestamp": 1788734650.4990995,
+  "nonce": "secure_nonce_03",
+  "risk_state": "LOW_RISK",
+  "triggered_rule": "NOMINAL_EWMA_WINDOW",
+  "telemetry_source_values": [
+    0.9,
+    1.2,
+    1.3
+  ],
+  "ewma_score": 1.07,
+  "payload_hash": "c97387223623b5b94a9cd5d0f824d25f3b3a71807f7ff82684bf90c2ad834d2e",
+  "governance_source_hash": "e8e640f1fb9d3853ca73e2438164b95cdce9a05fe0290560fc40a3d62bf70c3c",
+  "previous_ledger_hash": "cc4937df1f4fc4354b25005e4e5d76ca6ecd1cb57cd33d080736fe4ac7046628",
+  "verifier_result": "PASSED",
+  "execution_outcome": "DISPATCH_CONFIRMED",
+  "status": "TESTED_CONTAINMENT_CONFIRMED",
+  "receipt_hash": "ab1b47bb2164c2f8c1ce96b99ef0180b37dc6bbd1632cabbc9943b437eac75c8"
+}

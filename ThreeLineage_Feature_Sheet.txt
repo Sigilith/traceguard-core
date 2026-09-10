@@ -1,0 +1,16 @@
+
+THREE-LINEAGE: AUTONOMOUS GOVERNANCE & RUNTIME IMMUTABILITY
+============================================================
+High-assurance deterministic safety layers for UK enterprise pipelines.
+
+CORE MODULES:
+- TraceGuard: OS-level immutability & tamper-proof file locking.
+- AXIOMOS: Sliding-window risk telemetry & automated fail-closed containment.
+- Derek: Cryptographic execution gate preventing unauthorized agent dispatch.
+
+WHY THREE-LINEAGE?
+- Zero reliance on prompt alignment or internal agent cognition.
+- Instantaneous fail-closed enforcement on security boundary breaches.
+- Complete cryptographic audit provenance (.lineage/derek_receipts/).
+
+Contact: Ky Nash (kynash1@outlook.com) | Blackpool, UK

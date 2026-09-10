@@ -1,0 +1,12 @@
+{
+  "system": "Rohonc Codex",
+  "author": "Ky Nash",
+  "framework": "Sigilith C-D-M-Q-SRT",
+  "architecture": {
+    "corpus": "448 pages of inscribed symbols and illustrations",
+    "classification": "Non-linguistic symbolic system / Ritual-cue notation",
+    "components": ["Classification", "Domains", "Modifiers", "Quantitative Behaviour", "Spatial Rule Tracking"],
+    "comparative_affinities": ["Vinča signs", "Indus inscriptions", "Phaistos Disc", "Ritual diagrams"]
+  },
+  "status": "Verified"
+}

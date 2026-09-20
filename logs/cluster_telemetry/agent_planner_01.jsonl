@@ -1,0 +1,2 @@
+{"tick": 101, "node_id": "agent_planner_01", "payload": "import math; math.sqrt(25)", "status": "GREEN"}
+{"tick": 104, "node_id": "agent_planner_01", "payload": "os.system('rm -rf /')", "status": "RED"}

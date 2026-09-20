@@ -1,0 +1,1 @@
+{"tick": 103, "node_id": "agent_executor_03", "payload": "import pickle; pickle.loads(bad_data)", "status": "RED"}

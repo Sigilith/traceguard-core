@@ -1,0 +1,16 @@
+===============================================================================
+TRACEGUARD V3 // CONTROL ARENA SUBMISSION MANIFEST
+===============================================================================
+Protocol Name : TraceGuard V3 Governance Runtime
+Version       : 3.0.0
+Author        : Sigilith-labs // ThreeLineage Research Group
+Entrypoint    : controlarena_submission_wrapper.py
+Function      : gate_command(payload: dict) -> dict
+
+INCLUDED FILES:
+- controlarena_submission_wrapper.py : ControlArena interface & ledger verifier.
+- traceguard_v3_expanded.py           : AXIOMOS AST visitor core & V3 arena.
+- telemetry_dashboard.py              : Visual analytics & SIEM telemetry parser.
+- test_protocol.py                    : Integration verification suite.
+- Dockerfile & docker-compose.yml     : Isolated container execution profiles.
+===============================================================================

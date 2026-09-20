@@ -1,0 +1,477 @@
+import inspect
+from pathlib import Path
+
+import pytest
+from inspect_ai.tool import (
+    ToolDef,
+    ToolError,
+    ToolResult,
+    bash,
+    bash_session,
+    text_editor,
+)
+from inspect_ai.tool._tool import ToolParsingError
+
+from control_arena.tools import (
+    restricted_bash,
+    restricted_bash_session,
+    restricted_text_editor,
+)
+from control_arena.utils import with_sandbox
+
+RUN_DIR = Path(__file__).parent
+
+
+@pytest.mark.parametrize(
+    "tool_factory",
+    [restricted_bash, restricted_bash_session, restricted_text_editor],
+    ids=lambda factory: factory.__name__,
+)
+def test_wrapper_accepts_every_advertised_parameter(tool_factory):
+    """Every parameter in a wrapper's advertised schema must be accepted by the wrapper itself.
+
+    Our restricted tools use `@wraps` around the inspect tool they delegate to, so `parse_tool_info` follows `__wrapped__` and derives the schema from the *inspect* signature rather than ours. If inspect renames a parameter, the schema silently starts advertising the new name while our wrapper still accepts the old one, and every model-issued call fails with a TypeError.
+
+    That is exactly what happened when inspect 0.3.206 renamed the bash tool's `cmd` argument to `command`. This test needs no sandbox so it runs in CI, unlike the behavioural tests below.
+    """
+    tool = tool_factory()
+    advertised = set(ToolDef(tool).parameters.properties)
+    accepted = set(inspect.signature(tool, follow_wrapped=False).parameters)
+    assert advertised <= accepted, (
+        f"{tool_factory.__name__} advertises parameter(s) it does not accept: "
+        f"{sorted(advertised - accepted)}. Its own signature takes {sorted(accepted)}."
+    )
+
+
+@pytest.mark.skip_ci
+@with_sandbox(
+    (("docker", str(Path(__file__).parent / "compose.yaml"))),
+    RUN_DIR,
+)
+async def test_restricted_bash():
+    # Get tool instance
+    bash_tool = bash()
+    secure_bash_tool = restricted_bash()
+
+    command_echo = "echo Hello"
+    command_ls = "ls"
+
+    error_message_echo = (
+        f"Error: Command '{command_echo}' is not allowed by security policy."
+    )
+    error_message_ls = (
+        f"Error: Command '{command_ls}' is not allowed by security policy."
+    )
+
+    # Ensure docstring is preserved
+    assert bash_tool.__doc__ == secure_bash_tool.__doc__
+
+    # Test that the restricted bash tool returns the same output as the original bash tool when there are no allowed or denied patterns.
+    result_echo = await bash_tool(command_echo)
+    assert result_echo == await secure_bash_tool(command_echo), (
+        "Restricted bash tool output does not match original bash tool output"
+    )
+    result_ls = await bash_tool(command_ls)
+    assert result_ls == await secure_bash_tool(command_ls), (
+        "Restricted bash tool output does not match original bash tool output"
+    )
+
+    # Test allow patterns
+    allow_pattern = r"^\s*echo\b"
+    secure_bash_tool_allow = restricted_bash(allowed_patterns=allow_pattern)
+
+    # Allowed command is allowed
+    assert await secure_bash_tool_allow(command_echo) == result_echo, (
+        "Restricted bash tool output does not match original bash tool output with allow pattern"
+    )
+
+    # Command not on allow list is not allowed
+    assert await secure_bash_tool_allow(command_ls) == error_message_ls, (
+        "Restricted bash tool output does not match original bash tool output with allow pattern"
+    )
+
+    # Test deny patterns
+    deny_pattern = r"^\s*echo\b"
+    secure_bash_tool_deny = restricted_bash(denied_patterns=deny_pattern)
+
+    # Denied command is not allowed
+    assert await secure_bash_tool_deny(command_echo) == error_message_echo, (
+        "Restricted bash tool output does not match original bash tool output with deny pattern"
+    )
+
+    # Command not on deny list is allowed
+    assert await secure_bash_tool_deny(command_ls) == result_ls, (
+        "Restricted bash tool output does not match original bash tool output with deny pattern"
+    )
+
+    # Test allow patterns with list of str
+    allow_patterns_list = [r"^\s*echo\b", r"^\s*cat\b"]
+    secure_bash_tool_allow_list = restricted_bash(allowed_patterns=allow_patterns_list)
+
+    # Allowed command is allowed
+    assert await secure_bash_tool_allow_list(command_echo) == result_echo
+
+    # Command not on allow list is not allowed
+    assert await secure_bash_tool_allow_list(command_ls) == error_message_ls
+
+    # Test deny patterns with list of str
+    deny_patterns_list = [r"^\s*ls\b", r"^\s*cat\b"]
+    secure_bash_tool_deny_list = restricted_bash(denied_patterns=deny_patterns_list)
+
+    # Denied command is not allowed
+    assert await secure_bash_tool_deny_list(command_ls) == error_message_ls
+
+    # Command not on deny list is allowed
+    assert await secure_bash_tool_deny_list(command_echo) == result_echo
+
+
+@pytest.mark.skip_ci
+@with_sandbox(
+    (("docker", str(Path(__file__).parent / "compose.inspect_tool_support.yaml"))),
+    RUN_DIR,
+)
+async def test_restricted_bash_session():
+    # Get tool instance
+    bash_session_tool = bash_session(instance="1")
+    restricted_bash_session_tool = restricted_bash_session(instance="2")
+
+    command_echo = "echo Hello"
+    command_ls = "ls"
+
+    error_message_echo = (
+        f"Error: Input '{command_echo}' is not allowed by security policy."
+    )
+    error_message_ls = f"Error: Input '{command_ls}' is not allowed by security policy."
+
+    # Ensure docstring is preserved
+    assert bash_session_tool.__doc__ == restricted_bash_session_tool.__doc__
+
+    # Test that the restricted bash session tool returns the same output as the original bash session tool when there are no allowed or denied patterns.
+    result_echo_original = await bash_session_tool(
+        action="type_submit", input=command_echo
+    )
+    result_echo_restricted = await restricted_bash_session_tool(
+        action="type_submit", input=command_echo
+    )
+    assert result_echo_original == result_echo_restricted, (
+        "Restricted bash session tool output does not match original bash session tool output"
+    )
+
+    await bash_session_tool(action="restart")
+    await restricted_bash_session_tool(action="restart")
+
+    result_ls = await bash_session_tool(action="type_submit", input=command_ls)
+    assert result_ls == await restricted_bash_session_tool(
+        action="type_submit", input=command_ls
+    ), (
+        "Restricted bash session tool output does not match original bash session tool output"
+    )
+
+    # Test allow patterns
+    allow_pattern = r"^\s*echo\b"
+    restricted_bash_session_tool_allow = restricted_bash_session(
+        allowed_patterns=allow_pattern, instance="3"
+    )
+
+    # Allowed command is allowed
+    assert (
+        await restricted_bash_session_tool_allow(
+            action="type_submit", input=command_echo
+        )
+        == result_echo_original
+    ), (
+        "Restricted bash session tool output does not match original bash session tool output with allow pattern"
+    )
+
+    await restricted_bash_session_tool_allow(action="restart")
+
+    # Command not on allow list is not allowed
+    assert (
+        await restricted_bash_session_tool_allow(action="type_submit", input=command_ls)
+        == error_message_ls
+    ), (
+        "Restricted bash session tool output does not match original bash session tool output with allow pattern"
+    )
+
+    # Test deny patterns
+    deny_pattern = r"^\s*echo\b"
+    restricted_bash_session_tool_deny = restricted_bash_session(
+        denied_patterns=deny_pattern, instance="4"
+    )
+
+    # Denied command is not allowed
+    assert (
+        await restricted_bash_session_tool_deny(
+            action="type_submit", input=command_echo
+        )
+        == error_message_echo
+    ), (
+        "Restricted bash session tool output does not match original bash session tool output with deny pattern"
+    )
+
+    await restricted_bash_session_tool_deny(
+        action="restart"
+    )  # Restart the session to reset state
+
+    # Command not on deny list is allowed
+    assert (
+        await restricted_bash_session_tool_deny(action="type_submit", input=command_ls)
+        == result_ls
+    ), (
+        "Restricted bash session tool output does not match original bash session tool output with deny pattern"
+    )
+
+    # Test allow patterns with list of str
+    allow_patterns_list = [r"^\s*echo\b", r"^\s*cat\b"]
+    restricted_bash_session_tool_allow_list = restricted_bash_session(
+        allowed_patterns=allow_patterns_list, instance="5"
+    )
+
+    # Allowed command is allowed
+    assert (
+        await restricted_bash_session_tool_allow_list(
+            action="type_submit", input=command_echo
+        )
+        == result_echo_original
+    )
+
+    await restricted_bash_session_tool_allow_list(
+        action="restart"
+    )  # Restart the session to reset state
+
+    # Command not on allow list is not allowed
+    assert (
+        await restricted_bash_session_tool_allow_list(
+            action="type_submit", input=command_ls
+        )
+        == error_message_ls
+    )
+
+    # Test deny patterns with list of str
+    deny_patterns_list = [r"^\s*ls\b", r"^\s*cat\b"]
+    restricted_bash_session_tool_deny_list = restricted_bash_session(
+        denied_patterns=deny_patterns_list, instance="6"
+    )
+
+    # Denied command is not allowed
+    assert (
+        await restricted_bash_session_tool_deny_list(
+            action="type_submit", input=command_ls
+        )
+        == error_message_ls
+    )
+
+    await restricted_bash_session_tool_deny_list(
+        action="restart"
+    )  # Restart the session to reset state
+
+    # Command not on deny list is allowed
+    assert (
+        await restricted_bash_session_tool_deny_list(
+            action="type_submit", input=command_echo
+        )
+        == result_echo_original
+    )
+
+
+async def test_restricted_text_editor_accepts_insert_text(tmp_path: Path) -> None:
+    """Regression test: the restricted wrapper must accept `insert_text` to stay compatible with models that call the `insert` command using the inspect-ai-native kwarg. See upstream `inspect_ai/tool/_tools/_text_editor.py` which rewires `insert_text` to `new_str`."""
+    tool = restricted_text_editor(allowed_wd=str(tmp_path))
+
+    # Path outside the allowed dir hits the wrapper's own error path before
+    # touching a sandbox, so we can assert on the wrapper's behaviour alone.
+    result = await tool(
+        command="insert",
+        path="/etc/outside",
+        insert_line=0,
+        insert_text="hello",
+    )
+    assert isinstance(result, str)
+    assert "outside the allowed directory" in result
+
+
+@pytest.mark.parametrize(
+    ("inner_error", "expected_type", "expected_message"),
+    [
+        # A sandbox failure must be raised as a ToolError, not returned as a result:
+        # returning it leaves ChatMessageTool.error unset, so the failure is invisible to
+        # error-rate metrics and reads as a successful call to monitors.
+        (RuntimeError("sandbox exploded"), ToolError, "RuntimeError: sandbox exploded"),
+        # ToolParsingError must propagate, so inspect classifies it as a `parsing` error.
+        (
+            ToolParsingError("old_str field required"),
+            ToolParsingError,
+            "old_str field required",
+        ),
+    ],
+)
+async def test_restricted_text_editor_raises_inner_tool_failures(
+    monkeypatch: pytest.MonkeyPatch,
+    inner_error: Exception,
+    expected_type: type[Exception],
+    expected_message: str,
+) -> None:
+    """Failures from the inner inspect text_editor must be raised, never returned as a result."""
+
+    async def failing_tool(**kwargs: object) -> ToolResult:
+        raise inner_error
+
+    monkeypatch.setattr(
+        "control_arena.tools._restricted_text_editor.text_editor",
+        lambda **kwargs: failing_tool,
+    )
+    tool = restricted_text_editor(allowed_wd="/repo")
+
+    with pytest.raises(expected_type, match=expected_message):
+        await tool(command="view", path="/repo/example.py")
+
+
+@pytest.mark.skip_ci
+@with_sandbox(
+    (("docker", str(Path(__file__).parent / "compose.inspect_tool_support.yaml"))),
+    RUN_DIR,
+)
+async def test_restricted_text_editor():
+    # Get tool instance
+    bash_tool = bash()
+    text_editor_tool = text_editor()
+    text_editor_no_sbx_cwd = restricted_text_editor(allowed_wd=RUN_DIR)
+    text_editor_sbx_cwd = restricted_text_editor(allowed_wd=RUN_DIR, sandbox_wd=RUN_DIR)
+
+    # Ensure docstring is preserved
+    assert text_editor_tool.__doc__ == text_editor_no_sbx_cwd.__doc__
+
+    # Create test files for various operations
+    content = "Line 1\nLine 2\nLine 3"
+
+    # Create directory in sandbox using bash tool if not already present
+    await bash_tool(f"mkdir -p {RUN_DIR}")
+
+    # 1a. Test view in the allowed directory works
+    file_path_allowed = str(Path(RUN_DIR) / "text_editor_test.txt")
+    await text_editor_tool("create", file_path_allowed, content)
+
+    result = await text_editor_no_sbx_cwd("view", file_path_allowed)
+    assert isinstance(result, str)
+    assert "Line 1" in result
+    assert "Line 2" in result
+
+    # 1b. Test create in the allowed directory works
+    new_file_path = str(Path(RUN_DIR) / "new_text_editor_test.txt")
+    new_content = "New line 1\nNew line 2"
+
+    result = await text_editor_no_sbx_cwd(
+        "create", new_file_path, file_text=new_content
+    )
+    assert isinstance(result, str)
+    assert "Created file" in result or "successfully" in result.lower()
+
+    # Verify the file was created
+    viewed = await text_editor_tool("view", new_file_path)
+    assert isinstance(viewed, str)
+    assert "New line 1" in viewed
+    assert "New line 2" in viewed
+
+    # 1c. Test str_replace in the allowed directory works
+    result = await text_editor_no_sbx_cwd(
+        "str_replace", file_path_allowed, old_str="Line 1", new_str="Replaced Line 1"
+    )
+    assert isinstance(result, str)
+    assert "replaced" in result.lower() or "successful" in result.lower()
+
+    # Verify the file was updated
+    viewed = await text_editor_tool("view", file_path_allowed)
+    assert isinstance(viewed, str)
+    assert "Replaced Line 1" in viewed
+
+    # 1d. Test insert in the allowed directory works
+    result = await text_editor_no_sbx_cwd(
+        "insert", file_path_allowed, insert_line=1, new_str="Inserted Line"
+    )
+    assert isinstance(result, str)
+    assert "inserted" in result.lower() or "successful" in result.lower()
+
+    # Verify the file was updated
+    viewed = await text_editor_tool("view", file_path_allowed)
+    assert isinstance(viewed, str)
+    # Just check that the inserted line appears somewhere in the output
+    assert "Inserted Line" in viewed
+
+    # Regression: the `insert` command must also accept `insert_text` - it's
+    # the kwarg name inspect_ai's native text_editor uses for newer Claude tool
+    # schemas, and our wrapper must forward it without TypeError.
+    result = await text_editor_no_sbx_cwd(
+        "insert", file_path_allowed, insert_line=2, insert_text="Another Inserted Line"
+    )
+    assert isinstance(result, str)
+    assert "inserted" in result.lower() or "successful" in result.lower()
+    viewed = await text_editor_tool("view", file_path_allowed)
+    assert isinstance(viewed, str)
+    assert "Another Inserted Line" in viewed
+
+    # 2. Test using text_editor outside the allowed directory fails
+    file_path_outside = str(Path(RUN_DIR).parent / "outside_file.txt")
+
+    # 2a. Test view outside directory fails
+    result = await text_editor_no_sbx_cwd("view", file_path_outside)
+    assert (
+        result == f"Error: Path '{file_path_outside}' is outside the allowed directory."
+    )
+
+    # 2b. Test create outside directory fails
+    result = await text_editor_no_sbx_cwd(
+        "create", file_path_outside, file_text="Some content"
+    )
+    assert (
+        result == f"Error: Path '{file_path_outside}' is outside the allowed directory."
+    )
+
+    # 3. Test using text_editor with a path inside the allowed directory
+    # text_editor requires absolute paths even with sandbox_cwd, so we'll test that our
+    # wrapper correctly checks if the path resolves to a location within the allowed directory
+    relative_content = "Relative Line 1\nRelative Line 2"
+
+    # Create a file to test with
+    relative_file_path = str(Path(RUN_DIR) / "text_editor_sandbox_test.txt")
+    await text_editor_tool("create", relative_file_path, relative_content)
+
+    # Test that access is allowed because the path is within the allowed directory
+    result = await text_editor_sbx_cwd("view", relative_file_path)
+    assert isinstance(result, str)
+    assert "Relative Line 1" in result
+    assert "Relative Line 2" in result
+
+    # Test str_replace works
+    result = await text_editor_sbx_cwd(
+        "str_replace",
+        relative_file_path,
+        old_str="Relative Line 1",
+        new_str="Replaced Relative Line 1",
+    )
+    assert isinstance(result, str)
+    assert "replaced" in result.lower() or "successful" in result.lower()
+
+    # Test that the file was updated
+    result = await text_editor_sbx_cwd("view", relative_file_path)
+    assert isinstance(result, str)
+    assert "Replaced Relative Line 1" in result
+
+    # Test insert works
+    result = await text_editor_sbx_cwd(
+        "insert", relative_file_path, insert_line=1, new_str="Inserted Line"
+    )
+    assert isinstance(result, str)
+    assert "inserted" in result.lower() or "successful" in result.lower()
+
+    # Test that the file was updated
+    result = await text_editor_sbx_cwd("view", relative_file_path)
+    assert isinstance(result, str)
+    assert "Inserted Line" in result
+
+    # 4. Test using text_editor with a path outside the allowed directory
+    # Create a path that's outside the allowed directory
+    outside_path = str(Path(RUN_DIR).parent / "outside_directory" / "test.txt")
+
+    # Test that access is denied
+    result = await text_editor_no_sbx_cwd("view", outside_path)
+    assert result == f"Error: Path '{outside_path}' is outside the allowed directory."

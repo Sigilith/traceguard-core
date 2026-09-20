@@ -1,0 +1,86 @@
+{
+    "https://github.com/aws/aws-cli": {
+        "status": "COMPLETED",
+        "scanned_at": "2026-09-20T03:01:35.527229",
+        "risks_detected": 73,
+        "lead_generated": true
+    },
+    "https://github.com/boto/boto3": {
+        "status": "COMPLETED",
+        "scanned_at": "2026-09-20T03:01:38.057457",
+        "risks_detected": 1,
+        "lead_generated": true
+    },
+    "https://github.com/stripe/stripe-python": {
+        "status": "COMPLETED",
+        "scanned_at": "2026-09-20T03:01:45.735919",
+        "risks_detected": 3,
+        "lead_generated": true
+    },
+    "https://github.com/twilio/twilio-python": {
+        "status": "COMPLETED",
+        "scanned_at": "2026-09-20T03:01:58.640835",
+        "risks_detected": 1,
+        "lead_generated": true
+    },
+    "https://github.com/sendgrid/sendgrid-python": {
+        "status": "COMPLETED",
+        "scanned_at": "2026-09-20T03:02:00.074331",
+        "risks_detected": 2,
+        "lead_generated": true
+    },
+    "https://github.com/DataDog/dd-trace-py": {
+        "status": "COMPLETED",
+        "scanned_at": "2026-09-20T03:02:26.084250",
+        "risks_detected": 537,
+        "lead_generated": true
+    },
+    "https://github.com/slackapi/python-slack-sdk": {
+        "status": "COMPLETED",
+        "scanned_at": "2026-09-20T03:02:30.793657",
+        "risks_detected": 11,
+        "lead_generated": true
+    },
+    "https://github.com/celery/celery": {
+        "status": "COMPLETED",
+        "scanned_at": "2026-09-20T03:02:36.026422",
+        "risks_detected": 48,
+        "lead_generated": true
+    },
+    "https://github.com/ethereum/py-evm": {
+        "status": "COMPLETED",
+        "scanned_at": "2026-09-20T03:02:38.884987",
+        "risks_detected": 5,
+        "lead_generated": true
+    },
+    "https://github.com/web3/web3.py": {
+        "status": "COMPLETED",
+        "scanned_at": "2026-09-20T03:02:39.704668",
+        "risks_detected": 0,
+        "lead_generated": false
+    },
+    "https://github.com/ConsenSys/truffle": {
+        "status": "COMPLETED",
+        "scanned_at": "2026-09-20T03:02:43.494071",
+        "risks_detected": 0,
+        "lead_generated": false
+    },
+    "https://github.com/pallets/flask": {
+        "status": "COMPLETED",
+        "scanned_at": "2026-09-20T03:02:46.057163",
+        "risks_detected": 6,
+        "lead_generated": true
+    },
+    "https://github.com/django/django": {
+        "status": "COMPLETED",
+        "scanned_at": "2026-09-20T03:03:10.525755",
+        "risks_detected": 138,
+        "lead_generated": true
+    },
+    "https://github.com/psf/requests": {
+        "status": "COMPLETED",
+        "scanned_at": "2026-09-20T03:03:12.575281",
+        "risks_detected": 12,
+        "lead_generated": true
+    }
+}

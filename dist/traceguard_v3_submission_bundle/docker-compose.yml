@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  traceguard-arena:
+    build: .
+    container_name: traceguard-core-sandbox
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+    volumes:
+      - ./logs:/app/logs
+    command: python3 engine/test_protocol.py

@@ -1,0 +1,34 @@
+[project]
+    # aws-cdk-lib and jsii are upper-bounded so the docker image build is
+    # reproducible. aws-cdk-lib's own jsii constraint is open (>=1.112,<2.0),
+    # so jsii must be bounded directly. patch_jsii_lazy.py rewrites the
+    # bundled jsii runtime; verify it still applies when bumping these.
+    dependencies=["aws-cdk-lib>=2.198.0,<2.261.0", "constructs>=10.4.2", "jsii>=1.112.0,<1.138.0"]
+    description="Core Infrastructure"
+    name="core_infrastructure"
+    readme="README.md"
+    requires-python=">=3.11"
+    version="0.1.0"
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.4.0",
+]
+
+[build-system]
+    build-backend="hatchling.build"
+    requires=["hatch-vcs", "hatchling"]
+
+[tool.hatch]
+    [tool.hatch.metadata]
+        allow-direct-references=true
+
+    [tool.hatch.build]
+        [tool.hatch.build.targets]
+            [tool.hatch.build.targets.wheel]
+                packages=["core_infrastructure"]
+
+[tool.pytest.ini_options]
+filterwarnings = [
+    "ignore::pytest.PytestUnknownMarkWarning"
+]

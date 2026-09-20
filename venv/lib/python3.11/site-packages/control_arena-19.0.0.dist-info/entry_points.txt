@@ -1,0 +1,14 @@
+[console_scripts]
+control-arena = control_arena.cli.main:main
+human-trajectories = scripts.human_trajectories.cli:main
+upload-log = scripts.upload_log:main
+
+[control_arena]
+examples = examples
+micro_protocol = control_arena.micro_protocol
+monitor = control_arena.monitor
+policy = control_arena.policy
+settings = control_arena.settings.entrypoint
+
+[inspect_ai]
+control_arena = control_arena.scorers

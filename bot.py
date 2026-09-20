@@ -1,116 +1,68 @@
-import urllib.request
-import urllib.parse
-import json
 import os
 import sys
-from datetime import datetime
+import re
+import json
 
-LEDGER_FILE = "audit_ledger.json"
-
-def load_ledger():
-    if os.path.exists(LEDGER_FILE):
-        try:
-            with open(LEDGER_FILE, "r", encoding="utf-8") as f:
-                return json.load(f)
-        except Exception:
-            return {}
-    return {}
-
-def save_ledger(ledger):
-    with open(LEDGER_FILE, "w", encoding="utf-8") as f:
-        json.dump(ledger, f, indent=4)
-
-def fetch_corporate_targets():
-    return [
-        # Enterprise Cloud & Payments
-        "https://github.com/aws/aws-cli",
-        "https://github.com/boto/boto3",
-        "https://github.com/stripe/stripe-python",
-        "https://github.com/twilio/twilio-python",
-        "https://github.com/sendgrid/sendgrid-python",
-        "https://github.com/DataDog/dd-trace-py",
-        "https://github.com/slackapi/python-slack-sdk",
-        "https://github.com/celery/celery",
-        # Web3 & Blockchain Python Ecosystem
-        "https://github.com/ethereum/py-evm",
-        "https://github.com/web3/web3.py",
-        "https://github.com/ConsenSys/truffle",
-        # Core Web & API Frameworks
-        "https://github.com/pallets/flask",
-        "https://github.com/django/django",
-        "https://github.com/psf/requests"
+def scan_code_vulnerabilities(target_dir):
+    """Scans code directories for high-yield security vulnerabilities and secrets."""
+    findings = []
+    patterns = [
+        (r'eval\(', 'Unsafe Dynamic Code Execution (eval)'),
+        (r'exec\(', 'Unsafe Dynamic Code Execution (exec)'),
+        (r'os\.system\(', 'Unsanitized Shell Command Execution'),
+        (r'subprocess\.(run|Popen|call).*shell\s*=\s*True', 'Potential Command Injection via shell=True'),
+        (r'pickle\.load', 'Insecure Deserialization (Pickle)'),
+        (r'md5\(', 'Weak Cryptographic Hash (MD5)'),
+        (r'api[_-]?key\s*=', 'Hardcoded API Key / Secret Exposure'),
+        (r'password\s*=', 'Hardcoded Password Exposure'),
+        (r'0\.0\.0\.0', 'Insecure Bind Address (All Interfaces)')
     ]
+    
+    for root, dirs, files in os.walk(target_dir):
+        dirs[:] = [d for d in dirs if not d.startswith('.')]
+        for file in files:
+            if file.endswith(('.py', '.js', '.env', '.json', '.yml')):
+                filepath = os.path.join(root, file)
+                try:
+                    with open(filepath, 'r', encoding='utf-8', errors='ignore') as sf:
+                        for line_num, line in enumerate(sf, 1):
+                            for pattern, desc in patterns:
+                                if re.search(pattern, line, re.IGNORECASE):
+                                    findings.append({
+                                        "file": filepath,
+                                        "line": line_num,
+                                        "vector": desc
+                                    })
+                except Exception:
+                    pass
+    return findings
 
-def log_b2b_lead(result):
-    repo_url = result.get("repository")
-    risks = result.get("total_containment_risks_detected", 0)
-    
-    if risks == 0:
-        return
-        
-    lead_message = (
-        f"🚨 TraceGuard B2B Enterprise Lead Generated\n"
-        f"• Target: {repo_url}\n"
-        f"• Risk Vectors Flagged: {risks}\n"
-        f"• Action: Audit report locked behind verification.\n"
-        f"• Stripe Checkout: https://traceguard-web.onrender.com/pay"
-    )
-    
-    print("\n" + "═" * 70)
-    print(f"[!] 💼 B2B LEAD CAPTURED & LOCKED: {repo_url}")
-    print(lead_message)
-    print("═" * 70 + "\n")
-
-def run_traceguard_scan(repo_url):
-    form_data = {'github_url': repo_url}
-    data = urllib.parse.urlencode(form_data).encode('utf-8')
-    req = urllib.request.Request("https://traceguard-web.onrender.com/scan-git", data=data)
-    
-    try:
-        with urllib.request.urlopen(req, timeout=120) as response:
-            result = json.loads(response.read().decode())
-            risks_found = result.get('total_containment_risks_detected', 0)
-            print(f"[+] Scanned Target Repo: {repo_url} | Risks Found: {risks_found}")
-            
-            if risks_found > 0:
-                log_b2b_lead(result)
-            return result
-    except Exception as e:
-        print(f"[-] Scan error for {repo_url}: {e}")
-        return None
+def run_revenue_pipeline(findings):
+    import modules.client_reports.generator as cr
+    import modules.bounty_vrt.formatter as bv
+    print("[*] Generating Client Audit Report...")
+    print(cr.generate_client_summary(findings))
+    print("[*] Formatting HackerOne VRT Payload...")
+    print(bv.format_vrt_payload(json.dumps({"vector_description": f"Found {len(findings)} risk vectors in target codebase"})))
 
 if __name__ == "__main__":
-    ledger = load_ledger()
-    target_repos = fetch_corporate_targets()
-    
-    # Filter out any repository that has already been successfully audited and logged
-    pending_repos = []
-    for repo in target_repos:
-        if repo in ledger and ledger[repo].get("status") == "COMPLETED":
-            print(f"[*] Skipping already processed target: {repo}")
-        else:
-            pending_repos.append(repo)
-    
-    if not pending_repos:
-        print("\n[*] All targets already fully audited and recorded in the ledger. Zero duplicates will be processed.")
-        sys.exit(0)
-        
-    print(f"\n[*] Starting stateful sweep across {len(pending_repos)} new/pending repositories...")
-    
-    all_results = []
-    for repo in pending_repos:
-        res = run_traceguard_scan(repo)
-        if res:
-            all_results.append(res)
-            risks_count = res.get('total_containment_risks_detected', 0)
+    target_dir = "."
+    if "--local" in sys.argv:
+        try:
+            idx = sys.argv.index("--local")
+            target_dir = sys.argv[idx + 1]
+        except IndexError:
+            pass
             
-            # Record execution permanently in ledger with timestamp
-            ledger[repo] = {
-                "status": "COMPLETED",
-                "scanned_at": datetime.now().isoformat(),
-                "risks_detected": risks_count,
-                "lead_generated": risks_count > 0
-            }
-            save_ledger(ledger)
-
-    print("\n[*] Stateful sweep complete. Permanent audit ledger updated.")
+    print(f"=======================================================================")
+    print(f"🔍 TRACEGUARD MULTI-STREAM VULNERABILITY & REVENUE SCANNER")
+    print(f"Target Directory: {target_dir}")
+    print(f"=======================================================================")
+    
+    findings = scan_code_vulnerabilities(target_dir)
+    print(f"[*] Vulnerability scan complete. Detected {len(findings)} potential risk vectors.")
+    if findings:
+        print("[+] Triggering Multi-Stream Revenue Pipeline...")
+        run_revenue_pipeline(findings)
+    else:
+        print("[+] 🔒 Codebase clean of high-risk execution patterns.")

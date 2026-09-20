@@ -1,7 +1,7 @@
 import json
 import urllib.request
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1551198855704481852/KxeBgUQAgaMWRmXOAUn1Mb9dtHE5jhwD-lLZpZYs3amrL5Z4KyjQodXby4UCgtgViYQk"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1551227623001161869/0G2n9qtLzDrBy8eF6O6x62Ckxcg-rK0osrZMcBFQ8IURB8UG4iXN8_dE5B0z4cPhO-aC"
 
 def send_alert(new_assets):
     if not new_assets:
@@ -26,5 +26,5 @@ def send_alert(new_assets):
         print(f"[-] Failed to send alert: {e}")
 
 if __name__ == "__main__":
-    sample_assets = ["https://discord-test.santos.com"]
+    sample_assets = ["https://webhook-migration-test.santos.com"]
     send_alert(sample_assets)

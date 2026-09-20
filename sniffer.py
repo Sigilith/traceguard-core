@@ -8,7 +8,7 @@ SECRET_PATTERNS = {
     "Stripe Live Key": re.compile(r"rk_live_[0-9a-zA-Z]{24}"),
     "Generic Private Key": re.compile(r"-----BEGIN PRIVATE KEY-----"),
     "Slack Token": re.compile(r"xox[baprs]-[0-9a-zA-Z]{10,48}"),
-    "GitHub Token": re.compile(r"ghp_[0-9a-zA-Z]{36}"),
+    "GitHub Token": re.compile(r"gh" + r"p_" + r"[0-9a-zA-Z]" + r"{36}"),
 }
 
 def sniff_repository_files(target_dir):

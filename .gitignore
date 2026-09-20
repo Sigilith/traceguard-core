@@ -1,5 +1,3 @@
-processed_targets.json
-corporate_audit_log.json
-traceguard_audit_log.json
+.env
 __pycache__/
 *.pyc

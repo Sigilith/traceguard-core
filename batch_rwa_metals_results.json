@@ -1,0 +1,1602 @@
+[
+    {
+        "scan_id": 1,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/93410",
+        "projected_yield": "37.18 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 2,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/47373",
+        "projected_yield": "0.1422 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 3,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/44309",
+        "projected_yield": "37.41 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 4,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/94247",
+        "projected_yield": "0.0656 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 5,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/38498",
+        "projected_yield": "0.7815 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 6,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/53705",
+        "projected_yield": "7.31 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 7,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/12851",
+        "projected_yield": "1.12 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 8,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/43509",
+        "projected_yield": "0.1385 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 9,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/49327",
+        "projected_yield": "0.4767 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 10,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/92391",
+        "projected_yield": "74.07 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 11,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/78068",
+        "projected_yield": "0.7703 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 12,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/13149",
+        "projected_yield": "0.6207 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 13,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/41199",
+        "projected_yield": "55.87 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 14,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/90358",
+        "projected_yield": "0.9766 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 15,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/71197",
+        "projected_yield": "12.21 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 16,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/93727",
+        "projected_yield": "72.38 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 17,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/32301",
+        "projected_yield": "56.86 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 18,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/45733",
+        "projected_yield": "0.3222 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 19,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/72741",
+        "projected_yield": "0.3653 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 20,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/86401",
+        "projected_yield": "0.6221 PAXG",
+        "execution_status": "VAULT_REBALANCING"
+    },
+    {
+        "scan_id": 21,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/39639",
+        "projected_yield": "1.192 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 22,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/63987",
+        "projected_yield": "68.04 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 23,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/32279",
+        "projected_yield": "1.0446 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 24,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/12596",
+        "projected_yield": "0.5012 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 25,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/58459",
+        "projected_yield": "13.62 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 26,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/83062",
+        "projected_yield": "14.77 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 27,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/20882",
+        "projected_yield": "64.88 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 28,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/83946",
+        "projected_yield": "0.2087 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 29,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/78811",
+        "projected_yield": "16.25 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 30,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/84887",
+        "projected_yield": "48.46 KAG",
+        "execution_status": "VAULT_REBALANCING"
+    },
+    {
+        "scan_id": 31,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/93089",
+        "projected_yield": "0.895 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 32,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/48421",
+        "projected_yield": "0.7147 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 33,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/94743",
+        "projected_yield": "0.9232 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 34,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/96958",
+        "projected_yield": "50.23 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 35,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/69557",
+        "projected_yield": "1.0106 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 36,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/27326",
+        "projected_yield": "20.83 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 37,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/71613",
+        "projected_yield": "0.6765 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 38,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/99697",
+        "projected_yield": "0.1299 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 39,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/30323",
+        "projected_yield": "0.434 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 40,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/81104",
+        "projected_yield": "0.1564 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 41,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/60430",
+        "projected_yield": "58.9 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 42,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/37490",
+        "projected_yield": "0.6196 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 43,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/40167",
+        "projected_yield": "52.56 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 44,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/64335",
+        "projected_yield": "1.0464 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 45,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/20347",
+        "projected_yield": "1.2121 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 46,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/48198",
+        "projected_yield": "0.3278 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 47,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/85194",
+        "projected_yield": "0.3057 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 48,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/94101",
+        "projected_yield": "0.61 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 49,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/87655",
+        "projected_yield": "0.3811 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 50,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/67512",
+        "projected_yield": "0.8171 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 51,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/45309",
+        "projected_yield": "56.27 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 52,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/89449",
+        "projected_yield": "6.77 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 53,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/68403",
+        "projected_yield": "26.02 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 54,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/40903",
+        "projected_yield": "70.49 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 55,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/16629",
+        "projected_yield": "0.849 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 56,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/59649",
+        "projected_yield": "56.08 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 57,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/31445",
+        "projected_yield": "1.0372 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 58,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/23962",
+        "projected_yield": "23.46 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 59,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/51887",
+        "projected_yield": "26.74 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 60,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/86924",
+        "projected_yield": "0.0665 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 61,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/18086",
+        "projected_yield": "0.1154 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 62,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/75652",
+        "projected_yield": "48.72 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 63,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/63636",
+        "projected_yield": "0.2704 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 64,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/30070",
+        "projected_yield": "63.89 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 65,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/16829",
+        "projected_yield": "1.2351 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 66,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/55254",
+        "projected_yield": "0.9199 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 67,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/16004",
+        "projected_yield": "23.68 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 68,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/23589",
+        "projected_yield": "0.7771 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 69,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/57739",
+        "projected_yield": "0.718 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 70,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/83702",
+        "projected_yield": "0.9928 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 71,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/42730",
+        "projected_yield": "62.74 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 72,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/71511",
+        "projected_yield": "74.54 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 73,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/90072",
+        "projected_yield": "66.52 KAG",
+        "execution_status": "VAULT_REBALANCING"
+    },
+    {
+        "scan_id": 74,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/69118",
+        "projected_yield": "56.65 tSILVER",
+        "execution_status": "VAULT_REBALANCING"
+    },
+    {
+        "scan_id": 75,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/57898",
+        "projected_yield": "0.2243 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 76,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/94129",
+        "projected_yield": "0.1956 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 77,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/20816",
+        "projected_yield": "0.073 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 78,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/35659",
+        "projected_yield": "73.3 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 79,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/97734",
+        "projected_yield": "0.9202 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 80,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/72266",
+        "projected_yield": "0.5854 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 81,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/82966",
+        "projected_yield": "0.4494 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 82,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/15730",
+        "projected_yield": "0.3013 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 83,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/85005",
+        "projected_yield": "1.0473 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 84,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/65085",
+        "projected_yield": "21.57 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 85,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/43878",
+        "projected_yield": "59.33 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 86,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/25530",
+        "projected_yield": "43.85 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 87,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/40295",
+        "projected_yield": "57.31 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 88,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/75807",
+        "projected_yield": "45.67 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 89,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/60131",
+        "projected_yield": "12.72 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 90,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/89233",
+        "projected_yield": "0.7155 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 91,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/19005",
+        "projected_yield": "0.793 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 92,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/98055",
+        "projected_yield": "27.86 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 93,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/49338",
+        "projected_yield": "67.17 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 94,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/36259",
+        "projected_yield": "1.2265 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 95,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/25159",
+        "projected_yield": "1.1555 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 96,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/60630",
+        "projected_yield": "58.99 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 97,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/14231",
+        "projected_yield": "17.09 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 98,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/61853",
+        "projected_yield": "0.5565 PAXG",
+        "execution_status": "VAULT_REBALANCING"
+    },
+    {
+        "scan_id": 99,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/20225",
+        "projected_yield": "0.8966 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 100,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/17918",
+        "projected_yield": "0.2415 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 101,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/59510",
+        "projected_yield": "0.1499 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 102,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/75367",
+        "projected_yield": "0.6069 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 103,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/43770",
+        "projected_yield": "0.8626 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 104,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/56999",
+        "projected_yield": "1.0836 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 105,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/74370",
+        "projected_yield": "0.9198 PAXG",
+        "execution_status": "VAULT_REBALANCING"
+    },
+    {
+        "scan_id": 106,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/29233",
+        "projected_yield": "40.91 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 107,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/92642",
+        "projected_yield": "0.5302 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 108,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/11786",
+        "projected_yield": "40.38 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 109,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/18453",
+        "projected_yield": "0.3335 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 110,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/40799",
+        "projected_yield": "0.7147 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 111,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/33257",
+        "projected_yield": "0.7242 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 112,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/96790",
+        "projected_yield": "38.08 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 113,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/50661",
+        "projected_yield": "70.41 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 114,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/99136",
+        "projected_yield": "0.2999 XAUT",
+        "execution_status": "VAULT_REBALANCING"
+    },
+    {
+        "scan_id": 115,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/19490",
+        "projected_yield": "0.6781 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 116,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/78605",
+        "projected_yield": "45.4 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 117,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/28287",
+        "projected_yield": "68.14 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 118,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/85478",
+        "projected_yield": "60.68 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 119,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/35068",
+        "projected_yield": "1.1822 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 120,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/55022",
+        "projected_yield": "0.2628 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 121,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/17927",
+        "projected_yield": "61.29 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 122,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/31503",
+        "projected_yield": "9.18 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 123,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/92803",
+        "projected_yield": "22.2 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 124,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/43164",
+        "projected_yield": "49.71 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 125,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/90376",
+        "projected_yield": "7.56 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 126,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/95462",
+        "projected_yield": "0.249 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 127,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/18194",
+        "projected_yield": "0.7251 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 128,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/12457",
+        "projected_yield": "30.99 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 129,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/73227",
+        "projected_yield": "0.7566 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 130,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/65601",
+        "projected_yield": "27.65 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 131,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/80972",
+        "projected_yield": "69.55 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 132,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/68159",
+        "projected_yield": "6.41 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 133,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/74137",
+        "projected_yield": "1.1511 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 134,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/15796",
+        "projected_yield": "1.0233 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 135,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/86672",
+        "projected_yield": "0.1088 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 136,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/39077",
+        "projected_yield": "0.8459 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 137,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/89921",
+        "projected_yield": "0.0787 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 138,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/79435",
+        "projected_yield": "0.981 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 139,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/67540",
+        "projected_yield": "0.7108 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 140,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/74617",
+        "projected_yield": "0.3187 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 141,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/12553",
+        "projected_yield": "32.19 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 142,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/71003",
+        "projected_yield": "65.63 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 143,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/39109",
+        "projected_yield": "0.2647 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 144,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/72619",
+        "projected_yield": "26.55 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 145,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/12978",
+        "projected_yield": "47.75 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 146,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/61291",
+        "projected_yield": "71.5 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 147,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/75177",
+        "projected_yield": "0.3096 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 148,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/26128",
+        "projected_yield": "0.1273 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 149,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/30311",
+        "projected_yield": "0.0737 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 150,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/90937",
+        "projected_yield": "26.5 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 151,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/21052",
+        "projected_yield": "24.69 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 152,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/88564",
+        "projected_yield": "68.0 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 153,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/90468",
+        "projected_yield": "0.769 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 154,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/98058",
+        "projected_yield": "15.06 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 155,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/13426",
+        "projected_yield": "14.03 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 156,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/11077",
+        "projected_yield": "0.2229 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 157,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/95023",
+        "projected_yield": "0.6973 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 158,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/96997",
+        "projected_yield": "65.75 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 159,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/90623",
+        "projected_yield": "61.29 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 160,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/55287",
+        "projected_yield": "0.7565 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 161,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/51255",
+        "projected_yield": "1.1883 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 162,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/67901",
+        "projected_yield": "0.4824 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 163,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/88378",
+        "projected_yield": "1.059 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 164,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/86550",
+        "projected_yield": "0.5553 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 165,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/86552",
+        "projected_yield": "0.3277 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 166,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/51870",
+        "projected_yield": "70.07 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 167,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/57052",
+        "projected_yield": "56.38 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 168,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/11223",
+        "projected_yield": "20.78 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 169,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/95278",
+        "projected_yield": "52.47 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 170,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/75674",
+        "projected_yield": "1.0511 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 171,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/42487",
+        "projected_yield": "0.3356 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 172,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/11466",
+        "projected_yield": "0.0545 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 173,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/54569",
+        "projected_yield": "1.0402 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 174,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/75913",
+        "projected_yield": "14.94 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 175,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/60462",
+        "projected_yield": "50.27 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 176,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/50781",
+        "projected_yield": "73.54 KAG",
+        "execution_status": "VAULT_REBALANCING"
+    },
+    {
+        "scan_id": 177,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/49120",
+        "projected_yield": "14.15 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 178,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/19743",
+        "projected_yield": "0.8734 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 179,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/14468",
+        "projected_yield": "0.6735 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 180,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/25425",
+        "projected_yield": "0.809 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 181,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/84320",
+        "projected_yield": "8.67 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 182,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/74418",
+        "projected_yield": "12.42 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 183,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/49125",
+        "projected_yield": "49.97 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 184,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/17618",
+        "projected_yield": "69.82 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 185,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/29793",
+        "projected_yield": "0.4926 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 186,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/84584",
+        "projected_yield": "1.0477 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 187,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/89028",
+        "projected_yield": "44.46 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 188,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/46909",
+        "projected_yield": "70.57 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 189,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/77839",
+        "projected_yield": "1.17 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 190,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/75697",
+        "projected_yield": "1.117 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 191,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/37520",
+        "projected_yield": "0.0661 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 192,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/77831",
+        "projected_yield": "0.2241 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 193,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/47037",
+        "projected_yield": "23.6 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 194,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/59225",
+        "projected_yield": "1.1882 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 195,
+        "asset": "tSILVER",
+        "vault_type": "Tokenized Silver Bullion",
+        "node_target": "rwa-tsilver/16340",
+        "projected_yield": "69.71 tSILVER",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 196,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/95017",
+        "projected_yield": "0.999 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 197,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/64228",
+        "projected_yield": "0.8871 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 198,
+        "asset": "KAG",
+        "vault_type": "Physical Silver (Global Vaults)",
+        "node_target": "rwa-kag/40866",
+        "projected_yield": "9.36 KAG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 199,
+        "asset": "PAXG",
+        "vault_type": "Physical Gold (LBMA Vault)",
+        "node_target": "rwa-paxg/12401",
+        "projected_yield": "0.2118 PAXG",
+        "execution_status": "RWA_METAL_SECURED"
+    },
+    {
+        "scan_id": 200,
+        "asset": "XAUT",
+        "vault_type": "Physical Gold (Swiss Vault)",
+        "node_target": "rwa-xaut/37843",
+        "projected_yield": "0.2242 XAUT",
+        "execution_status": "RWA_METAL_SECURED"
+    }
+]

@@ -1,0 +1,3502 @@
+[
+    {
+        "expansion_id": 1,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/882232",
+        "projected_yield": "2.7043 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 2,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/361845",
+        "projected_yield": "3.4409 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 3,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/105962",
+        "projected_yield": "2.001 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 4,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/528056",
+        "projected_yield": "3.301 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 5,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/448714",
+        "projected_yield": "1.4661 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 6,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/948831",
+        "projected_yield": "3.2635 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 7,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/771751",
+        "projected_yield": "1.588 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 8,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/420166",
+        "projected_yield": "2.5999 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 9,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/880285",
+        "projected_yield": "0.9538 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 10,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/217584",
+        "projected_yield": "1.7919 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 11,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/825627",
+        "projected_yield": "2.508 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 12,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/503529",
+        "projected_yield": "2191.08 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 13,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/232939",
+        "projected_yield": "3.925 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 14,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/503945",
+        "projected_yield": "3.659 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 15,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/493644",
+        "projected_yield": "1.39 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 16,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/266721",
+        "projected_yield": "729.65 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 17,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/934392",
+        "projected_yield": "3.4285 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 18,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/255084",
+        "projected_yield": "1.3119 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 19,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/788309",
+        "projected_yield": "164.59 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 20,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/596628",
+        "projected_yield": "2.304 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 21,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/624636",
+        "projected_yield": "0.559 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 22,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/150988",
+        "projected_yield": "3.998 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 23,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/374658",
+        "projected_yield": "373.48 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 24,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/431715",
+        "projected_yield": "3.2867 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 25,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/894672",
+        "projected_yield": "618.47 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 26,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/492940",
+        "projected_yield": "1.4274 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 27,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/303610",
+        "projected_yield": "0.6311 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 28,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/117459",
+        "projected_yield": "0.592 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 29,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/494046",
+        "projected_yield": "3.955 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 30,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/360676",
+        "projected_yield": "2.6934 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 31,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/225979",
+        "projected_yield": "1.385 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 32,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/283761",
+        "projected_yield": "0.6904 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 33,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/168230",
+        "projected_yield": "774.99 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 34,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/288399",
+        "projected_yield": "3.097 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 35,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/424300",
+        "projected_yield": "1.84 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 36,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/543211",
+        "projected_yield": "2.847 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 37,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/782345",
+        "projected_yield": "4.674 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 38,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/349785",
+        "projected_yield": "2.408 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 39,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/274779",
+        "projected_yield": "0.32 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 40,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/646332",
+        "projected_yield": "3.872 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 41,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/486672",
+        "projected_yield": "1346.88 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 42,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/891828",
+        "projected_yield": "2.748 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 43,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/634040",
+        "projected_yield": "2.349 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 44,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/572020",
+        "projected_yield": "2.302 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 45,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/950201",
+        "projected_yield": "0.7404 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 46,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/111177",
+        "projected_yield": "2084.64 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 47,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/923329",
+        "projected_yield": "2.213 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 48,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/858342",
+        "projected_yield": "1.584 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 49,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/978582",
+        "projected_yield": "4.255 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 50,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/558685",
+        "projected_yield": "1.456 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 51,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/341095",
+        "projected_yield": "4.962 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 52,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/432208",
+        "projected_yield": "2.313 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 53,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/842290",
+        "projected_yield": "2.2699 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 54,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/261466",
+        "projected_yield": "1971.15 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 55,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/462153",
+        "projected_yield": "1.1019 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 56,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/390320",
+        "projected_yield": "2.9704 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 57,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/886821",
+        "projected_yield": "1215.44 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 58,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/914193",
+        "projected_yield": "924.57 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 59,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/252789",
+        "projected_yield": "2.949 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 60,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/179887",
+        "projected_yield": "0.6453 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 61,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/507638",
+        "projected_yield": "2180.04 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 62,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/583427",
+        "projected_yield": "0.105 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 63,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/294431",
+        "projected_yield": "1738.38 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 64,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/255317",
+        "projected_yield": "4.958 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 65,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/717914",
+        "projected_yield": "4.309 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 66,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/508351",
+        "projected_yield": "2.9025 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 67,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/145217",
+        "projected_yield": "3.4269 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 68,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/325761",
+        "projected_yield": "830.48 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 69,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/124920",
+        "projected_yield": "1.86 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 70,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/817248",
+        "projected_yield": "0.835 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 71,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/598112",
+        "projected_yield": "332.96 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 72,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/478463",
+        "projected_yield": "2246.58 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 73,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/703708",
+        "projected_yield": "0.5557 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 74,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/689307",
+        "projected_yield": "2.8818 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 75,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/806853",
+        "projected_yield": "1.249 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 76,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/427257",
+        "projected_yield": "1.588 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 77,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/540317",
+        "projected_yield": "1.9333 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 78,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/463325",
+        "projected_yield": "2.693 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 79,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/427468",
+        "projected_yield": "2.448 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 80,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/988295",
+        "projected_yield": "2.39 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 81,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/501601",
+        "projected_yield": "1.907 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 82,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/670422",
+        "projected_yield": "1.4907 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 83,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/273755",
+        "projected_yield": "4.625 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 84,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/621143",
+        "projected_yield": "2486.23 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 85,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/868970",
+        "projected_yield": "1.6981 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 86,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/446067",
+        "projected_yield": "1.148 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 87,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/314642",
+        "projected_yield": "4.31 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 88,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/828165",
+        "projected_yield": "1475.88 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 89,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/438057",
+        "projected_yield": "1.8688 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 90,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/130887",
+        "projected_yield": "2.763 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 91,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/261708",
+        "projected_yield": "2.5647 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 92,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/411812",
+        "projected_yield": "2.8333 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 93,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/667706",
+        "projected_yield": "2164.94 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 94,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/856135",
+        "projected_yield": "4.643 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 95,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/834298",
+        "projected_yield": "1.724 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 96,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/209066",
+        "projected_yield": "4.407 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 97,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/170761",
+        "projected_yield": "1572.27 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 98,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/596829",
+        "projected_yield": "1.0022 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 99,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/295625",
+        "projected_yield": "3.0387 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 100,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/928595",
+        "projected_yield": "4.433 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 101,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/128241",
+        "projected_yield": "967.62 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 102,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/788452",
+        "projected_yield": "1910.34 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 103,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/769624",
+        "projected_yield": "1.3086 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 104,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/290263",
+        "projected_yield": "0.659 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 105,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/970112",
+        "projected_yield": "0.109 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 106,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/345390",
+        "projected_yield": "0.544 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 107,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/474631",
+        "projected_yield": "1625.35 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 108,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/736336",
+        "projected_yield": "0.5015 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 109,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/817337",
+        "projected_yield": "1701.62 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 110,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/344547",
+        "projected_yield": "2.454 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 111,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/264730",
+        "projected_yield": "866.4 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 112,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/472804",
+        "projected_yield": "1444.16 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 113,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/294796",
+        "projected_yield": "2.4343 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 114,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/700165",
+        "projected_yield": "3.268 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 115,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/209773",
+        "projected_yield": "1.1491 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 116,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/572376",
+        "projected_yield": "0.596 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 117,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/628587",
+        "projected_yield": "1794.89 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 118,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/157521",
+        "projected_yield": "0.298 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 119,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/707728",
+        "projected_yield": "0.31 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 120,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/706273",
+        "projected_yield": "2437.4 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 121,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/434143",
+        "projected_yield": "3.4978 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 122,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/212372",
+        "projected_yield": "3.1418 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 123,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/296855",
+        "projected_yield": "3.695 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 124,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/774534",
+        "projected_yield": "1.0544 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 125,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/713375",
+        "projected_yield": "3.0133 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 126,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/831309",
+        "projected_yield": "0.669 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 127,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/850952",
+        "projected_yield": "2.5727 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 128,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/625151",
+        "projected_yield": "447.69 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 129,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/899341",
+        "projected_yield": "1575.64 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 130,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/193833",
+        "projected_yield": "3.13 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 131,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/632676",
+        "projected_yield": "1.623 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 132,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/994560",
+        "projected_yield": "0.9985 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 133,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/386904",
+        "projected_yield": "3.4528 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 134,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/366505",
+        "projected_yield": "1243.03 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 135,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/671760",
+        "projected_yield": "2.9595 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 136,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/858240",
+        "projected_yield": "1.2818 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 137,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/517699",
+        "projected_yield": "1.7282 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 138,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/711084",
+        "projected_yield": "0.9963 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 139,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/346946",
+        "projected_yield": "2.317 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 140,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/152428",
+        "projected_yield": "2.8975 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 141,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/243440",
+        "projected_yield": "1.0529 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 142,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/572173",
+        "projected_yield": "3.1204 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 143,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/681974",
+        "projected_yield": "1.7042 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 144,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/985867",
+        "projected_yield": "1953.04 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 145,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/624538",
+        "projected_yield": "2.6342 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 146,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/760467",
+        "projected_yield": "219.58 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 147,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/772194",
+        "projected_yield": "3.213 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 148,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/399983",
+        "projected_yield": "2.761 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 149,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/876718",
+        "projected_yield": "1743.16 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 150,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/923107",
+        "projected_yield": "4.086 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 151,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/931261",
+        "projected_yield": "193.6 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 152,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/578354",
+        "projected_yield": "0.764 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 153,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/114412",
+        "projected_yield": "2.7956 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 154,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/833355",
+        "projected_yield": "1376.96 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 155,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/422249",
+        "projected_yield": "0.694 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 156,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/202520",
+        "projected_yield": "4.796 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 157,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/457111",
+        "projected_yield": "1.5445 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 158,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/100314",
+        "projected_yield": "1.84 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 159,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/773845",
+        "projected_yield": "1.2727 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 160,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/622404",
+        "projected_yield": "0.558 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 161,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/640108",
+        "projected_yield": "2.6359 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 162,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/337104",
+        "projected_yield": "4.487 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 163,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/290955",
+        "projected_yield": "2.1084 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 164,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/600197",
+        "projected_yield": "1433.51 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 165,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/124000",
+        "projected_yield": "3.493 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 166,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/464184",
+        "projected_yield": "1.8514 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 167,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/325251",
+        "projected_yield": "3.635 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 168,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/324935",
+        "projected_yield": "2.8474 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 169,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/523925",
+        "projected_yield": "1.578 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 170,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/182252",
+        "projected_yield": "4.223 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 171,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/701122",
+        "projected_yield": "1.8668 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 172,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/509414",
+        "projected_yield": "1.882 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 173,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/440545",
+        "projected_yield": "1.8927 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 174,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/645125",
+        "projected_yield": "395.4 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 175,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/584522",
+        "projected_yield": "713.8 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 176,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/260411",
+        "projected_yield": "1.899 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 177,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/311934",
+        "projected_yield": "0.475 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 178,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/818752",
+        "projected_yield": "1.9316 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 179,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/887932",
+        "projected_yield": "2.9184 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 180,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/227039",
+        "projected_yield": "3.539 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 181,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/775420",
+        "projected_yield": "2.596 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 182,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/128320",
+        "projected_yield": "3.2311 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 183,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/158402",
+        "projected_yield": "4.349 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 184,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/411820",
+        "projected_yield": "4.791 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 185,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/324237",
+        "projected_yield": "2.846 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 186,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/214445",
+        "projected_yield": "1135.49 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 187,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/275855",
+        "projected_yield": "2.2198 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 188,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/692809",
+        "projected_yield": "1827.73 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 189,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/545286",
+        "projected_yield": "1227.68 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 190,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/859823",
+        "projected_yield": "1986.81 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 191,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/782965",
+        "projected_yield": "1.4068 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 192,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/125926",
+        "projected_yield": "4.109 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 193,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/258295",
+        "projected_yield": "429.2 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 194,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/462827",
+        "projected_yield": "1011.7 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 195,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/677331",
+        "projected_yield": "0.431 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 196,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/475307",
+        "projected_yield": "1.604 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 197,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/645821",
+        "projected_yield": "3.29 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 198,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/632811",
+        "projected_yield": "1.312 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 199,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/958614",
+        "projected_yield": "193.68 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 200,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/440116",
+        "projected_yield": "3.87 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 201,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/775774",
+        "projected_yield": "3.0658 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 202,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/191089",
+        "projected_yield": "1.311 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 203,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/667323",
+        "projected_yield": "1.8331 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 204,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/531963",
+        "projected_yield": "2.105 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 205,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/368762",
+        "projected_yield": "2.801 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 206,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/884237",
+        "projected_yield": "1.54 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 207,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/516145",
+        "projected_yield": "3.575 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 208,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/551507",
+        "projected_yield": "3.2012 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 209,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/646636",
+        "projected_yield": "0.26 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 210,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/503893",
+        "projected_yield": "4.659 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 211,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/322369",
+        "projected_yield": "219.05 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 212,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/281883",
+        "projected_yield": "1.551 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 213,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/337113",
+        "projected_yield": "1.495 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 214,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/279572",
+        "projected_yield": "3.501 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 215,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/708485",
+        "projected_yield": "4.44 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 216,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/890545",
+        "projected_yield": "3.957 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 217,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/193466",
+        "projected_yield": "2.066 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 218,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/682838",
+        "projected_yield": "1.766 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 219,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/179987",
+        "projected_yield": "3.696 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 220,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/942787",
+        "projected_yield": "1.0788 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 221,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/398524",
+        "projected_yield": "2.095 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 222,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/168180",
+        "projected_yield": "3.2463 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 223,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/943091",
+        "projected_yield": "2112.12 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 224,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/550634",
+        "projected_yield": "3.339 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 225,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/282806",
+        "projected_yield": "668.32 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 226,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/720796",
+        "projected_yield": "2.257 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 227,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/101118",
+        "projected_yield": "4.236 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 228,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/524515",
+        "projected_yield": "2.5388 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 229,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/746493",
+        "projected_yield": "3.0341 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 230,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/831581",
+        "projected_yield": "0.29 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 231,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/627116",
+        "projected_yield": "0.744 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 232,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/429371",
+        "projected_yield": "3.166 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 233,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/173403",
+        "projected_yield": "3.564 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 234,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/191580",
+        "projected_yield": "0.5137 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 235,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/890008",
+        "projected_yield": "1.6312 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 236,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/119254",
+        "projected_yield": "2254.69 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 237,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/417576",
+        "projected_yield": "0.826 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 238,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/321601",
+        "projected_yield": "1072.67 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 239,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/272068",
+        "projected_yield": "1891.47 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 240,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/963575",
+        "projected_yield": "1.756 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 241,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/552118",
+        "projected_yield": "0.703 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 242,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/788086",
+        "projected_yield": "895.23 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 243,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/278095",
+        "projected_yield": "3.186 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 244,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/582341",
+        "projected_yield": "2.7554 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 245,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/251026",
+        "projected_yield": "831.96 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 246,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/302674",
+        "projected_yield": "2.161 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 247,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/951136",
+        "projected_yield": "669.33 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 248,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/981600",
+        "projected_yield": "1.1112 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 249,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/535454",
+        "projected_yield": "1.093 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 250,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/653476",
+        "projected_yield": "0.7721 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 251,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/610375",
+        "projected_yield": "2.888 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 252,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/362957",
+        "projected_yield": "1.91 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 253,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/456537",
+        "projected_yield": "1.3513 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 254,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/215823",
+        "projected_yield": "2.769 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 255,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/794016",
+        "projected_yield": "1.772 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 256,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/196394",
+        "projected_yield": "1.1593 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 257,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/938093",
+        "projected_yield": "0.693 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 258,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/835087",
+        "projected_yield": "1280.55 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 259,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/413339",
+        "projected_yield": "2.885 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 260,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/372506",
+        "projected_yield": "3.717 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 261,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/506633",
+        "projected_yield": "1.656 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 262,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/253643",
+        "projected_yield": "1.8628 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 263,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/461713",
+        "projected_yield": "0.7989 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 264,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/938106",
+        "projected_yield": "2.0671 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 265,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/350535",
+        "projected_yield": "281.41 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 266,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/383927",
+        "projected_yield": "4.092 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 267,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/720024",
+        "projected_yield": "3.4573 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 268,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/564351",
+        "projected_yield": "1620.63 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 269,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/156655",
+        "projected_yield": "1.219 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 270,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/328405",
+        "projected_yield": "3.565 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 271,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/186655",
+        "projected_yield": "3.0406 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 272,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/333193",
+        "projected_yield": "0.6266 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 273,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/244829",
+        "projected_yield": "2.825 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 274,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/232959",
+        "projected_yield": "4.604 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 275,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/667054",
+        "projected_yield": "2.9717 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 276,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/529351",
+        "projected_yield": "482.88 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 277,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/346964",
+        "projected_yield": "1.435 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 278,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/906936",
+        "projected_yield": "1.1267 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 279,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/735717",
+        "projected_yield": "683.52 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 280,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/888043",
+        "projected_yield": "0.651 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 281,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/863071",
+        "projected_yield": "0.7898 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 282,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/442138",
+        "projected_yield": "2132.78 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 283,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/117401",
+        "projected_yield": "0.313 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 284,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/466068",
+        "projected_yield": "3.582 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 285,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/395046",
+        "projected_yield": "240.33 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 286,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/827499",
+        "projected_yield": "0.398 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 287,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/847615",
+        "projected_yield": "1.433 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 288,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/314624",
+        "projected_yield": "0.592 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 289,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/578063",
+        "projected_yield": "1.757 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 290,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/244263",
+        "projected_yield": "1.3661 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 291,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/563104",
+        "projected_yield": "2.416 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 292,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/801594",
+        "projected_yield": "1.201 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 293,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/475208",
+        "projected_yield": "3.4177 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 294,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/214494",
+        "projected_yield": "711.69 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 295,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/417426",
+        "projected_yield": "3.0067 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 296,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/267937",
+        "projected_yield": "561.79 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 297,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/480067",
+        "projected_yield": "1017.32 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 298,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/294660",
+        "projected_yield": "3.959 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 299,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/499501",
+        "projected_yield": "1.1971 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 300,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/602028",
+        "projected_yield": "2.0729 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 301,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/884099",
+        "projected_yield": "221.67 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 302,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/458274",
+        "projected_yield": "315.71 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 303,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/499854",
+        "projected_yield": "1.7617 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 304,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/634892",
+        "projected_yield": "1820.27 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 305,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/215605",
+        "projected_yield": "4.944 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 306,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/151864",
+        "projected_yield": "0.948 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 307,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/495751",
+        "projected_yield": "1.0764 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 308,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/231484",
+        "projected_yield": "0.195 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 309,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/819560",
+        "projected_yield": "1.204 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 310,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/991136",
+        "projected_yield": "3.0934 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 311,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/841144",
+        "projected_yield": "2.9302 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 312,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/510519",
+        "projected_yield": "2.025 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 313,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/666512",
+        "projected_yield": "1.2553 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 314,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/979780",
+        "projected_yield": "4.131 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 315,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/796357",
+        "projected_yield": "4.119 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 316,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/507756",
+        "projected_yield": "2.886 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 317,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/539505",
+        "projected_yield": "0.822 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 318,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/701677",
+        "projected_yield": "441.86 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 319,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/402390",
+        "projected_yield": "879.84 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 320,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/642001",
+        "projected_yield": "3.1979 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 321,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/464875",
+        "projected_yield": "4.149 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 322,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/897783",
+        "projected_yield": "0.502 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 323,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/199390",
+        "projected_yield": "1.093 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 324,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/985267",
+        "projected_yield": "2.4637 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 325,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/848778",
+        "projected_yield": "3.015 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 326,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/409790",
+        "projected_yield": "1.1601 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 327,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/860052",
+        "projected_yield": "1.0331 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 328,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/525194",
+        "projected_yield": "0.8044 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 329,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/972360",
+        "projected_yield": "2.1158 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 330,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/615456",
+        "projected_yield": "2.555 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 331,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/976227",
+        "projected_yield": "2.0496 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 332,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/273401",
+        "projected_yield": "2.4808 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 333,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/320284",
+        "projected_yield": "2056.98 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 334,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/666768",
+        "projected_yield": "3.34 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 335,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/394564",
+        "projected_yield": "3.4603 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 336,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/350590",
+        "projected_yield": "3.192 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 337,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/315384",
+        "projected_yield": "1.6914 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 338,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/430398",
+        "projected_yield": "1.5 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 339,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/819737",
+        "projected_yield": "677.48 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 340,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/847198",
+        "projected_yield": "2.2916 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 341,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/175974",
+        "projected_yield": "1781.73 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 342,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/551801",
+        "projected_yield": "2.3334 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 343,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/240311",
+        "projected_yield": "1.0039 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 344,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/546822",
+        "projected_yield": "4.225 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 345,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/321858",
+        "projected_yield": "1387.83 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 346,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/876155",
+        "projected_yield": "2.77 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 347,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/922559",
+        "projected_yield": "634.51 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 348,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/756594",
+        "projected_yield": "2.367 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 349,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/639928",
+        "projected_yield": "1.0195 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 350,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/579094",
+        "projected_yield": "239.52 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 351,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/851842",
+        "projected_yield": "1.385 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 352,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/709805",
+        "projected_yield": "0.864 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 353,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/976372",
+        "projected_yield": "1299.04 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 354,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/491488",
+        "projected_yield": "1.9782 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 355,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/331363",
+        "projected_yield": "4.298 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 356,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/713165",
+        "projected_yield": "1.0572 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 357,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/924642",
+        "projected_yield": "4.48 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 358,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/516625",
+        "projected_yield": "4.257 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 359,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/367027",
+        "projected_yield": "3.3872 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 360,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/359173",
+        "projected_yield": "4.275 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 361,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/488927",
+        "projected_yield": "3.745 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 362,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/835248",
+        "projected_yield": "4.163 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 363,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/215236",
+        "projected_yield": "3.3238 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 364,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/414752",
+        "projected_yield": "1.9411 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 365,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/530139",
+        "projected_yield": "1.782 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 366,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/108373",
+        "projected_yield": "253.04 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 367,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/555441",
+        "projected_yield": "1558.11 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 368,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/459261",
+        "projected_yield": "0.7636 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 369,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/879587",
+        "projected_yield": "3.4652 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 370,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/257906",
+        "projected_yield": "1046.81 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 371,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/806523",
+        "projected_yield": "1.431 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 372,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/724464",
+        "projected_yield": "3.1629 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 373,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/135843",
+        "projected_yield": "1.535 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 374,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/434799",
+        "projected_yield": "1.139 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 375,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/710414",
+        "projected_yield": "4.222 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 376,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/828932",
+        "projected_yield": "2.9235 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 377,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/985939",
+        "projected_yield": "1.176 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 378,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/147515",
+        "projected_yield": "1.886 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 379,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/948443",
+        "projected_yield": "3.3737 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 380,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/870692",
+        "projected_yield": "2.8523 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 381,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/103007",
+        "projected_yield": "1669.45 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 382,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/703063",
+        "projected_yield": "0.8654 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 383,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/248998",
+        "projected_yield": "2.2492 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 384,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/486422",
+        "projected_yield": "0.582 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 385,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/148857",
+        "projected_yield": "1009.49 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 386,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/310104",
+        "projected_yield": "1864.73 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 387,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/778099",
+        "projected_yield": "0.584 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 388,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/667266",
+        "projected_yield": "2.363 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 389,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/368201",
+        "projected_yield": "2.122 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 390,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/327276",
+        "projected_yield": "1.6363 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 391,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/417532",
+        "projected_yield": "2.2551 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 392,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/822540",
+        "projected_yield": "2.622 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 393,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/169153",
+        "projected_yield": "2.4437 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 394,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/813032",
+        "projected_yield": "0.914 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 395,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/710637",
+        "projected_yield": "4.564 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 396,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/314108",
+        "projected_yield": "236.92 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 397,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/220708",
+        "projected_yield": "4.103 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 398,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/514160",
+        "projected_yield": "339.45 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 399,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/722127",
+        "projected_yield": "2.144 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 400,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/878443",
+        "projected_yield": "1.6161 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 401,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/430145",
+        "projected_yield": "2.5353 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 402,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/142246",
+        "projected_yield": "3.1452 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 403,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/550797",
+        "projected_yield": "3.859 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 404,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/531297",
+        "projected_yield": "2.1864 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 405,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/980143",
+        "projected_yield": "3.448 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 406,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/682228",
+        "projected_yield": "4.605 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 407,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/743573",
+        "projected_yield": "3.148 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 408,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/267567",
+        "projected_yield": "2.6918 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 409,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/145682",
+        "projected_yield": "781.03 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 410,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/741250",
+        "projected_yield": "3.4815 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 411,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/229593",
+        "projected_yield": "2.796 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 412,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/591137",
+        "projected_yield": "2.0764 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 413,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/202677",
+        "projected_yield": "3.875 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 414,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/618316",
+        "projected_yield": "0.505 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 415,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/935404",
+        "projected_yield": "1841.19 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 416,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/697978",
+        "projected_yield": "4.449 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 417,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/753706",
+        "projected_yield": "0.8639 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 418,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/379616",
+        "projected_yield": "2.1011 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 419,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/790263",
+        "projected_yield": "1291.07 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 420,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/756942",
+        "projected_yield": "4.722 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 421,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/690462",
+        "projected_yield": "3.4921 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 422,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/234037",
+        "projected_yield": "1.5382 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 423,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/844257",
+        "projected_yield": "0.6465 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 424,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/561065",
+        "projected_yield": "799.42 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 425,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/493295",
+        "projected_yield": "3.674 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 426,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/305986",
+        "projected_yield": "347.81 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 427,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/609425",
+        "projected_yield": "0.565 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 428,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/108551",
+        "projected_yield": "1755.38 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 429,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/472749",
+        "projected_yield": "423.93 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 430,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/720247",
+        "projected_yield": "0.5348 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 431,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/365452",
+        "projected_yield": "3.0353 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 432,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/479190",
+        "projected_yield": "473.03 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 433,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/592381",
+        "projected_yield": "2.2825 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 434,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/970689",
+        "projected_yield": "3.576 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 435,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/827094",
+        "projected_yield": "4.196 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 436,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/203516",
+        "projected_yield": "1.5207 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 437,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/390071",
+        "projected_yield": "2.082 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 438,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/231240",
+        "projected_yield": "2132.31 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 439,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/118751",
+        "projected_yield": "3.152 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 440,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/997746",
+        "projected_yield": "1994.13 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 441,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/888634",
+        "projected_yield": "0.369 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 442,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/527036",
+        "projected_yield": "4.165 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 443,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/665370",
+        "projected_yield": "521.61 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 444,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/680339",
+        "projected_yield": "835.3 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 445,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/720757",
+        "projected_yield": "2014.02 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 446,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/161433",
+        "projected_yield": "3.222 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 447,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/208472",
+        "projected_yield": "0.5301 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 448,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/176479",
+        "projected_yield": "0.202 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 449,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/118646",
+        "projected_yield": "4.766 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 450,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/530320",
+        "projected_yield": "1625.82 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 451,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/961486",
+        "projected_yield": "2.3674 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 452,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/478575",
+        "projected_yield": "1.646 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 453,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/547580",
+        "projected_yield": "1.4503 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 454,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/375885",
+        "projected_yield": "0.723 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 455,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/860001",
+        "projected_yield": "4.173 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 456,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/273842",
+        "projected_yield": "722.94 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 457,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/879031",
+        "projected_yield": "1.97 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 458,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/704413",
+        "projected_yield": "4.423 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 459,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/288779",
+        "projected_yield": "2029.7 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 460,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/757590",
+        "projected_yield": "1635.07 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 461,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/625234",
+        "projected_yield": "2.142 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 462,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/538684",
+        "projected_yield": "2.068 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 463,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/418653",
+        "projected_yield": "0.7719 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 464,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/358624",
+        "projected_yield": "0.7444 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 465,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/262828",
+        "projected_yield": "2.0228 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 466,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/506949",
+        "projected_yield": "1560.13 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 467,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/660191",
+        "projected_yield": "1.931 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 468,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/861532",
+        "projected_yield": "2159.33 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 469,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/399864",
+        "projected_yield": "1.9419 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 470,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/231886",
+        "projected_yield": "2.8843 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 471,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/649479",
+        "projected_yield": "1.5264 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 472,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/458109",
+        "projected_yield": "4.984 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 473,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/696236",
+        "projected_yield": "1.2894 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 474,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/303227",
+        "projected_yield": "1.5251 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 475,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/876736",
+        "projected_yield": "0.5532 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 476,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/970408",
+        "projected_yield": "0.856 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 477,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/885434",
+        "projected_yield": "1545.7 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 478,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/767203",
+        "projected_yield": "1224.84 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 479,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/118245",
+        "projected_yield": "1506.36 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 480,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/470881",
+        "projected_yield": "3.3875 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 481,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/338553",
+        "projected_yield": "4.432 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 482,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/319901",
+        "projected_yield": "0.585 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 483,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/809737",
+        "projected_yield": "248.83 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 484,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/984268",
+        "projected_yield": "4.106 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 485,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/740501",
+        "projected_yield": "4.79 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 486,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/506037",
+        "projected_yield": "1.6159 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 487,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/803942",
+        "projected_yield": "1275.9 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 488,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/533556",
+        "projected_yield": "0.6852 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 489,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/412632",
+        "projected_yield": "1.7867 ETH",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 490,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/460930",
+        "projected_yield": "2.7761 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 491,
+        "protocol": "GMX-GLP-Vault",
+        "node_target": "expansion-gmx-glp-vault/772444",
+        "projected_yield": "1822.65 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 492,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/770431",
+        "projected_yield": "653.67 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 493,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/982308",
+        "projected_yield": "1542.9 USDC",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 494,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/636344",
+        "projected_yield": "1.965 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 495,
+        "protocol": "Kinesis-Bullion-Mesh",
+        "node_target": "expansion-kinesis-bullion-mesh/834207",
+        "projected_yield": "1.869 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 496,
+        "protocol": "MakerDAO-PSM",
+        "node_target": "expansion-makerdao-psm/634024",
+        "projected_yield": "2.733 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 497,
+        "protocol": "Aave-V3-Lending",
+        "node_target": "expansion-aave-v3-lending/727290",
+        "projected_yield": "1.1079 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 498,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/793184",
+        "projected_yield": "1.211 PAXG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 499,
+        "protocol": "Curve-Stable-Pool",
+        "node_target": "expansion-curve-stable-pool/335663",
+        "projected_yield": "1.1841 SOL",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    },
+    {
+        "expansion_id": 500,
+        "protocol": "Hyperliquid-Perp",
+        "node_target": "expansion-hyperliquid-perp/751525",
+        "projected_yield": "1.24 KAG",
+        "execution_status": "EXPANSION_LATTICE_ARMED"
+    }
+]

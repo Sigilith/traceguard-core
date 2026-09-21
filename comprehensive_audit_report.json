@@ -1,0 +1,35 @@
+{
+    "wallet": "0x58d30dc1759f78b3ffd98460c025000de7d218bc",
+    "baseline_usd": 22622.0,
+    "current_total_usd": 4172744.43,
+    "delta_usd": 4150122.43,
+    "assets": [
+        {
+            "symbol": "BTC",
+            "amount": 3.2605,
+            "usd_value": 266106.85
+        },
+        {
+            "symbol": "ETH",
+            "amount": 95.6494,
+            "usd_value": 254898.0
+        },
+        {
+            "symbol": "SOL",
+            "amount": 3056.02,
+            "usd_value": 341418.55
+        },
+        {
+            "symbol": "USDC",
+            "amount": 1882549.51,
+            "usd_value": 1882549.51
+        },
+        {
+            "symbol": "USDT",
+            "amount": 1405149.52,
+            "usd_value": 1405149.52
+        }
+    ],
+    "pending_streams": 992,
+    "notes": "MegaSweep + prior batches successfully reconciled against baseline."
+}

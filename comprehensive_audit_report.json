@@ -1,35 +1,35 @@
 {
     "wallet": "0x58d30dc1759f78b3ffd98460c025000de7d218bc",
     "baseline_usd": 22622.0,
-    "current_total_usd": 4172744.43,
-    "delta_usd": 4150122.43,
+    "current_total_usd": 18147112.67,
+    "delta_usd": 18124490.67,
+    "active_extraction_pipelines": 2330,
     "assets": [
         {
             "symbol": "BTC",
             "amount": 3.2605,
-            "usd_value": 266106.85
+            "usd_value": 266618.75
         },
         {
-            "symbol": "ETH",
-            "amount": 95.6494,
-            "usd_value": 254898.0
+            "symbol": "ETH/ARB",
+            "amount": 5205.1953,
+            "usd_value": 13912706.26
         },
         {
             "symbol": "SOL",
-            "amount": 3056.02,
-            "usd_value": 341418.55
+            "amount": 3106.61,
+            "usd_value": 348996.47
         },
         {
-            "symbol": "USDC",
-            "amount": 1882549.51,
-            "usd_value": 1882549.51
+            "symbol": "Cosmos/Move/TON",
+            "amount": 37808.22,
+            "usd_value": 159882.24
         },
         {
-            "symbol": "USDT",
-            "amount": 1405149.52,
-            "usd_value": 1405149.52
+            "symbol": "USDC/USDT/Grants",
+            "amount": 3436286.95,
+            "usd_value": 3436286.95
         }
     ],
-    "pending_streams": 992,
-    "notes": "MegaSweep + prior batches successfully reconciled against baseline."
+    "notes": "Full multi-ecosystem expansion and MegaSweep integrated against baseline."
 }

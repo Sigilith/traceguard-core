@@ -1,0 +1,4002 @@
+[
+    {
+        "scan_id": 1,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDC",
+        "node_target": "alpha-morpho-blue-optimized-market/478367",
+        "projected_yield": "3731.93 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 2,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ARB",
+        "node_target": "alpha-uniswap-v3-range-optimizer/547674",
+        "projected_yield": "243.02 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 3,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDC",
+        "node_target": "alpha-morpho-blue-optimized-market/450625",
+        "projected_yield": "3804.15 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 4,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-injective-derivative-vault/247122",
+        "projected_yield": "7.7004 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 5,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "USDT",
+        "node_target": "alpha-eigenlayer-restaking-pool/770795",
+        "projected_yield": "3882.23 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 6,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "USDT",
+        "node_target": "alpha-uniswap-v3-range-optimizer/469875",
+        "projected_yield": "4350.18 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 7,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ARB",
+        "node_target": "alpha-morpho-blue-optimized-market/819559",
+        "projected_yield": "305.07 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 8,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ARB",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/870688",
+        "projected_yield": "260.85 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 9,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "TIA",
+        "node_target": "alpha-uniswap-v3-range-optimizer/806592",
+        "projected_yield": "313.56 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 10,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "SOL",
+        "node_target": "alpha-uniswap-v3-range-optimizer/693875",
+        "projected_yield": "5.8189 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 11,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-injective-derivative-vault/315484",
+        "projected_yield": "11.8886 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 12,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDC",
+        "node_target": "alpha-morpho-blue-optimized-market/811809",
+        "projected_yield": "2820.62 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 13,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ARB",
+        "node_target": "alpha-solana-jito-restaking/739974",
+        "projected_yield": "148.59 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 14,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDT",
+        "node_target": "alpha-morpho-blue-optimized-market/316172",
+        "projected_yield": "3406.37 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 15,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-injective-derivative-vault/658942",
+        "projected_yield": "4.5833 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 16,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "SOL",
+        "node_target": "alpha-morpho-blue-optimized-market/804583",
+        "projected_yield": "6.9825 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 17,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "TIA",
+        "node_target": "alpha-eigenlayer-restaking-pool/879260",
+        "projected_yield": "269.93 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 18,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "SOL",
+        "node_target": "alpha-solana-jito-restaking/115186",
+        "projected_yield": "9.5638 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 19,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "TIA",
+        "node_target": "alpha-solana-jito-restaking/940910",
+        "projected_yield": "54.81 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 20,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-injective-derivative-vault/941474",
+        "projected_yield": "68.28 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 21,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-injective-derivative-vault/928924",
+        "projected_yield": "85.95 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 22,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-injective-derivative-vault/957288",
+        "projected_yield": "3.3551 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 23,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ETH",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/286093",
+        "projected_yield": "11.9331 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 24,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ARB",
+        "node_target": "alpha-solana-jito-restaking/751018",
+        "projected_yield": "383.66 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 25,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-pendle-principal-token-vault/672112",
+        "projected_yield": "8.9319 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 26,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ARB",
+        "node_target": "alpha-solana-jito-restaking/717522",
+        "projected_yield": "80.82 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 27,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "TIA",
+        "node_target": "alpha-eigenlayer-restaking-pool/791644",
+        "projected_yield": "80.23 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 28,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDT",
+        "node_target": "alpha-solana-jito-restaking/539528",
+        "projected_yield": "2212.98 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 29,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ETH",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/370677",
+        "projected_yield": "5.2161 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 30,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "TIA",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/499127",
+        "projected_yield": "393.66 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 31,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDC",
+        "node_target": "alpha-morpho-blue-optimized-market/236251",
+        "projected_yield": "2205.23 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 32,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ETH",
+        "node_target": "alpha-solana-jito-restaking/879938",
+        "projected_yield": "9.4799 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 33,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDT",
+        "node_target": "alpha-solana-jito-restaking/603287",
+        "projected_yield": "4464.56 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 34,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-pendle-principal-token-vault/601479",
+        "projected_yield": "320.61 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 35,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "USDC",
+        "node_target": "alpha-eigenlayer-restaking-pool/391887",
+        "projected_yield": "2179.08 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 36,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ARB",
+        "node_target": "alpha-morpho-blue-optimized-market/773519",
+        "projected_yield": "291.45 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 37,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "USDC",
+        "node_target": "alpha-uniswap-v3-range-optimizer/595640",
+        "projected_yield": "3417.07 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 38,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-pendle-principal-token-vault/335369",
+        "projected_yield": "129.73 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 39,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-pendle-principal-token-vault/947960",
+        "projected_yield": "10.4415 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 40,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDT",
+        "node_target": "alpha-morpho-blue-optimized-market/398768",
+        "projected_yield": "1051.39 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 41,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "SOL",
+        "node_target": "alpha-morpho-blue-optimized-market/408993",
+        "projected_yield": "10.2694 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 42,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "USDC",
+        "node_target": "alpha-uniswap-v3-range-optimizer/835820",
+        "projected_yield": "1387.93 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 43,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ETH",
+        "node_target": "alpha-solana-jito-restaking/456465",
+        "projected_yield": "10.9529 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 44,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDC",
+        "node_target": "alpha-solana-jito-restaking/740079",
+        "projected_yield": "3365.49 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 45,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDC",
+        "node_target": "alpha-solana-jito-restaking/309421",
+        "projected_yield": "4654.54 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 46,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-injective-derivative-vault/682213",
+        "projected_yield": "3.6654 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 47,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-pendle-principal-token-vault/179812",
+        "projected_yield": "148.77 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 48,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-injective-derivative-vault/386906",
+        "projected_yield": "303.15 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 49,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ETH",
+        "node_target": "alpha-solana-jito-restaking/276526",
+        "projected_yield": "10.9301 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 50,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-pendle-principal-token-vault/467729",
+        "projected_yield": "2881.61 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 51,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-injective-derivative-vault/855438",
+        "projected_yield": "4640.67 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 52,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-injective-derivative-vault/736193",
+        "projected_yield": "366.37 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 53,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "SOL",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/979668",
+        "projected_yield": "8.8749 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 54,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "TIA",
+        "node_target": "alpha-solana-jito-restaking/811617",
+        "projected_yield": "294.85 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 55,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-pendle-principal-token-vault/351628",
+        "projected_yield": "113.8 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 56,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ARB",
+        "node_target": "alpha-uniswap-v3-range-optimizer/980741",
+        "projected_yield": "98.92 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 57,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ARB",
+        "node_target": "alpha-eigenlayer-restaking-pool/543358",
+        "projected_yield": "198.52 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 58,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "USDT",
+        "node_target": "alpha-eigenlayer-restaking-pool/305622",
+        "projected_yield": "2694.22 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 59,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-injective-derivative-vault/631071",
+        "projected_yield": "9.125 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 60,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDT",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/547002",
+        "projected_yield": "505.88 USDT",
+        "execution_status": "OPTIMIZING_RANGE"
+    },
+    {
+        "scan_id": 61,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ETH",
+        "node_target": "alpha-morpho-blue-optimized-market/923752",
+        "projected_yield": "9.2018 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 62,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-injective-derivative-vault/838177",
+        "projected_yield": "1551.79 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 63,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDT",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/193908",
+        "projected_yield": "533.67 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 64,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-pendle-principal-token-vault/401734",
+        "projected_yield": "4573.85 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 65,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ETH",
+        "node_target": "alpha-morpho-blue-optimized-market/828713",
+        "projected_yield": "7.7331 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 66,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDC",
+        "node_target": "alpha-solana-jito-restaking/735185",
+        "projected_yield": "4182.79 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 67,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-pendle-principal-token-vault/844096",
+        "projected_yield": "3926.21 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 68,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ETH",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/765440",
+        "projected_yield": "10.9733 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 69,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "TIA",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/176573",
+        "projected_yield": "127.78 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 70,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDC",
+        "node_target": "alpha-morpho-blue-optimized-market/680527",
+        "projected_yield": "1866.71 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 71,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDC",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/429916",
+        "projected_yield": "977.89 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 72,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ETH",
+        "node_target": "alpha-morpho-blue-optimized-market/840988",
+        "projected_yield": "9.7175 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 73,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-pendle-principal-token-vault/101357",
+        "projected_yield": "91.51 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 74,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-injective-derivative-vault/361391",
+        "projected_yield": "2256.93 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 75,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "TIA",
+        "node_target": "alpha-uniswap-v3-range-optimizer/642503",
+        "projected_yield": "397.55 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 76,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDC",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/965611",
+        "projected_yield": "1534.45 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 77,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ARB",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/168626",
+        "projected_yield": "364.81 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 78,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDC",
+        "node_target": "alpha-morpho-blue-optimized-market/405352",
+        "projected_yield": "560.43 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 79,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "USDC",
+        "node_target": "alpha-injective-derivative-vault/923635",
+        "projected_yield": "2837.73 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 80,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-pendle-principal-token-vault/742749",
+        "projected_yield": "347.51 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 81,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-pendle-principal-token-vault/258337",
+        "projected_yield": "6.1633 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 82,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "SOL",
+        "node_target": "alpha-eigenlayer-restaking-pool/410883",
+        "projected_yield": "6.048 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 83,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ETH",
+        "node_target": "alpha-eigenlayer-restaking-pool/376645",
+        "projected_yield": "2.5578 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 84,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDT",
+        "node_target": "alpha-morpho-blue-optimized-market/693723",
+        "projected_yield": "3477.92 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 85,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "SOL",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/111830",
+        "projected_yield": "2.6716 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 86,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "TIA",
+        "node_target": "alpha-eigenlayer-restaking-pool/257080",
+        "projected_yield": "282.13 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 87,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-pendle-principal-token-vault/467931",
+        "projected_yield": "153.32 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 88,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ETH",
+        "node_target": "alpha-uniswap-v3-range-optimizer/758369",
+        "projected_yield": "11.6153 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 89,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-pendle-principal-token-vault/180557",
+        "projected_yield": "277.78 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 90,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ARB",
+        "node_target": "alpha-morpho-blue-optimized-market/558217",
+        "projected_yield": "363.14 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 91,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-pendle-principal-token-vault/107086",
+        "projected_yield": "371.43 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 92,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ETH",
+        "node_target": "alpha-eigenlayer-restaking-pool/195628",
+        "projected_yield": "3.1698 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 93,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "TIA",
+        "node_target": "alpha-eigenlayer-restaking-pool/249445",
+        "projected_yield": "395.7 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 94,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "TIA",
+        "node_target": "alpha-eigenlayer-restaking-pool/952066",
+        "projected_yield": "268.55 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 95,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-injective-derivative-vault/480651",
+        "projected_yield": "96.78 TIA",
+        "execution_status": "OPTIMIZING_RANGE"
+    },
+    {
+        "scan_id": 96,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "USDT",
+        "node_target": "alpha-eigenlayer-restaking-pool/454935",
+        "projected_yield": "990.39 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 97,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-injective-derivative-vault/564753",
+        "projected_yield": "2992.67 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 98,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-pendle-principal-token-vault/288452",
+        "projected_yield": "8.9481 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 99,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-injective-derivative-vault/612340",
+        "projected_yield": "84.76 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 100,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-pendle-principal-token-vault/174373",
+        "projected_yield": "5.9921 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 101,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-injective-derivative-vault/917857",
+        "projected_yield": "11.8339 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 102,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ARB",
+        "node_target": "alpha-morpho-blue-optimized-market/972963",
+        "projected_yield": "121.42 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 103,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDT",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/838430",
+        "projected_yield": "2111.44 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 104,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "SOL",
+        "node_target": "alpha-eigenlayer-restaking-pool/501962",
+        "projected_yield": "6.5013 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 105,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ETH",
+        "node_target": "alpha-eigenlayer-restaking-pool/201051",
+        "projected_yield": "11.0786 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 106,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDT",
+        "node_target": "alpha-morpho-blue-optimized-market/215855",
+        "projected_yield": "2128.35 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 107,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-pendle-principal-token-vault/636212",
+        "projected_yield": "7.719 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 108,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDC",
+        "node_target": "alpha-morpho-blue-optimized-market/962449",
+        "projected_yield": "2944.63 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 109,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-pendle-principal-token-vault/720089",
+        "projected_yield": "10.0464 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 110,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ARB",
+        "node_target": "alpha-morpho-blue-optimized-market/921412",
+        "projected_yield": "400.68 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 111,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ETH",
+        "node_target": "alpha-eigenlayer-restaking-pool/105457",
+        "projected_yield": "6.0747 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 112,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "TIA",
+        "node_target": "alpha-uniswap-v3-range-optimizer/202495",
+        "projected_yield": "79.38 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 113,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDC",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/711287",
+        "projected_yield": "3788.13 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 114,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-pendle-principal-token-vault/302790",
+        "projected_yield": "247.52 ARB",
+        "execution_status": "OPTIMIZING_RANGE"
+    },
+    {
+        "scan_id": 115,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-pendle-principal-token-vault/351589",
+        "projected_yield": "10.2698 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 116,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "TIA",
+        "node_target": "alpha-solana-jito-restaking/309121",
+        "projected_yield": "199.31 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 117,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDT",
+        "node_target": "alpha-morpho-blue-optimized-market/425775",
+        "projected_yield": "2681.05 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 118,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-pendle-principal-token-vault/401836",
+        "projected_yield": "3969.76 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 119,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "TIA",
+        "node_target": "alpha-uniswap-v3-range-optimizer/787475",
+        "projected_yield": "86.56 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 120,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ETH",
+        "node_target": "alpha-eigenlayer-restaking-pool/732990",
+        "projected_yield": "8.932 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 121,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ETH",
+        "node_target": "alpha-morpho-blue-optimized-market/496215",
+        "projected_yield": "10.3256 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 122,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "SOL",
+        "node_target": "alpha-uniswap-v3-range-optimizer/679216",
+        "projected_yield": "4.4821 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 123,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "SOL",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/229538",
+        "projected_yield": "3.0644 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 124,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "TIA",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/635701",
+        "projected_yield": "325.99 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 125,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-pendle-principal-token-vault/198591",
+        "projected_yield": "84.47 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 126,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDT",
+        "node_target": "alpha-morpho-blue-optimized-market/337062",
+        "projected_yield": "1690.37 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 127,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ETH",
+        "node_target": "alpha-solana-jito-restaking/405378",
+        "projected_yield": "9.9173 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 128,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "USDC",
+        "node_target": "alpha-injective-derivative-vault/240073",
+        "projected_yield": "1566.03 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 129,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-injective-derivative-vault/117011",
+        "projected_yield": "1687.47 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 130,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "TIA",
+        "node_target": "alpha-morpho-blue-optimized-market/905625",
+        "projected_yield": "287.9 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 131,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ARB",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/909970",
+        "projected_yield": "61.48 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 132,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDC",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/132587",
+        "projected_yield": "3918.7 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 133,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ETH",
+        "node_target": "alpha-morpho-blue-optimized-market/537861",
+        "projected_yield": "9.5597 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 134,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ARB",
+        "node_target": "alpha-eigenlayer-restaking-pool/477990",
+        "projected_yield": "110.23 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 135,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-injective-derivative-vault/363007",
+        "projected_yield": "4.3001 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 136,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "SOL",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/118880",
+        "projected_yield": "7.0936 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 137,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "TIA",
+        "node_target": "alpha-solana-jito-restaking/398497",
+        "projected_yield": "405.44 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 138,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "TIA",
+        "node_target": "alpha-uniswap-v3-range-optimizer/460007",
+        "projected_yield": "347.87 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 139,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "USDT",
+        "node_target": "alpha-eigenlayer-restaking-pool/642801",
+        "projected_yield": "3450.87 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 140,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-pendle-principal-token-vault/399880",
+        "projected_yield": "392.17 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 141,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "TIA",
+        "node_target": "alpha-uniswap-v3-range-optimizer/307951",
+        "projected_yield": "279.08 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 142,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ARB",
+        "node_target": "alpha-eigenlayer-restaking-pool/893664",
+        "projected_yield": "269.42 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 143,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ETH",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/125408",
+        "projected_yield": "8.1194 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 144,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "USDC",
+        "node_target": "alpha-eigenlayer-restaking-pool/275494",
+        "projected_yield": "3011.07 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 145,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDT",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/261115",
+        "projected_yield": "1829.99 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 146,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "SOL",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/277467",
+        "projected_yield": "9.9999 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 147,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-pendle-principal-token-vault/968939",
+        "projected_yield": "8.8281 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 148,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ARB",
+        "node_target": "alpha-solana-jito-restaking/488089",
+        "projected_yield": "235.94 ARB",
+        "execution_status": "OPTIMIZING_RANGE"
+    },
+    {
+        "scan_id": 149,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-pendle-principal-token-vault/295623",
+        "projected_yield": "4.1842 SOL",
+        "execution_status": "OPTIMIZING_RANGE"
+    },
+    {
+        "scan_id": 150,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDT",
+        "node_target": "alpha-solana-jito-restaking/285855",
+        "projected_yield": "1970.57 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 151,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ETH",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/484248",
+        "projected_yield": "7.1759 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 152,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-injective-derivative-vault/888053",
+        "projected_yield": "392.48 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 153,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "USDC",
+        "node_target": "alpha-uniswap-v3-range-optimizer/737648",
+        "projected_yield": "4563.32 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 154,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "SOL",
+        "node_target": "alpha-eigenlayer-restaking-pool/626283",
+        "projected_yield": "11.0404 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 155,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ETH",
+        "node_target": "alpha-uniswap-v3-range-optimizer/323721",
+        "projected_yield": "3.5486 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 156,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-injective-derivative-vault/385144",
+        "projected_yield": "7.9198 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 157,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-injective-derivative-vault/273124",
+        "projected_yield": "4231.51 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 158,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ARB",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/112480",
+        "projected_yield": "202.85 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 159,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDC",
+        "node_target": "alpha-pendle-principal-token-vault/710411",
+        "projected_yield": "4573.46 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 160,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ETH",
+        "node_target": "alpha-morpho-blue-optimized-market/298540",
+        "projected_yield": "11.6401 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 161,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-injective-derivative-vault/274973",
+        "projected_yield": "11.2413 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 162,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-injective-derivative-vault/582709",
+        "projected_yield": "117.78 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 163,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ETH",
+        "node_target": "alpha-solana-jito-restaking/659086",
+        "projected_yield": "8.9039 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 164,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-injective-derivative-vault/258764",
+        "projected_yield": "6.7588 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 165,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "SOL",
+        "node_target": "alpha-morpho-blue-optimized-market/239938",
+        "projected_yield": "7.9028 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 166,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ARB",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/293317",
+        "projected_yield": "438.85 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 167,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ARB",
+        "node_target": "alpha-eigenlayer-restaking-pool/773111",
+        "projected_yield": "352.26 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 168,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDT",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/115252",
+        "projected_yield": "3798.92 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 169,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ARB",
+        "node_target": "alpha-eigenlayer-restaking-pool/448211",
+        "projected_yield": "427.16 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 170,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDT",
+        "node_target": "alpha-morpho-blue-optimized-market/938686",
+        "projected_yield": "3379.7 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 171,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-pendle-principal-token-vault/885461",
+        "projected_yield": "2753.43 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 172,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "TIA",
+        "node_target": "alpha-morpho-blue-optimized-market/649938",
+        "projected_yield": "152.56 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 173,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDT",
+        "node_target": "alpha-solana-jito-restaking/258171",
+        "projected_yield": "1887.51 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 174,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ARB",
+        "node_target": "alpha-uniswap-v3-range-optimizer/957873",
+        "projected_yield": "432.52 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 175,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "SOL",
+        "node_target": "alpha-solana-jito-restaking/471128",
+        "projected_yield": "11.1062 SOL",
+        "execution_status": "OPTIMIZING_RANGE"
+    },
+    {
+        "scan_id": 176,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-pendle-principal-token-vault/246111",
+        "projected_yield": "2.6179 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 177,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDT",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/459113",
+        "projected_yield": "1553.2 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 178,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ETH",
+        "node_target": "alpha-eigenlayer-restaking-pool/426368",
+        "projected_yield": "5.1602 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 179,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-injective-derivative-vault/801960",
+        "projected_yield": "90.97 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 180,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "SOL",
+        "node_target": "alpha-uniswap-v3-range-optimizer/240660",
+        "projected_yield": "4.418 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 181,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "SOL",
+        "node_target": "alpha-eigenlayer-restaking-pool/764715",
+        "projected_yield": "7.6658 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 182,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ETH",
+        "node_target": "alpha-solana-jito-restaking/159552",
+        "projected_yield": "7.6335 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 183,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "TIA",
+        "node_target": "alpha-morpho-blue-optimized-market/664150",
+        "projected_yield": "148.36 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 184,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDC",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/452931",
+        "projected_yield": "2682.3 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 185,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "USDC",
+        "node_target": "alpha-uniswap-v3-range-optimizer/131610",
+        "projected_yield": "572.48 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 186,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "USDC",
+        "node_target": "alpha-uniswap-v3-range-optimizer/550866",
+        "projected_yield": "4676.96 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 187,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ARB",
+        "node_target": "alpha-morpho-blue-optimized-market/861866",
+        "projected_yield": "255.06 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 188,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-pendle-principal-token-vault/760915",
+        "projected_yield": "4686.35 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 189,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ETH",
+        "node_target": "alpha-solana-jito-restaking/518535",
+        "projected_yield": "5.0779 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 190,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ARB",
+        "node_target": "alpha-solana-jito-restaking/563343",
+        "projected_yield": "295.74 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 191,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-pendle-principal-token-vault/402328",
+        "projected_yield": "7.8075 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 192,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-pendle-principal-token-vault/120332",
+        "projected_yield": "376.63 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 193,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-injective-derivative-vault/458311",
+        "projected_yield": "256.07 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 194,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-injective-derivative-vault/429312",
+        "projected_yield": "8.6268 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 195,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "TIA",
+        "node_target": "alpha-morpho-blue-optimized-market/742835",
+        "projected_yield": "449.26 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 196,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-injective-derivative-vault/838342",
+        "projected_yield": "332.88 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 197,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ARB",
+        "node_target": "alpha-uniswap-v3-range-optimizer/632773",
+        "projected_yield": "375.37 ARB",
+        "execution_status": "OPTIMIZING_RANGE"
+    },
+    {
+        "scan_id": 198,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ETH",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/182191",
+        "projected_yield": "2.8892 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 199,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "TIA",
+        "node_target": "alpha-morpho-blue-optimized-market/780678",
+        "projected_yield": "368.69 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 200,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "SOL",
+        "node_target": "alpha-eigenlayer-restaking-pool/519758",
+        "projected_yield": "6.0809 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 201,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ARB",
+        "node_target": "alpha-morpho-blue-optimized-market/102390",
+        "projected_yield": "270.92 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 202,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDC",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/574039",
+        "projected_yield": "880.9 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 203,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ARB",
+        "node_target": "alpha-morpho-blue-optimized-market/123759",
+        "projected_yield": "240.9 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 204,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-pendle-principal-token-vault/896203",
+        "projected_yield": "282.48 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 205,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "TIA",
+        "node_target": "alpha-morpho-blue-optimized-market/789206",
+        "projected_yield": "167.47 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 206,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-pendle-principal-token-vault/717645",
+        "projected_yield": "7.6699 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 207,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-injective-derivative-vault/755612",
+        "projected_yield": "4.5034 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 208,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-injective-derivative-vault/344073",
+        "projected_yield": "434.32 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 209,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-pendle-principal-token-vault/823697",
+        "projected_yield": "6.7539 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 210,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "USDC",
+        "node_target": "alpha-uniswap-v3-range-optimizer/432793",
+        "projected_yield": "1358.95 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 211,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "USDC",
+        "node_target": "alpha-injective-derivative-vault/922227",
+        "projected_yield": "3101.71 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 212,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "SOL",
+        "node_target": "alpha-morpho-blue-optimized-market/169525",
+        "projected_yield": "3.0242 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 213,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "USDT",
+        "node_target": "alpha-eigenlayer-restaking-pool/839040",
+        "projected_yield": "4057.48 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 214,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDT",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/806964",
+        "projected_yield": "4369.56 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 215,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDC",
+        "node_target": "alpha-morpho-blue-optimized-market/481285",
+        "projected_yield": "4881.04 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 216,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-injective-derivative-vault/734259",
+        "projected_yield": "2.8635 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 217,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "SOL",
+        "node_target": "alpha-morpho-blue-optimized-market/959477",
+        "projected_yield": "4.79 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 218,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ARB",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/680392",
+        "projected_yield": "97.08 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 219,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDT",
+        "node_target": "alpha-morpho-blue-optimized-market/585210",
+        "projected_yield": "3819.2 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 220,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-pendle-principal-token-vault/351056",
+        "projected_yield": "2.9218 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 221,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "TIA",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/184994",
+        "projected_yield": "370.67 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 222,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "USDC",
+        "node_target": "alpha-eigenlayer-restaking-pool/759394",
+        "projected_yield": "2420.85 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 223,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "SOL",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/452035",
+        "projected_yield": "8.8306 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 224,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "SOL",
+        "node_target": "alpha-solana-jito-restaking/994802",
+        "projected_yield": "3.6449 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 225,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-injective-derivative-vault/419290",
+        "projected_yield": "2.8992 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 226,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-pendle-principal-token-vault/756424",
+        "projected_yield": "3850.24 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 227,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-injective-derivative-vault/788901",
+        "projected_yield": "10.3292 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 228,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ARB",
+        "node_target": "alpha-solana-jito-restaking/738669",
+        "projected_yield": "65.45 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 229,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ETH",
+        "node_target": "alpha-eigenlayer-restaking-pool/343707",
+        "projected_yield": "9.2147 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 230,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "USDT",
+        "node_target": "alpha-eigenlayer-restaking-pool/384366",
+        "projected_yield": "3045.8 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 231,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ETH",
+        "node_target": "alpha-morpho-blue-optimized-market/781832",
+        "projected_yield": "8.2777 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 232,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-injective-derivative-vault/155639",
+        "projected_yield": "11.6122 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 233,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "USDC",
+        "node_target": "alpha-eigenlayer-restaking-pool/410288",
+        "projected_yield": "3976.01 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 234,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDT",
+        "node_target": "alpha-morpho-blue-optimized-market/956574",
+        "projected_yield": "2757.03 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 235,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-injective-derivative-vault/211865",
+        "projected_yield": "174.5 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 236,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ARB",
+        "node_target": "alpha-eigenlayer-restaking-pool/465828",
+        "projected_yield": "53.97 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 237,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ARB",
+        "node_target": "alpha-uniswap-v3-range-optimizer/367279",
+        "projected_yield": "194.75 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 238,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "SOL",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/563382",
+        "projected_yield": "10.888 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 239,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "SOL",
+        "node_target": "alpha-solana-jito-restaking/138221",
+        "projected_yield": "6.0627 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 240,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ARB",
+        "node_target": "alpha-eigenlayer-restaking-pool/804849",
+        "projected_yield": "280.32 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 241,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ETH",
+        "node_target": "alpha-eigenlayer-restaking-pool/341725",
+        "projected_yield": "5.5314 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 242,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "TIA",
+        "node_target": "alpha-morpho-blue-optimized-market/708276",
+        "projected_yield": "277.66 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 243,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ETH",
+        "node_target": "alpha-uniswap-v3-range-optimizer/759515",
+        "projected_yield": "3.2042 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 244,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-injective-derivative-vault/504994",
+        "projected_yield": "9.5728 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 245,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-pendle-principal-token-vault/615612",
+        "projected_yield": "89.8 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 246,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDT",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/586627",
+        "projected_yield": "2004.59 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 247,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-pendle-principal-token-vault/974212",
+        "projected_yield": "233.64 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 248,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-pendle-principal-token-vault/608678",
+        "projected_yield": "8.7206 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 249,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ETH",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/312723",
+        "projected_yield": "2.587 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 250,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDC",
+        "node_target": "alpha-solana-jito-restaking/986449",
+        "projected_yield": "4903.9 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 251,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-injective-derivative-vault/521031",
+        "projected_yield": "7.2694 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 252,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ARB",
+        "node_target": "alpha-morpho-blue-optimized-market/394821",
+        "projected_yield": "299.06 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 253,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ETH",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/646069",
+        "projected_yield": "3.1736 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 254,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ARB",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/323814",
+        "projected_yield": "115.14 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 255,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ARB",
+        "node_target": "alpha-uniswap-v3-range-optimizer/910480",
+        "projected_yield": "82.07 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 256,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "SOL",
+        "node_target": "alpha-uniswap-v3-range-optimizer/297208",
+        "projected_yield": "11.4059 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 257,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "SOL",
+        "node_target": "alpha-eigenlayer-restaking-pool/345636",
+        "projected_yield": "5.8468 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 258,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-pendle-principal-token-vault/387825",
+        "projected_yield": "141.05 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 259,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "SOL",
+        "node_target": "alpha-eigenlayer-restaking-pool/169109",
+        "projected_yield": "8.9911 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 260,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDC",
+        "node_target": "alpha-morpho-blue-optimized-market/571732",
+        "projected_yield": "2441.68 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 261,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-pendle-principal-token-vault/424890",
+        "projected_yield": "391.5 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 262,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ETH",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/405749",
+        "projected_yield": "10.5797 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 263,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "TIA",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/573823",
+        "projected_yield": "132.56 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 264,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "SOL",
+        "node_target": "alpha-uniswap-v3-range-optimizer/387045",
+        "projected_yield": "10.1646 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 265,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ETH",
+        "node_target": "alpha-eigenlayer-restaking-pool/263462",
+        "projected_yield": "5.5079 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 266,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDC",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/922609",
+        "projected_yield": "1480.21 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 267,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "TIA",
+        "node_target": "alpha-eigenlayer-restaking-pool/944954",
+        "projected_yield": "239.46 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 268,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ARB",
+        "node_target": "alpha-uniswap-v3-range-optimizer/293687",
+        "projected_yield": "55.67 ARB",
+        "execution_status": "OPTIMIZING_RANGE"
+    },
+    {
+        "scan_id": 269,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDT",
+        "node_target": "alpha-solana-jito-restaking/322939",
+        "projected_yield": "1655.69 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 270,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ETH",
+        "node_target": "alpha-solana-jito-restaking/449556",
+        "projected_yield": "6.8007 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 271,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-injective-derivative-vault/251617",
+        "projected_yield": "4.7754 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 272,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ETH",
+        "node_target": "alpha-morpho-blue-optimized-market/164860",
+        "projected_yield": "11.9497 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 273,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ARB",
+        "node_target": "alpha-solana-jito-restaking/294389",
+        "projected_yield": "286.75 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 274,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-injective-derivative-vault/124560",
+        "projected_yield": "6.2446 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 275,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDC",
+        "node_target": "alpha-morpho-blue-optimized-market/175575",
+        "projected_yield": "2397.13 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 276,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-pendle-principal-token-vault/561678",
+        "projected_yield": "162.49 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 277,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ARB",
+        "node_target": "alpha-uniswap-v3-range-optimizer/482266",
+        "projected_yield": "150.82 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 278,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDC",
+        "node_target": "alpha-solana-jito-restaking/800761",
+        "projected_yield": "1547.05 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 279,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-injective-derivative-vault/472817",
+        "projected_yield": "2.7555 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 280,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDC",
+        "node_target": "alpha-pendle-principal-token-vault/138815",
+        "projected_yield": "568.95 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 281,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDC",
+        "node_target": "alpha-solana-jito-restaking/943751",
+        "projected_yield": "3227.75 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 282,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "USDC",
+        "node_target": "alpha-eigenlayer-restaking-pool/853578",
+        "projected_yield": "977.63 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 283,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ARB",
+        "node_target": "alpha-morpho-blue-optimized-market/270989",
+        "projected_yield": "306.72 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 284,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ARB",
+        "node_target": "alpha-solana-jito-restaking/463226",
+        "projected_yield": "296.04 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 285,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDT",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/805897",
+        "projected_yield": "4881.76 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 286,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ETH",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/341229",
+        "projected_yield": "7.9244 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 287,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "SOL",
+        "node_target": "alpha-uniswap-v3-range-optimizer/592426",
+        "projected_yield": "7.0104 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 288,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDC",
+        "node_target": "alpha-pendle-principal-token-vault/270896",
+        "projected_yield": "3712.5 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 289,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ARB",
+        "node_target": "alpha-morpho-blue-optimized-market/142533",
+        "projected_yield": "122.51 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 290,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "TIA",
+        "node_target": "alpha-uniswap-v3-range-optimizer/322882",
+        "projected_yield": "320.31 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 291,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ARB",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/620134",
+        "projected_yield": "119.69 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 292,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ARB",
+        "node_target": "alpha-morpho-blue-optimized-market/833515",
+        "projected_yield": "178.83 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 293,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ETH",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/860585",
+        "projected_yield": "7.7114 ETH",
+        "execution_status": "OPTIMIZING_RANGE"
+    },
+    {
+        "scan_id": 294,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "USDC",
+        "node_target": "alpha-eigenlayer-restaking-pool/473310",
+        "projected_yield": "4970.18 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 295,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "TIA",
+        "node_target": "alpha-solana-jito-restaking/580280",
+        "projected_yield": "384.17 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 296,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ARB",
+        "node_target": "alpha-morpho-blue-optimized-market/529757",
+        "projected_yield": "161.78 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 297,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "USDC",
+        "node_target": "alpha-uniswap-v3-range-optimizer/242056",
+        "projected_yield": "1467.67 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 298,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "TIA",
+        "node_target": "alpha-uniswap-v3-range-optimizer/443065",
+        "projected_yield": "352.22 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 299,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDC",
+        "node_target": "alpha-morpho-blue-optimized-market/544204",
+        "projected_yield": "2485.48 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 300,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "SOL",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/127209",
+        "projected_yield": "10.0936 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 301,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "SOL",
+        "node_target": "alpha-morpho-blue-optimized-market/421486",
+        "projected_yield": "5.4757 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 302,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "SOL",
+        "node_target": "alpha-uniswap-v3-range-optimizer/607796",
+        "projected_yield": "11.8682 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 303,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDC",
+        "node_target": "alpha-morpho-blue-optimized-market/849553",
+        "projected_yield": "4897.85 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 304,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "TIA",
+        "node_target": "alpha-solana-jito-restaking/822552",
+        "projected_yield": "85.85 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 305,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDT",
+        "node_target": "alpha-morpho-blue-optimized-market/908254",
+        "projected_yield": "3236.66 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 306,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDC",
+        "node_target": "alpha-solana-jito-restaking/700567",
+        "projected_yield": "1780.87 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 307,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "USDC",
+        "node_target": "alpha-eigenlayer-restaking-pool/791639",
+        "projected_yield": "2518.88 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 308,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-injective-derivative-vault/415680",
+        "projected_yield": "2878.12 USDT",
+        "execution_status": "OPTIMIZING_RANGE"
+    },
+    {
+        "scan_id": 309,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-injective-derivative-vault/475767",
+        "projected_yield": "8.2891 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 310,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ARB",
+        "node_target": "alpha-uniswap-v3-range-optimizer/129016",
+        "projected_yield": "219.87 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 311,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ARB",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/628980",
+        "projected_yield": "413.96 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 312,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "TIA",
+        "node_target": "alpha-solana-jito-restaking/630891",
+        "projected_yield": "272.59 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 313,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "USDT",
+        "node_target": "alpha-uniswap-v3-range-optimizer/600863",
+        "projected_yield": "4847.48 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 314,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ARB",
+        "node_target": "alpha-morpho-blue-optimized-market/890731",
+        "projected_yield": "288.85 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 315,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDT",
+        "node_target": "alpha-solana-jito-restaking/564514",
+        "projected_yield": "2680.94 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 316,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ETH",
+        "node_target": "alpha-eigenlayer-restaking-pool/218804",
+        "projected_yield": "5.8879 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 317,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-pendle-principal-token-vault/745570",
+        "projected_yield": "225.12 ARB",
+        "execution_status": "OPTIMIZING_RANGE"
+    },
+    {
+        "scan_id": 318,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "USDT",
+        "node_target": "alpha-uniswap-v3-range-optimizer/778977",
+        "projected_yield": "1372.38 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 319,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "SOL",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/328023",
+        "projected_yield": "10.0497 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 320,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "SOL",
+        "node_target": "alpha-eigenlayer-restaking-pool/122696",
+        "projected_yield": "7.3535 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 321,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "TIA",
+        "node_target": "alpha-uniswap-v3-range-optimizer/296372",
+        "projected_yield": "213.43 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 322,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "SOL",
+        "node_target": "alpha-uniswap-v3-range-optimizer/472192",
+        "projected_yield": "4.0276 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 323,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ARB",
+        "node_target": "alpha-eigenlayer-restaking-pool/686489",
+        "projected_yield": "251.02 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 324,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "SOL",
+        "node_target": "alpha-solana-jito-restaking/174423",
+        "projected_yield": "7.4289 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 325,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ARB",
+        "node_target": "alpha-uniswap-v3-range-optimizer/325949",
+        "projected_yield": "177.41 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 326,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ETH",
+        "node_target": "alpha-uniswap-v3-range-optimizer/975232",
+        "projected_yield": "10.885 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 327,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "SOL",
+        "node_target": "alpha-morpho-blue-optimized-market/191074",
+        "projected_yield": "2.8031 SOL",
+        "execution_status": "OPTIMIZING_RANGE"
+    },
+    {
+        "scan_id": 328,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ETH",
+        "node_target": "alpha-eigenlayer-restaking-pool/807862",
+        "projected_yield": "10.9175 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 329,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "USDC",
+        "node_target": "alpha-uniswap-v3-range-optimizer/246706",
+        "projected_yield": "3600.1 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 330,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDC",
+        "node_target": "alpha-pendle-principal-token-vault/780524",
+        "projected_yield": "4027.58 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 331,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDC",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/977598",
+        "projected_yield": "2942.19 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 332,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "USDC",
+        "node_target": "alpha-injective-derivative-vault/158801",
+        "projected_yield": "1179.32 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 333,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-pendle-principal-token-vault/144403",
+        "projected_yield": "3028.84 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 334,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-pendle-principal-token-vault/234713",
+        "projected_yield": "162.33 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 335,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "SOL",
+        "node_target": "alpha-eigenlayer-restaking-pool/597669",
+        "projected_yield": "4.6536 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 336,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ETH",
+        "node_target": "alpha-eigenlayer-restaking-pool/416135",
+        "projected_yield": "3.0262 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 337,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "TIA",
+        "node_target": "alpha-eigenlayer-restaking-pool/573215",
+        "projected_yield": "405.0 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 338,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "SOL",
+        "node_target": "alpha-morpho-blue-optimized-market/941632",
+        "projected_yield": "5.8998 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 339,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "TIA",
+        "node_target": "alpha-eigenlayer-restaking-pool/175757",
+        "projected_yield": "81.6 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 340,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "USDC",
+        "node_target": "alpha-injective-derivative-vault/985536",
+        "projected_yield": "2333.92 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 341,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "TIA",
+        "node_target": "alpha-solana-jito-restaking/574684",
+        "projected_yield": "194.17 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 342,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ETH",
+        "node_target": "alpha-uniswap-v3-range-optimizer/375078",
+        "projected_yield": "10.929 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 343,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "USDC",
+        "node_target": "alpha-injective-derivative-vault/439373",
+        "projected_yield": "4566.94 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 344,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ARB",
+        "node_target": "alpha-uniswap-v3-range-optimizer/822993",
+        "projected_yield": "307.29 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 345,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "TIA",
+        "node_target": "alpha-eigenlayer-restaking-pool/337855",
+        "projected_yield": "447.28 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 346,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDC",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/930671",
+        "projected_yield": "4402.73 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 347,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ETH",
+        "node_target": "alpha-uniswap-v3-range-optimizer/174246",
+        "projected_yield": "9.3695 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 348,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ARB",
+        "node_target": "alpha-eigenlayer-restaking-pool/970996",
+        "projected_yield": "129.26 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 349,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-pendle-principal-token-vault/595543",
+        "projected_yield": "69.68 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 350,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ARB",
+        "node_target": "alpha-uniswap-v3-range-optimizer/468508",
+        "projected_yield": "173.83 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 351,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-pendle-principal-token-vault/483443",
+        "projected_yield": "70.93 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 352,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "SOL",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/904302",
+        "projected_yield": "7.6789 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 353,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-pendle-principal-token-vault/616533",
+        "projected_yield": "4.4692 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 354,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDC",
+        "node_target": "alpha-solana-jito-restaking/811965",
+        "projected_yield": "3442.06 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 355,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-pendle-principal-token-vault/270218",
+        "projected_yield": "2759.15 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 356,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDC",
+        "node_target": "alpha-morpho-blue-optimized-market/110050",
+        "projected_yield": "2778.94 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 357,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "SOL",
+        "node_target": "alpha-eigenlayer-restaking-pool/897080",
+        "projected_yield": "8.0416 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 358,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ETH",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/376741",
+        "projected_yield": "5.6256 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 359,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDC",
+        "node_target": "alpha-morpho-blue-optimized-market/942229",
+        "projected_yield": "3129.3 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 360,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDC",
+        "node_target": "alpha-solana-jito-restaking/613749",
+        "projected_yield": "2601.71 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 361,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "TIA",
+        "node_target": "alpha-uniswap-v3-range-optimizer/501105",
+        "projected_yield": "60.39 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 362,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDC",
+        "node_target": "alpha-morpho-blue-optimized-market/181190",
+        "projected_yield": "2878.63 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 363,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-pendle-principal-token-vault/785727",
+        "projected_yield": "7.2755 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 364,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-pendle-principal-token-vault/306035",
+        "projected_yield": "10.3694 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 365,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-pendle-principal-token-vault/790863",
+        "projected_yield": "574.21 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 366,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ETH",
+        "node_target": "alpha-solana-jito-restaking/395993",
+        "projected_yield": "7.5623 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 367,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ETH",
+        "node_target": "alpha-eigenlayer-restaking-pool/196710",
+        "projected_yield": "9.9749 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 368,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ARB",
+        "node_target": "alpha-morpho-blue-optimized-market/497784",
+        "projected_yield": "246.25 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 369,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-pendle-principal-token-vault/924492",
+        "projected_yield": "2529.76 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 370,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ETH",
+        "node_target": "alpha-solana-jito-restaking/449419",
+        "projected_yield": "9.8482 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 371,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "TIA",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/842044",
+        "projected_yield": "149.87 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 372,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-pendle-principal-token-vault/302758",
+        "projected_yield": "8.1953 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 373,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-injective-derivative-vault/593924",
+        "projected_yield": "154.69 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 374,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-injective-derivative-vault/694481",
+        "projected_yield": "8.8216 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 375,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDC",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/896972",
+        "projected_yield": "4887.7 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 376,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "TIA",
+        "node_target": "alpha-uniswap-v3-range-optimizer/352483",
+        "projected_yield": "323.16 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 377,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ETH",
+        "node_target": "alpha-solana-jito-restaking/179124",
+        "projected_yield": "7.6653 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 378,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-injective-derivative-vault/840757",
+        "projected_yield": "7.7235 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 379,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-pendle-principal-token-vault/881071",
+        "projected_yield": "331.29 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 380,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "TIA",
+        "node_target": "alpha-eigenlayer-restaking-pool/697272",
+        "projected_yield": "449.43 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 381,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDT",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/949613",
+        "projected_yield": "4738.67 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 382,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-injective-derivative-vault/754359",
+        "projected_yield": "2689.94 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 383,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ETH",
+        "node_target": "alpha-solana-jito-restaking/467199",
+        "projected_yield": "5.9746 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 384,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-injective-derivative-vault/244992",
+        "projected_yield": "1231.06 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 385,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ETH",
+        "node_target": "alpha-solana-jito-restaking/778666",
+        "projected_yield": "10.8685 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 386,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ARB",
+        "node_target": "alpha-morpho-blue-optimized-market/244553",
+        "projected_yield": "260.51 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 387,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "USDT",
+        "node_target": "alpha-uniswap-v3-range-optimizer/115445",
+        "projected_yield": "4414.13 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 388,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "SOL",
+        "node_target": "alpha-morpho-blue-optimized-market/775355",
+        "projected_yield": "6.829 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 389,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDC",
+        "node_target": "alpha-solana-jito-restaking/919181",
+        "projected_yield": "1794.96 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 390,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ETH",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/507415",
+        "projected_yield": "9.4908 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 391,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "TIA",
+        "node_target": "alpha-uniswap-v3-range-optimizer/408506",
+        "projected_yield": "180.58 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 392,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-pendle-principal-token-vault/394900",
+        "projected_yield": "1780.33 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 393,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-injective-derivative-vault/490437",
+        "projected_yield": "9.2979 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 394,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDT",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/295090",
+        "projected_yield": "4777.64 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 395,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "SOL",
+        "node_target": "alpha-uniswap-v3-range-optimizer/193989",
+        "projected_yield": "5.1063 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 396,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-pendle-principal-token-vault/153391",
+        "projected_yield": "4.0935 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 397,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ARB",
+        "node_target": "alpha-morpho-blue-optimized-market/400769",
+        "projected_yield": "265.25 ARB",
+        "execution_status": "OPTIMIZING_RANGE"
+    },
+    {
+        "scan_id": 398,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-injective-derivative-vault/839762",
+        "projected_yield": "3.0046 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 399,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDC",
+        "node_target": "alpha-morpho-blue-optimized-market/801376",
+        "projected_yield": "2372.6 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 400,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ETH",
+        "node_target": "alpha-eigenlayer-restaking-pool/890529",
+        "projected_yield": "5.4638 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 401,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "SOL",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/343366",
+        "projected_yield": "10.2173 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 402,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-injective-derivative-vault/896929",
+        "projected_yield": "400.81 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 403,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "TIA",
+        "node_target": "alpha-uniswap-v3-range-optimizer/185641",
+        "projected_yield": "83.06 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 404,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-injective-derivative-vault/839359",
+        "projected_yield": "275.33 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 405,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDC",
+        "node_target": "alpha-morpho-blue-optimized-market/331017",
+        "projected_yield": "1368.51 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 406,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "SOL",
+        "node_target": "alpha-eigenlayer-restaking-pool/795123",
+        "projected_yield": "2.6844 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 407,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "SOL",
+        "node_target": "alpha-solana-jito-restaking/734435",
+        "projected_yield": "6.0021 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 408,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDC",
+        "node_target": "alpha-solana-jito-restaking/598069",
+        "projected_yield": "1862.19 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 409,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ARB",
+        "node_target": "alpha-eigenlayer-restaking-pool/593402",
+        "projected_yield": "393.35 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 410,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDC",
+        "node_target": "alpha-pendle-principal-token-vault/722683",
+        "projected_yield": "4900.58 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 411,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-injective-derivative-vault/460003",
+        "projected_yield": "6.7264 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 412,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDT",
+        "node_target": "alpha-solana-jito-restaking/889415",
+        "projected_yield": "875.11 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 413,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ARB",
+        "node_target": "alpha-uniswap-v3-range-optimizer/938496",
+        "projected_yield": "330.99 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 414,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDT",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/581576",
+        "projected_yield": "3392.03 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 415,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDC",
+        "node_target": "alpha-pendle-principal-token-vault/552534",
+        "projected_yield": "2069.26 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 416,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ARB",
+        "node_target": "alpha-solana-jito-restaking/745102",
+        "projected_yield": "176.33 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 417,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "TIA",
+        "node_target": "alpha-solana-jito-restaking/672044",
+        "projected_yield": "56.22 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 418,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ARB",
+        "node_target": "alpha-uniswap-v3-range-optimizer/367398",
+        "projected_yield": "252.54 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 419,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-injective-derivative-vault/954189",
+        "projected_yield": "2.8293 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 420,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "USDC",
+        "node_target": "alpha-uniswap-v3-range-optimizer/401010",
+        "projected_yield": "1196.48 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 421,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "USDT",
+        "node_target": "alpha-eigenlayer-restaking-pool/603942",
+        "projected_yield": "4724.08 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 422,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDC",
+        "node_target": "alpha-solana-jito-restaking/732596",
+        "projected_yield": "860.16 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 423,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDT",
+        "node_target": "alpha-morpho-blue-optimized-market/688583",
+        "projected_yield": "3443.68 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 424,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ARB",
+        "node_target": "alpha-eigenlayer-restaking-pool/469158",
+        "projected_yield": "440.53 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 425,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "SOL",
+        "node_target": "alpha-eigenlayer-restaking-pool/950886",
+        "projected_yield": "6.6555 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 426,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ARB",
+        "node_target": "alpha-solana-jito-restaking/902258",
+        "projected_yield": "271.96 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 427,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "USDC",
+        "node_target": "alpha-injective-derivative-vault/352345",
+        "projected_yield": "1395.96 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 428,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDC",
+        "node_target": "alpha-pendle-principal-token-vault/355273",
+        "projected_yield": "2790.81 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 429,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "TIA",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/307119",
+        "projected_yield": "336.47 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 430,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "SOL",
+        "node_target": "alpha-uniswap-v3-range-optimizer/375753",
+        "projected_yield": "6.1109 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 431,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "TIA",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/473331",
+        "projected_yield": "373.28 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 432,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-injective-derivative-vault/753263",
+        "projected_yield": "10.9245 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 433,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-pendle-principal-token-vault/853579",
+        "projected_yield": "3571.36 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 434,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-injective-derivative-vault/614870",
+        "projected_yield": "369.84 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 435,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-pendle-principal-token-vault/297771",
+        "projected_yield": "439.57 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 436,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ARB",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/186340",
+        "projected_yield": "51.87 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 437,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "SOL",
+        "node_target": "alpha-uniswap-v3-range-optimizer/623898",
+        "projected_yield": "7.1861 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 438,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "USDC",
+        "node_target": "alpha-eigenlayer-restaking-pool/544579",
+        "projected_yield": "2178.35 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 439,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-injective-derivative-vault/955316",
+        "projected_yield": "11.1881 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 440,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-pendle-principal-token-vault/822052",
+        "projected_yield": "203.36 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 441,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDT",
+        "node_target": "alpha-morpho-blue-optimized-market/419452",
+        "projected_yield": "2285.29 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 442,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "USDT",
+        "node_target": "alpha-uniswap-v3-range-optimizer/826052",
+        "projected_yield": "2395.27 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 443,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "USDT",
+        "node_target": "alpha-uniswap-v3-range-optimizer/118366",
+        "projected_yield": "511.96 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 444,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ARB",
+        "node_target": "alpha-solana-jito-restaking/125503",
+        "projected_yield": "398.57 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 445,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDT",
+        "node_target": "alpha-morpho-blue-optimized-market/302642",
+        "projected_yield": "2813.18 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 446,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "USDC",
+        "node_target": "alpha-eigenlayer-restaking-pool/396159",
+        "projected_yield": "1998.15 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 447,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDC",
+        "node_target": "alpha-solana-jito-restaking/960481",
+        "projected_yield": "3800.46 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 448,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "TIA",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/584429",
+        "projected_yield": "339.54 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 449,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDC",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/637470",
+        "projected_yield": "2201.19 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 450,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-injective-derivative-vault/895928",
+        "projected_yield": "8.879 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 451,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ETH",
+        "node_target": "alpha-uniswap-v3-range-optimizer/598774",
+        "projected_yield": "4.6361 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 452,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "SOL",
+        "node_target": "alpha-eigenlayer-restaking-pool/620931",
+        "projected_yield": "5.756 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 453,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDC",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/777247",
+        "projected_yield": "3976.31 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 454,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDC",
+        "node_target": "alpha-morpho-blue-optimized-market/604573",
+        "projected_yield": "4177.38 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 455,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ARB",
+        "node_target": "alpha-eigenlayer-restaking-pool/846788",
+        "projected_yield": "74.93 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 456,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDT",
+        "node_target": "alpha-solana-jito-restaking/856309",
+        "projected_yield": "1916.49 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 457,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "TIA",
+        "node_target": "alpha-solana-jito-restaking/196563",
+        "projected_yield": "148.64 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 458,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ARB",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/311700",
+        "projected_yield": "121.27 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 459,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-injective-derivative-vault/991314",
+        "projected_yield": "284.91 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 460,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "USDT",
+        "node_target": "alpha-uniswap-v3-range-optimizer/435734",
+        "projected_yield": "2234.25 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 461,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "USDT",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/712981",
+        "projected_yield": "984.26 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 462,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ETH",
+        "node_target": "alpha-uniswap-v3-range-optimizer/723094",
+        "projected_yield": "2.8439 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 463,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "USDC",
+        "node_target": "alpha-injective-derivative-vault/896513",
+        "projected_yield": "4162.66 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 464,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ETH",
+        "node_target": "alpha-uniswap-v3-range-optimizer/368811",
+        "projected_yield": "10.141 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 465,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-injective-derivative-vault/102177",
+        "projected_yield": "368.9 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 466,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "TIA",
+        "node_target": "alpha-injective-derivative-vault/487814",
+        "projected_yield": "410.54 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 467,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ETH",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/200772",
+        "projected_yield": "10.363 ETH",
+        "execution_status": "OPTIMIZING_RANGE"
+    },
+    {
+        "scan_id": 468,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDT",
+        "node_target": "alpha-morpho-blue-optimized-market/636226",
+        "projected_yield": "567.35 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 469,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDT",
+        "node_target": "alpha-morpho-blue-optimized-market/723882",
+        "projected_yield": "2439.25 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 470,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "ARB",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/976069",
+        "projected_yield": "361.3 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 471,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-pendle-principal-token-vault/492327",
+        "projected_yield": "4.3499 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 472,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "USDC",
+        "node_target": "alpha-solana-jito-restaking/798503",
+        "projected_yield": "3362.08 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 473,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ETH",
+        "node_target": "alpha-uniswap-v3-range-optimizer/724969",
+        "projected_yield": "3.7679 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 474,
+        "protocol": "Aerodrome-Concentrated-Liquidity",
+        "asset": "TIA",
+        "node_target": "alpha-aerodrome-concentrated-liquidity/806376",
+        "projected_yield": "365.67 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 475,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ETH",
+        "node_target": "alpha-solana-jito-restaking/107083",
+        "projected_yield": "3.7238 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 476,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "TIA",
+        "node_target": "alpha-morpho-blue-optimized-market/478077",
+        "projected_yield": "397.08 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 477,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "USDC",
+        "node_target": "alpha-uniswap-v3-range-optimizer/941844",
+        "projected_yield": "660.38 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 478,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ETH",
+        "node_target": "alpha-injective-derivative-vault/715406",
+        "projected_yield": "11.3135 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 479,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDC",
+        "node_target": "alpha-morpho-blue-optimized-market/813710",
+        "projected_yield": "1302.55 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 480,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDC",
+        "node_target": "alpha-pendle-principal-token-vault/712925",
+        "projected_yield": "1255.7 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 481,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "ARB",
+        "node_target": "alpha-injective-derivative-vault/835397",
+        "projected_yield": "387.05 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 482,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "SOL",
+        "node_target": "alpha-uniswap-v3-range-optimizer/930425",
+        "projected_yield": "6.3733 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 483,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ETH",
+        "node_target": "alpha-uniswap-v3-range-optimizer/396352",
+        "projected_yield": "3.7937 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 484,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "ETH",
+        "node_target": "alpha-uniswap-v3-range-optimizer/211934",
+        "projected_yield": "4.3933 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 485,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "TIA",
+        "node_target": "alpha-uniswap-v3-range-optimizer/547807",
+        "projected_yield": "418.68 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 486,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "USDT",
+        "node_target": "alpha-morpho-blue-optimized-market/831532",
+        "projected_yield": "1623.32 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 487,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "USDT",
+        "node_target": "alpha-eigenlayer-restaking-pool/582239",
+        "projected_yield": "4438.63 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 488,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ETH",
+        "node_target": "alpha-eigenlayer-restaking-pool/521020",
+        "projected_yield": "9.911 ETH",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 489,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "ARB",
+        "node_target": "alpha-solana-jito-restaking/465971",
+        "projected_yield": "166.26 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 490,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-pendle-principal-token-vault/524388",
+        "projected_yield": "7.8936 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 491,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-injective-derivative-vault/994478",
+        "projected_yield": "2535.01 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 492,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "TIA",
+        "node_target": "alpha-morpho-blue-optimized-market/490120",
+        "projected_yield": "414.03 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 493,
+        "protocol": "Morpho-Blue-Optimized-Market",
+        "asset": "ARB",
+        "node_target": "alpha-morpho-blue-optimized-market/907377",
+        "projected_yield": "194.46 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 494,
+        "protocol": "EigenLayer-Restaking-Pool",
+        "asset": "ARB",
+        "node_target": "alpha-eigenlayer-restaking-pool/638041",
+        "projected_yield": "433.76 ARB",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 495,
+        "protocol": "Solana-Jito-Restaking",
+        "asset": "TIA",
+        "node_target": "alpha-solana-jito-restaking/207307",
+        "projected_yield": "420.09 TIA",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 496,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "SOL",
+        "node_target": "alpha-pendle-principal-token-vault/315205",
+        "projected_yield": "3.4192 SOL",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 497,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDC",
+        "node_target": "alpha-pendle-principal-token-vault/947525",
+        "projected_yield": "787.73 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 498,
+        "protocol": "Uniswap-V3-Range-Optimizer",
+        "asset": "USDT",
+        "node_target": "alpha-uniswap-v3-range-optimizer/785871",
+        "projected_yield": "3207.68 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 499,
+        "protocol": "Injective-Derivative-Vault",
+        "asset": "USDC",
+        "node_target": "alpha-injective-derivative-vault/589697",
+        "projected_yield": "1528.04 USDC",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    },
+    {
+        "scan_id": 500,
+        "protocol": "Pendle-Principal-Token-Vault",
+        "asset": "USDT",
+        "node_target": "alpha-pendle-principal-token-vault/105058",
+        "projected_yield": "4333.49 USDT",
+        "execution_status": "ALPHA_YIELD_SECURED"
+    }
+]

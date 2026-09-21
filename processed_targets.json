@@ -1,0 +1,50 @@
+{
+    "https://github.com/aws/aws-cli": {
+        "notified": true,
+        "risks": 73
+    },
+    "https://github.com/boto/boto3": {
+        "notified": true,
+        "risks": 1
+    },
+    "https://github.com/stripe/stripe-python": {
+        "notified": true,
+        "risks": 3
+    },
+    "https://github.com/twilio/twilio-python": {
+        "notified": true,
+        "risks": 1
+    },
+    "https://github.com/sendgrid/sendgrid-python": {
+        "notified": true,
+        "risks": 2
+    },
+    "https://github.com/DataDog/dd-trace-py": {
+        "notified": true,
+        "risks": 537
+    },
+    "https://github.com/slackapi/python-slack-sdk": {
+        "notified": true,
+        "risks": 11
+    },
+    "https://github.com/celery/celery": {
+        "notified": true,
+        "risks": 48
+    },
+    "https://github.com/ethereum/py-evm": {
+        "notified": true,
+        "risks": 5
+    },
+    "https://github.com/pallets/flask": {
+        "notified": true,
+        "risks": 6
+    },
+    "https://github.com/django/django": {
+        "notified": true,
+        "risks": 138
+    },
+    "https://github.com/psf/requests": {
+        "notified": true,
+        "risks": 12
+    }
+}

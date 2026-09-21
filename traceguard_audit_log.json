@@ -1,0 +1,146 @@
+{
+    "scan_batch_count": 7,
+    "total_risks_detected": 255,
+    "results": [
+        {
+            "repository": "https://github.com/psf/requests",
+            "python_files_scanned": 37,
+            "status": "LOCKED",
+            "total_containment_risks_detected": 8,
+            "message": "Audit report locked. Pay via Stripe to unlock full line-by-line remediation patch.",
+            "payment_link": "/pay",
+            "preview_risks": [
+                {
+                    "file": "requests-main/src/requests/packages.py",
+                    "line": 9,
+                    "vector": "Dangerous Built-in (__import__)"
+                },
+                {
+                    "file": "requests-main/tests/test_requests.py",
+                    "line": 3093,
+                    "vector": "Unsafe Deserialization (pickle.loads)"
+                }
+            ]
+        },
+        {
+            "repository": "https://github.com/pallets/flask",
+            "python_files_scanned": 83,
+            "status": "LOCKED",
+            "total_containment_risks_detected": 4,
+            "message": "Audit report locked. Pay via Stripe to unlock full line-by-line remediation patch.",
+            "payment_link": "/pay",
+            "preview_risks": [
+                {
+                    "file": "flask-main/src/flask/helpers.py",
+                    "line": 623,
+                    "vector": "Dangerous Built-in (__import__)"
+                },
+                {
+                    "file": "flask-main/src/flask/config.py",
+                    "line": 209,
+                    "vector": "Dangerous Built-in (exec)"
+                }
+            ]
+        },
+        {
+            "repository": "https://github.com/fastapi/fastapi",
+            "python_files_scanned": 1138,
+            "status": "LOCKED",
+            "total_containment_risks_detected": 38,
+            "message": "Audit report locked. Pay via Stripe to unlock full line-by-line remediation patch.",
+            "payment_link": "/pay",
+            "preview_risks": [
+                {
+                    "file": "fastapi-master/tests/test_translate.py",
+                    "line": 8,
+                    "vector": "Subprocess Execution (subprocess.run)"
+                },
+                {
+                    "file": "fastapi-master/tests/test_dump_json_fast_path.py",
+                    "line": 34,
+                    "vector": "Dangerous Built-in (__import__)"
+                }
+            ]
+        },
+        {
+            "repository": "https://github.com/ethereum/web3.py",
+            "python_files_scanned": 338,
+            "status": "LOCKED",
+            "total_containment_risks_detected": 8,
+            "message": "Audit report locked. Pay via Stripe to unlock full line-by-line remediation patch.",
+            "payment_link": "/pay",
+            "preview_risks": [
+                {
+                    "file": "web3.py-main/tests/core/utilities/test_attributedict.py",
+                    "line": 28,
+                    "vector": "Dangerous Built-in (eval)"
+                },
+                {
+                    "file": "web3.py-main/tests/integration/go_ethereum/conftest.py",
+                    "line": 173,
+                    "vector": "Subprocess Execution (subprocess.check_output)"
+                }
+            ]
+        },
+        {
+            "repository": "https://github.com/ApeWorX/ape",
+            "python_files_scanned": 262,
+            "status": "LOCKED",
+            "total_containment_risks_detected": 7,
+            "message": "Audit report locked. Pay via Stripe to unlock full line-by-line remediation patch.",
+            "payment_link": "/pay",
+            "preview_risks": [
+                {
+                    "file": "ape-main/src/ape/exceptions.py",
+                    "line": 1019,
+                    "vector": "Dangerous Built-in (exec)"
+                },
+                {
+                    "file": "ape-main/src/ape/utils/_github.py",
+                    "line": 39,
+                    "vector": "Subprocess Execution (subprocess.call)"
+                }
+            ]
+        },
+        {
+            "repository": "https://github.com/pandas-dev/pandas",
+            "python_files_scanned": 1425,
+            "status": "LOCKED",
+            "total_containment_risks_detected": 62,
+            "message": "Audit report locked. Pay via Stripe to unlock full line-by-line remediation patch.",
+            "payment_link": "/pay",
+            "preview_risks": [
+                {
+                    "file": "pandas-main/pandas/__init__.py",
+                    "line": 11,
+                    "vector": "Dangerous Built-in (__import__)"
+                },
+                {
+                    "file": "pandas-main/pandas/_config/localization.py",
+                    "line": 130,
+                    "vector": "Subprocess Execution (subprocess.check_output)"
+                }
+            ]
+        },
+        {
+            "repository": "https://github.com/django/django",
+            "python_files_scanned": 2932,
+            "status": "LOCKED",
+            "total_containment_risks_detected": 128,
+            "message": "Audit report locked. Pay via Stripe to unlock full line-by-line remediation patch.",
+            "payment_link": "/pay",
+            "preview_risks": [
+                {
+                    "file": "django-main/tests/runtests.py",
+                    "line": 468,
+                    "vector": "Subprocess Execution (subprocess.run)"
+                },
+                {
+                    "file": "django-main/tests/runtests.py",
+                    "line": 473,
+                    "vector": "Subprocess Execution (subprocess.run)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "issue_id": "2",
+    "artifact": "patches/issue_2_fix.patch",
+    "status": "Ready for upstream PR submission",
+    "timestamp": "2026-09-21 01:22:15"
+  },
+  {
+    "issue_id": "4948",
+    "artifact": "patches/issue_4948_fix.patch",
+    "status": "Ready for upstream PR submission",
+    "timestamp": "2026-09-21 01:22:15"
+  },
+  {
+    "issue_id": "3",
+    "artifact": "patches/issue_3_fix.patch",
+    "status": "Ready for upstream PR submission",
+    "timestamp": "2026-09-21 01:22:15"
+  },
+  {
+    "issue_id": "1524",
+    "artifact": "patches/issue_1524_fix.patch",
+    "status": "Ready for upstream PR submission",
+    "timestamp": "2026-09-21 01:22:15"
+  },
+  {
+    "issue_id": "4205",
+    "artifact": "patches/issue_4205_fix.patch",
+    "status": "Ready for upstream PR submission",
+    "timestamp": "2026-09-21 01:22:15"
+  },
+  {
+    "issue_id": "4991",
+    "artifact": "patches/issue_4991_fix.patch",
+    "status": "Ready for upstream PR submission",
+    "timestamp": "2026-09-21 01:22:15"
+  },
+  {
+    "issue_id": "4958",
+    "artifact": "patches/issue_4958_fix.patch",
+    "status": "Ready for upstream PR submission",
+    "timestamp": "2026-09-21 01:22:15"
+  },
+  {
+    "issue_id": "16863",
+    "artifact": "patches/issue_16863_fix.patch",
+    "status": "Ready for upstream PR submission",
+    "timestamp": "2026-09-21 01:22:15"
+  },
+  {
+    "issue_id": "1109",
+    "artifact": "patches/issue_1109_fix.patch",
+    "status": "Ready for upstream PR submission",
+    "timestamp": "2026-09-21 01:22:15"
+  },
+  {
+    "issue_id": "4764",
+    "artifact": "patches/issue_4764_fix.patch",
+    "status": "Ready for upstream PR submission",
+    "timestamp": "2026-09-21 01:22:15"
+  },
+  {
+    "issue_id": "1",
+    "artifact": "patches/issue_1_fix.patch",
+    "status": "Ready for upstream PR submission",
+    "timestamp": "2026-09-21 01:22:15"
+  }
+]

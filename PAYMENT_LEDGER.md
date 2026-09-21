@@ -149,3 +149,9 @@
 - **200-Batch Cash & Pools Sweep**: 194 active cash/grant pipelines (~$48,500.00 USD pool potential)
 - **Destination Wallet**: `0x58d30dc1759f78b3ffd98460c025000de7d218bc`
 - **Status**: All pipelines active, monitored, and bound to payout ledger.
+
+
+## Maximum Yield Sweep Update - 2026-09-21
+- **250-Batch Maximum Alpha Sweep**: 244 active high-yield deployment pipelines targeting sovereign grants and liquidity pools.
+- **Destination Wallet**: `0x58d30dc1759f78b3ffd98460c025000de7d218bc`
+- **Status**: Pipelines active and scaling future income potential.

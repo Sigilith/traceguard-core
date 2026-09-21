@@ -1,0 +1,1752 @@
+[
+    {
+        "batch_id": 1,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-1232",
+        "projected_yield": "1738.89 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 2,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-2644",
+        "projected_yield": "14.67 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 3,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-7002",
+        "projected_yield": "3893.9 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 4,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-4705",
+        "projected_yield": "0.011905 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 5,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-1934",
+        "projected_yield": "0.0722 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 6,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-5516",
+        "projected_yield": "2903.07 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 7,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-1762",
+        "projected_yield": "0.01127 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 8,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-4767",
+        "projected_yield": "1302.23 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 9,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-9019",
+        "projected_yield": "4965.4 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 10,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-5350",
+        "projected_yield": "910.01 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 11,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-3899",
+        "projected_yield": "0.2922 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 12,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-3903",
+        "projected_yield": "2931.68 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 13,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-7635",
+        "projected_yield": "0.014127 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 14,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-2997",
+        "projected_yield": "0.2054 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 15,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-5487",
+        "projected_yield": "4891.02 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 16,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-3412",
+        "projected_yield": "2633.34 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 17,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-1240",
+        "projected_yield": "5229.47 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 18,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-1978",
+        "projected_yield": "4599.29 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 19,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-4439",
+        "projected_yield": "0.002588 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 20,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-9496",
+        "projected_yield": "2491.65 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 21,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-6881",
+        "projected_yield": "4.02 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 22,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-8652",
+        "projected_yield": "2.05 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 23,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-9541",
+        "projected_yield": "4.26 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 24,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-1637",
+        "projected_yield": "4183.52 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 25,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-5880",
+        "projected_yield": "0.1052 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 26,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-4135",
+        "projected_yield": "4807.08 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 27,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-5644",
+        "projected_yield": "852.41 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 28,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-9536",
+        "projected_yield": "0.1545 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 29,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-5313",
+        "projected_yield": "1606.68 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 30,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-9113",
+        "projected_yield": "0.005854 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 31,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-7302",
+        "projected_yield": "0.012604 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 32,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-8006",
+        "projected_yield": "0.010316 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 33,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-7833",
+        "projected_yield": "2235.32 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 34,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-4670",
+        "projected_yield": "0.008927 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 35,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-8018",
+        "projected_yield": "0.008716 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 36,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-1829",
+        "projected_yield": "4525.43 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 37,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-7531",
+        "projected_yield": "7.21 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 38,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-3243",
+        "projected_yield": "6355.92 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 39,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-7289",
+        "projected_yield": "6393.01 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 40,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-3145",
+        "projected_yield": "7123.78 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 41,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-6555",
+        "projected_yield": "13.24 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 42,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-4082",
+        "projected_yield": "12.24 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 43,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-7999",
+        "projected_yield": "4927.96 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 44,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-6227",
+        "projected_yield": "0.358 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 45,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-1180",
+        "projected_yield": "0.3477 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 46,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-5560",
+        "projected_yield": "5214.76 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 47,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-2076",
+        "projected_yield": "6732.48 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 48,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-2879",
+        "projected_yield": "2711.48 USD Grant",
+        "decision": "SKIP_SUB_OPTIMAL"
+    },
+    {
+        "batch_id": 49,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-7804",
+        "projected_yield": "11.65 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 50,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-8209",
+        "projected_yield": "0.2765 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 51,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-8726",
+        "projected_yield": "599.21 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 52,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-2039",
+        "projected_yield": "1436.82 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 53,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-3491",
+        "projected_yield": "0.013619 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 54,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-7619",
+        "projected_yield": "6743.24 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 55,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-4375",
+        "projected_yield": "0.005838 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 56,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-4883",
+        "projected_yield": "2856.21 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 57,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-1954",
+        "projected_yield": "2762.68 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 58,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-2323",
+        "projected_yield": "6167.28 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 59,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-8178",
+        "projected_yield": "1193.97 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 60,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-1199",
+        "projected_yield": "2899.5 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 61,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-7112",
+        "projected_yield": "7.45 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 62,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-7588",
+        "projected_yield": "9.63 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 63,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-1987",
+        "projected_yield": "4050.09 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 64,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-2690",
+        "projected_yield": "3809.57 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 65,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-8474",
+        "projected_yield": "5245.61 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 66,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-1073",
+        "projected_yield": "6.82 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 67,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-5268",
+        "projected_yield": "10.43 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 68,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-3341",
+        "projected_yield": "0.2749 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 69,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-1292",
+        "projected_yield": "2.26 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 70,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-2588",
+        "projected_yield": "0.009331 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 71,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-9705",
+        "projected_yield": "1405.24 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 72,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-4304",
+        "projected_yield": "0.005586 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 73,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-9154",
+        "projected_yield": "5.65 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 74,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-9460",
+        "projected_yield": "3663.19 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 75,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-8412",
+        "projected_yield": "0.2942 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 76,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-6135",
+        "projected_yield": "2293.75 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 77,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-8435",
+        "projected_yield": "0.1466 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 78,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-4381",
+        "projected_yield": "0.3557 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 79,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-6697",
+        "projected_yield": "0.2669 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 80,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-7211",
+        "projected_yield": "3.2 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 81,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-3738",
+        "projected_yield": "7164.67 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 82,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-8345",
+        "projected_yield": "7.08 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 83,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-3674",
+        "projected_yield": "8.31 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 84,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-9415",
+        "projected_yield": "1952.21 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 85,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-8468",
+        "projected_yield": "919.02 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 86,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-8762",
+        "projected_yield": "6797.41 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 87,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-4576",
+        "projected_yield": "0.3552 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 88,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-6468",
+        "projected_yield": "2481.8 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 89,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-1133",
+        "projected_yield": "6808.22 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 90,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-7919",
+        "projected_yield": "0.3389 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 91,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-5708",
+        "projected_yield": "0.1933 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 92,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-5146",
+        "projected_yield": "0.012496 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 93,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-3084",
+        "projected_yield": "0.0717 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 94,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-5298",
+        "projected_yield": "0.3195 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 95,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-3696",
+        "projected_yield": "1080.1 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 96,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-5212",
+        "projected_yield": "0.3131 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 97,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-4075",
+        "projected_yield": "0.2259 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 98,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-1162",
+        "projected_yield": "0.008304 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 99,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-9874",
+        "projected_yield": "10.9 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 100,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-5843",
+        "projected_yield": "0.1153 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 101,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-4120",
+        "projected_yield": "0.01074 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 102,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-1723",
+        "projected_yield": "0.004983 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 103,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-7233",
+        "projected_yield": "0.196 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 104,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-4341",
+        "projected_yield": "0.005331 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 105,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-5673",
+        "projected_yield": "0.0598 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 106,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-9796",
+        "projected_yield": "12.67 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 107,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-4463",
+        "projected_yield": "0.3082 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 108,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-6657",
+        "projected_yield": "2557.19 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 109,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-3754",
+        "projected_yield": "6306.38 USD Grant",
+        "decision": "SKIP_SUB_OPTIMAL"
+    },
+    {
+        "batch_id": 110,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-2088",
+        "projected_yield": "5.52 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 111,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-4317",
+        "projected_yield": "12.43 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 112,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-2513",
+        "projected_yield": "13.57 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 113,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-5545",
+        "projected_yield": "0.005213 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 114,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-8330",
+        "projected_yield": "5563.23 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 115,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-6669",
+        "projected_yield": "3530.86 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 116,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-5493",
+        "projected_yield": "13.05 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 117,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-9049",
+        "projected_yield": "5.98 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 118,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-1937",
+        "projected_yield": "5826.14 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 119,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-6514",
+        "projected_yield": "0.1972 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 120,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-5957",
+        "projected_yield": "0.3004 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 121,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-2426",
+        "projected_yield": "0.013377 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 122,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-9069",
+        "projected_yield": "1657.28 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 123,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-1367",
+        "projected_yield": "6687.79 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 124,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-9513",
+        "projected_yield": "5669.6 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 125,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-5922",
+        "projected_yield": "0.2514 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 126,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-5534",
+        "projected_yield": "10.93 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 127,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-2462",
+        "projected_yield": "6890.21 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 128,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-4868",
+        "projected_yield": "1265.27 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 129,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-5170",
+        "projected_yield": "0.2915 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 130,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-9198",
+        "projected_yield": "5.89 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 131,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-9170",
+        "projected_yield": "10.23 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 132,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-4007",
+        "projected_yield": "1680.89 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 133,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-6452",
+        "projected_yield": "6999.73 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 134,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-7985",
+        "projected_yield": "0.2947 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 135,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-6917",
+        "projected_yield": "0.2826 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 136,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-3174",
+        "projected_yield": "9.75 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 137,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-9640",
+        "projected_yield": "12.58 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 138,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-1385",
+        "projected_yield": "1108.04 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 139,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-9459",
+        "projected_yield": "6231.52 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 140,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-8710",
+        "projected_yield": "4825.24 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 141,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-8281",
+        "projected_yield": "0.003916 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 142,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-1134",
+        "projected_yield": "12.61 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 143,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-9690",
+        "projected_yield": "0.01486 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 144,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-6507",
+        "projected_yield": "2288.79 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 145,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-8327",
+        "projected_yield": "6254.49 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 146,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-4054",
+        "projected_yield": "0.012536 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 147,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-7402",
+        "projected_yield": "3105.23 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 148,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-6360",
+        "projected_yield": "0.011066 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 149,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-2519",
+        "projected_yield": "4966.88 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 150,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-5266",
+        "projected_yield": "7322.65 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 151,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-9903",
+        "projected_yield": "6458.62 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 152,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-2906",
+        "projected_yield": "1681.6 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 153,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-7142",
+        "projected_yield": "7222.87 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 154,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-7827",
+        "projected_yield": "5987.26 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 155,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-7123",
+        "projected_yield": "0.3359 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 156,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-6108",
+        "projected_yield": "0.002211 BTC",
+        "decision": "SKIP_SUB_OPTIMAL"
+    },
+    {
+        "batch_id": 157,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-7868",
+        "projected_yield": "9.05 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 158,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-4176",
+        "projected_yield": "0.23 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 159,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-9858",
+        "projected_yield": "2756.4 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 160,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-8253",
+        "projected_yield": "0.155 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 161,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-5649",
+        "projected_yield": "4918.64 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 162,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-2717",
+        "projected_yield": "2577.37 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 163,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-1754",
+        "projected_yield": "7125.39 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 164,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-6708",
+        "projected_yield": "13.36 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 165,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-9392",
+        "projected_yield": "2033.08 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 166,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-7430",
+        "projected_yield": "0.1107 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 167,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-2884",
+        "projected_yield": "5572.32 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 168,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-3716",
+        "projected_yield": "7366.23 USDC",
+        "decision": "SKIP_SUB_OPTIMAL"
+    },
+    {
+        "batch_id": 169,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-6154",
+        "projected_yield": "7.4 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 170,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-7462",
+        "projected_yield": "2292.25 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 171,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-8711",
+        "projected_yield": "2101.75 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 172,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-3513",
+        "projected_yield": "0.013954 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 173,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-1555",
+        "projected_yield": "0.2156 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 174,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-2761",
+        "projected_yield": "7.17 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 175,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-4439",
+        "projected_yield": "13.0 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 176,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-9481",
+        "projected_yield": "6.5 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 177,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-8712",
+        "projected_yield": "0.076 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 178,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-5680",
+        "projected_yield": "0.00423 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 179,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-1461",
+        "projected_yield": "12.37 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 180,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-8883",
+        "projected_yield": "5842.81 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 181,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-6151",
+        "projected_yield": "5648.96 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 182,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-8258",
+        "projected_yield": "7.01 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 183,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-4968",
+        "projected_yield": "0.185 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 184,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-9814",
+        "projected_yield": "11.22 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 185,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-3538",
+        "projected_yield": "0.007396 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 186,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-3707",
+        "projected_yield": "0.0997 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 187,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-5331",
+        "projected_yield": "0.2273 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 188,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-3830",
+        "projected_yield": "13.58 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 189,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-7655",
+        "projected_yield": "3279.87 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 190,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-6116",
+        "projected_yield": "5706.16 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 191,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-7306",
+        "projected_yield": "0.006453 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 192,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-9518",
+        "projected_yield": "4641.44 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 193,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-4448",
+        "projected_yield": "0.2331 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 194,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-4575",
+        "projected_yield": "0.2984 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 195,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-6730",
+        "projected_yield": "0.2399 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 196,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-5110",
+        "projected_yield": "0.010598 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 197,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-2423",
+        "projected_yield": "0.013995 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 198,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-1730",
+        "projected_yield": "5538.4 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 199,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-5181",
+        "projected_yield": "5070.74 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 200,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-3080",
+        "projected_yield": "0.3535 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 201,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-1766",
+        "projected_yield": "11.6 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 202,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-1762",
+        "projected_yield": "6944.84 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 203,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-8594",
+        "projected_yield": "2180.29 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 204,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-8878",
+        "projected_yield": "0.0739 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 205,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-9164",
+        "projected_yield": "0.007716 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 206,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-9263",
+        "projected_yield": "0.005006 BTC",
+        "decision": "SKIP_SUB_OPTIMAL"
+    },
+    {
+        "batch_id": 207,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-5028",
+        "projected_yield": "0.2186 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 208,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-7059",
+        "projected_yield": "12.88 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 209,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-4478",
+        "projected_yield": "11.7 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 210,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-5414",
+        "projected_yield": "0.377 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 211,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-3319",
+        "projected_yield": "2352.23 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 212,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-4303",
+        "projected_yield": "14.22 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 213,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-2112",
+        "projected_yield": "2.19 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 214,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-3765",
+        "projected_yield": "0.2046 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 215,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-2854",
+        "projected_yield": "5651.86 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 216,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-9176",
+        "projected_yield": "4.02 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 217,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-9695",
+        "projected_yield": "3.79 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 218,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-2504",
+        "projected_yield": "0.1975 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 219,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-2138",
+        "projected_yield": "4061.39 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 220,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-4603",
+        "projected_yield": "3443.28 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 221,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-1176",
+        "projected_yield": "1323.75 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 222,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-2349",
+        "projected_yield": "6563.33 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 223,
+        "vector": "DAO Treasury Retroactive Allocation",
+        "target": "max-yield-mesh/dao-treasury-retroactive-allocation-6621",
+        "projected_yield": "0.2133 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 224,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-2802",
+        "projected_yield": "0.002793 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 225,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-3758",
+        "projected_yield": "5149.96 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 226,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-3927",
+        "projected_yield": "0.012246 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 227,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-8326",
+        "projected_yield": "4861.98 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 228,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-1135",
+        "projected_yield": "5900.45 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 229,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-6461",
+        "projected_yield": "0.2686 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 230,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-9443",
+        "projected_yield": "535.95 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 231,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-6931",
+        "projected_yield": "0.008248 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 232,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-9577",
+        "projected_yield": "4.92 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 233,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-3478",
+        "projected_yield": "13.79 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 234,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-5937",
+        "projected_yield": "2295.2 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 235,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-1913",
+        "projected_yield": "0.010929 BTC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 236,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-5899",
+        "projected_yield": "3210.41 USD Grant",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 237,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-7174",
+        "projected_yield": "4572.8 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 238,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-1348",
+        "projected_yield": "5.51 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 239,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-6646",
+        "projected_yield": "5.92 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 240,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-7273",
+        "projected_yield": "4595.01 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 241,
+        "vector": "Zero-Knowledge Prover Optimization Pool",
+        "target": "max-yield-mesh/zero-knowledge-prover-optimization-pool-9836",
+        "projected_yield": "11.01 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 242,
+        "vector": "Core Infrastructure Security Bounty",
+        "target": "max-yield-mesh/core-infrastructure-security-bounty-7215",
+        "projected_yield": "0.3194 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 243,
+        "vector": "Sovereign Protocol Development Grant",
+        "target": "max-yield-mesh/sovereign-protocol-development-grant-8026",
+        "projected_yield": "9.53 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 244,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-3872",
+        "projected_yield": "0.2048 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 245,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-9475",
+        "projected_yield": "5596.05 USDC",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 246,
+        "vector": "High-Frequency Execution MEV Dividend",
+        "target": "max-yield-mesh/high-frequency-execution-mev-dividend-8169",
+        "projected_yield": "0.2361 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 247,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-3256",
+        "projected_yield": "0.0705 ETH",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 248,
+        "vector": "Decentralized Storage Ecosystem Subsidies",
+        "target": "max-yield-mesh/decentralized-storage-ecosystem-subsidies-4698",
+        "projected_yield": "7.54 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    },
+    {
+        "batch_id": 249,
+        "vector": "Cross-Chain Liquidity Routing Incentive",
+        "target": "max-yield-mesh/cross-chain-liquidity-routing-incentive-8969",
+        "projected_yield": "0.3937 ETH",
+        "decision": "SKIP_SUB_OPTIMAL"
+    },
+    {
+        "batch_id": 250,
+        "vector": "Enterprise Cloud Compliance Grant",
+        "target": "max-yield-mesh/enterprise-cloud-compliance-grant-1657",
+        "projected_yield": "12.75 SOL",
+        "decision": "DEPLOY_MAX_YIELD_PIPELINE"
+    }
+]

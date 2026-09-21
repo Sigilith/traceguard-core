@@ -1,0 +1,1052 @@
+[
+    {
+        "batch_id": 1,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-143",
+        "estimated_yield": "687.99 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 2,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-705",
+        "estimated_yield": "0.3431 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 3,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-875",
+        "estimated_yield": "0.1612 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 4,
+        "vector": "Decentralized Creator Platform Grant",
+        "target": "alt-revenue-mesh/decentralized-creator-platform-grant-622",
+        "estimated_yield": "0.3812 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 5,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-592",
+        "estimated_yield": "0.0325 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 6,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-158",
+        "estimated_yield": "368.16 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 7,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-988",
+        "estimated_yield": "0.2116 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 8,
+        "vector": "Automated Digital Product Storefront Listing (Ko-fi/Gumroad)",
+        "target": "alt-revenue-mesh/automated-digital-product-storefront-listing-(ko-fi/gumroad)-930",
+        "estimated_yield": "1450.95 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 9,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-837",
+        "estimated_yield": "196.83 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 10,
+        "vector": "Decentralized Creator Platform Grant",
+        "target": "alt-revenue-mesh/decentralized-creator-platform-grant-472",
+        "estimated_yield": "0.0598 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 11,
+        "vector": "DAO Governance Participation Dividend",
+        "target": "alt-revenue-mesh/dao-governance-participation-dividend-581",
+        "estimated_yield": "0.4534 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 12,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-196",
+        "estimated_yield": "0.0313 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 13,
+        "vector": "Automated Digital Product Storefront Listing (Ko-fi/Gumroad)",
+        "target": "alt-revenue-mesh/automated-digital-product-storefront-listing-(ko-fi/gumroad)-573",
+        "estimated_yield": "0.46 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 14,
+        "vector": "DAO Governance Participation Dividend",
+        "target": "alt-revenue-mesh/dao-governance-participation-dividend-478",
+        "estimated_yield": "1725.66 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 15,
+        "vector": "DAO Governance Participation Dividend",
+        "target": "alt-revenue-mesh/dao-governance-participation-dividend-889",
+        "estimated_yield": "1797.71 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 16,
+        "vector": "Decentralized Creator Platform Grant",
+        "target": "alt-revenue-mesh/decentralized-creator-platform-grant-205",
+        "estimated_yield": "1667.0 Platform Credit",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 17,
+        "vector": "Automated Digital Product Storefront Listing (Ko-fi/Gumroad)",
+        "target": "alt-revenue-mesh/automated-digital-product-storefront-listing-(ko-fi/gumroad)-574",
+        "estimated_yield": "192.47 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 18,
+        "vector": "DAO Governance Participation Dividend",
+        "target": "alt-revenue-mesh/dao-governance-participation-dividend-531",
+        "estimated_yield": "0.0875 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 19,
+        "vector": "DAO Governance Participation Dividend",
+        "target": "alt-revenue-mesh/dao-governance-participation-dividend-548",
+        "estimated_yield": "0.216 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 20,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-317",
+        "estimated_yield": "216.41 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 21,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-346",
+        "estimated_yield": "0.2598 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 22,
+        "vector": "DAO Governance Participation Dividend",
+        "target": "alt-revenue-mesh/dao-governance-participation-dividend-538",
+        "estimated_yield": "306.52 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 23,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-541",
+        "estimated_yield": "0.1588 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 24,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-745",
+        "estimated_yield": "1575.27 Platform Credit",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 25,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-674",
+        "estimated_yield": "687.85 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 26,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-560",
+        "estimated_yield": "1070.68 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 27,
+        "vector": "Community Contributor Retroactive Funding",
+        "target": "alt-revenue-mesh/community-contributor-retroactive-funding-574",
+        "estimated_yield": "298.27 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 28,
+        "vector": "DAO Governance Participation Dividend",
+        "target": "alt-revenue-mesh/dao-governance-participation-dividend-104",
+        "estimated_yield": "0.4721 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 29,
+        "vector": "Decentralized Creator Platform Grant",
+        "target": "alt-revenue-mesh/decentralized-creator-platform-grant-445",
+        "estimated_yield": "0.2419 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 30,
+        "vector": "Community Contributor Retroactive Funding",
+        "target": "alt-revenue-mesh/community-contributor-retroactive-funding-469",
+        "estimated_yield": "258.2 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 31,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-243",
+        "estimated_yield": "0.3001 SOL",
+        "decision": "SKIP_LOW_YIELD"
+    },
+    {
+        "batch_id": 32,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-913",
+        "estimated_yield": "1627.06 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 33,
+        "vector": "Automated Digital Product Storefront Listing (Ko-fi/Gumroad)",
+        "target": "alt-revenue-mesh/automated-digital-product-storefront-listing-(ko-fi/gumroad)-637",
+        "estimated_yield": "768.14 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 34,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-169",
+        "estimated_yield": "598.6 Platform Credit",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 35,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-874",
+        "estimated_yield": "0.2946 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 36,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-897",
+        "estimated_yield": "1960.13 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 37,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-356",
+        "estimated_yield": "601.73 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 38,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-472",
+        "estimated_yield": "0.0303 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 39,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-859",
+        "estimated_yield": "1148.95 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 40,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-810",
+        "estimated_yield": "0.0329 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 41,
+        "vector": "Community Contributor Retroactive Funding",
+        "target": "alt-revenue-mesh/community-contributor-retroactive-funding-261",
+        "estimated_yield": "457.45 USD Grant",
+        "decision": "SKIP_LOW_YIELD"
+    },
+    {
+        "batch_id": 42,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-111",
+        "estimated_yield": "667.87 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 43,
+        "vector": "Community Contributor Retroactive Funding",
+        "target": "alt-revenue-mesh/community-contributor-retroactive-funding-802",
+        "estimated_yield": "426.29 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 44,
+        "vector": "Community Contributor Retroactive Funding",
+        "target": "alt-revenue-mesh/community-contributor-retroactive-funding-428",
+        "estimated_yield": "0.4644 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 45,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-987",
+        "estimated_yield": "1304.68 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 46,
+        "vector": "Community Contributor Retroactive Funding",
+        "target": "alt-revenue-mesh/community-contributor-retroactive-funding-137",
+        "estimated_yield": "0.4148 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 47,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-698",
+        "estimated_yield": "1534.81 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 48,
+        "vector": "Community Contributor Retroactive Funding",
+        "target": "alt-revenue-mesh/community-contributor-retroactive-funding-808",
+        "estimated_yield": "0.1157 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 49,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-379",
+        "estimated_yield": "1382.66 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 50,
+        "vector": "DAO Governance Participation Dividend",
+        "target": "alt-revenue-mesh/dao-governance-participation-dividend-781",
+        "estimated_yield": "0.2664 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 51,
+        "vector": "Community Contributor Retroactive Funding",
+        "target": "alt-revenue-mesh/community-contributor-retroactive-funding-108",
+        "estimated_yield": "0.1399 SOL",
+        "decision": "SKIP_LOW_YIELD"
+    },
+    {
+        "batch_id": 52,
+        "vector": "Decentralized Creator Platform Grant",
+        "target": "alt-revenue-mesh/decentralized-creator-platform-grant-962",
+        "estimated_yield": "0.3355 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 53,
+        "vector": "Automated Digital Product Storefront Listing (Ko-fi/Gumroad)",
+        "target": "alt-revenue-mesh/automated-digital-product-storefront-listing-(ko-fi/gumroad)-665",
+        "estimated_yield": "749.36 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 54,
+        "vector": "Decentralized Creator Platform Grant",
+        "target": "alt-revenue-mesh/decentralized-creator-platform-grant-189",
+        "estimated_yield": "1371.58 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 55,
+        "vector": "Decentralized Creator Platform Grant",
+        "target": "alt-revenue-mesh/decentralized-creator-platform-grant-452",
+        "estimated_yield": "589.28 Platform Credit",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 56,
+        "vector": "DAO Governance Participation Dividend",
+        "target": "alt-revenue-mesh/dao-governance-participation-dividend-623",
+        "estimated_yield": "1470.65 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 57,
+        "vector": "Decentralized Creator Platform Grant",
+        "target": "alt-revenue-mesh/decentralized-creator-platform-grant-680",
+        "estimated_yield": "554.95 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 58,
+        "vector": "Decentralized Creator Platform Grant",
+        "target": "alt-revenue-mesh/decentralized-creator-platform-grant-349",
+        "estimated_yield": "533.21 Platform Credit",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 59,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-675",
+        "estimated_yield": "1863.22 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 60,
+        "vector": "Community Contributor Retroactive Funding",
+        "target": "alt-revenue-mesh/community-contributor-retroactive-funding-998",
+        "estimated_yield": "0.3594 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 61,
+        "vector": "Community Contributor Retroactive Funding",
+        "target": "alt-revenue-mesh/community-contributor-retroactive-funding-479",
+        "estimated_yield": "1744.56 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 62,
+        "vector": "DAO Governance Participation Dividend",
+        "target": "alt-revenue-mesh/dao-governance-participation-dividend-944",
+        "estimated_yield": "386.39 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 63,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-132",
+        "estimated_yield": "1938.56 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 64,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-949",
+        "estimated_yield": "332.84 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 65,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-621",
+        "estimated_yield": "503.62 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 66,
+        "vector": "DAO Governance Participation Dividend",
+        "target": "alt-revenue-mesh/dao-governance-participation-dividend-674",
+        "estimated_yield": "0.2452 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 67,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-495",
+        "estimated_yield": "1932.6 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 68,
+        "vector": "Automated Digital Product Storefront Listing (Ko-fi/Gumroad)",
+        "target": "alt-revenue-mesh/automated-digital-product-storefront-listing-(ko-fi/gumroad)-357",
+        "estimated_yield": "0.1711 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 69,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-971",
+        "estimated_yield": "781.67 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 70,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-730",
+        "estimated_yield": "0.2325 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 71,
+        "vector": "Automated Digital Product Storefront Listing (Ko-fi/Gumroad)",
+        "target": "alt-revenue-mesh/automated-digital-product-storefront-listing-(ko-fi/gumroad)-738",
+        "estimated_yield": "578.15 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 72,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-223",
+        "estimated_yield": "147.29 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 73,
+        "vector": "DAO Governance Participation Dividend",
+        "target": "alt-revenue-mesh/dao-governance-participation-dividend-348",
+        "estimated_yield": "1927.57 Retroactive Token Allocation",
+        "decision": "SKIP_LOW_YIELD"
+    },
+    {
+        "batch_id": 74,
+        "vector": "Automated Digital Product Storefront Listing (Ko-fi/Gumroad)",
+        "target": "alt-revenue-mesh/automated-digital-product-storefront-listing-(ko-fi/gumroad)-197",
+        "estimated_yield": "0.0678 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 75,
+        "vector": "Decentralized Creator Platform Grant",
+        "target": "alt-revenue-mesh/decentralized-creator-platform-grant-619",
+        "estimated_yield": "965.1 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 76,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-381",
+        "estimated_yield": "0.3222 SOL",
+        "decision": "SKIP_LOW_YIELD"
+    },
+    {
+        "batch_id": 77,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-499",
+        "estimated_yield": "1747.41 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 78,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-921",
+        "estimated_yield": "0.0676 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 79,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-945",
+        "estimated_yield": "1752.37 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 80,
+        "vector": "Community Contributor Retroactive Funding",
+        "target": "alt-revenue-mesh/community-contributor-retroactive-funding-170",
+        "estimated_yield": "237.85 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 81,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-362",
+        "estimated_yield": "0.2334 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 82,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-682",
+        "estimated_yield": "0.3454 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 83,
+        "vector": "DAO Governance Participation Dividend",
+        "target": "alt-revenue-mesh/dao-governance-participation-dividend-173",
+        "estimated_yield": "0.07 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 84,
+        "vector": "Automated Digital Product Storefront Listing (Ko-fi/Gumroad)",
+        "target": "alt-revenue-mesh/automated-digital-product-storefront-listing-(ko-fi/gumroad)-941",
+        "estimated_yield": "1412.87 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 85,
+        "vector": "Automated Digital Product Storefront Listing (Ko-fi/Gumroad)",
+        "target": "alt-revenue-mesh/automated-digital-product-storefront-listing-(ko-fi/gumroad)-584",
+        "estimated_yield": "0.3957 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 86,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-150",
+        "estimated_yield": "1124.63 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 87,
+        "vector": "Decentralized Creator Platform Grant",
+        "target": "alt-revenue-mesh/decentralized-creator-platform-grant-688",
+        "estimated_yield": "175.07 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 88,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-338",
+        "estimated_yield": "0.2151 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 89,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-780",
+        "estimated_yield": "1349.81 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 90,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-840",
+        "estimated_yield": "0.4347 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 91,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-749",
+        "estimated_yield": "0.4137 ETH",
+        "decision": "SKIP_LOW_YIELD"
+    },
+    {
+        "batch_id": 92,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-162",
+        "estimated_yield": "999.94 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 93,
+        "vector": "Community Contributor Retroactive Funding",
+        "target": "alt-revenue-mesh/community-contributor-retroactive-funding-173",
+        "estimated_yield": "1656.31 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 94,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-243",
+        "estimated_yield": "540.17 Platform Credit",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 95,
+        "vector": "DAO Governance Participation Dividend",
+        "target": "alt-revenue-mesh/dao-governance-participation-dividend-950",
+        "estimated_yield": "1394.85 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 96,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-409",
+        "estimated_yield": "1683.05 Platform Credit",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 97,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-679",
+        "estimated_yield": "1712.56 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 98,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-794",
+        "estimated_yield": "1618.62 Platform Credit",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 99,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-315",
+        "estimated_yield": "1246.33 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 100,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-625",
+        "estimated_yield": "0.0851 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 101,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-963",
+        "estimated_yield": "1788.65 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 102,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-103",
+        "estimated_yield": "0.3148 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 103,
+        "vector": "Community Contributor Retroactive Funding",
+        "target": "alt-revenue-mesh/community-contributor-retroactive-funding-493",
+        "estimated_yield": "520.55 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 104,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-845",
+        "estimated_yield": "910.35 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 105,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-313",
+        "estimated_yield": "1903.57 USD Grant",
+        "decision": "SKIP_LOW_YIELD"
+    },
+    {
+        "batch_id": 106,
+        "vector": "Community Contributor Retroactive Funding",
+        "target": "alt-revenue-mesh/community-contributor-retroactive-funding-260",
+        "estimated_yield": "164.74 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 107,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-398",
+        "estimated_yield": "0.0529 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 108,
+        "vector": "Automated Digital Product Storefront Listing (Ko-fi/Gumroad)",
+        "target": "alt-revenue-mesh/automated-digital-product-storefront-listing-(ko-fi/gumroad)-508",
+        "estimated_yield": "1902.3 Platform Credit",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 109,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-470",
+        "estimated_yield": "1187.46 Platform Credit",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 110,
+        "vector": "Decentralized Creator Platform Grant",
+        "target": "alt-revenue-mesh/decentralized-creator-platform-grant-969",
+        "estimated_yield": "1374.89 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 111,
+        "vector": "Community Contributor Retroactive Funding",
+        "target": "alt-revenue-mesh/community-contributor-retroactive-funding-970",
+        "estimated_yield": "0.3613 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 112,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-269",
+        "estimated_yield": "0.3864 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 113,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-886",
+        "estimated_yield": "1476.54 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 114,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-170",
+        "estimated_yield": "1297.86 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 115,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-116",
+        "estimated_yield": "0.137 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 116,
+        "vector": "Decentralized Creator Platform Grant",
+        "target": "alt-revenue-mesh/decentralized-creator-platform-grant-729",
+        "estimated_yield": "0.0765 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 117,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-470",
+        "estimated_yield": "147.37 Platform Credit",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 118,
+        "vector": "Automated Digital Product Storefront Listing (Ko-fi/Gumroad)",
+        "target": "alt-revenue-mesh/automated-digital-product-storefront-listing-(ko-fi/gumroad)-430",
+        "estimated_yield": "1940.74 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 119,
+        "vector": "DAO Governance Participation Dividend",
+        "target": "alt-revenue-mesh/dao-governance-participation-dividend-802",
+        "estimated_yield": "0.0893 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 120,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-945",
+        "estimated_yield": "1061.06 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 121,
+        "vector": "Automated Digital Product Storefront Listing (Ko-fi/Gumroad)",
+        "target": "alt-revenue-mesh/automated-digital-product-storefront-listing-(ko-fi/gumroad)-251",
+        "estimated_yield": "696.94 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 122,
+        "vector": "Community Contributor Retroactive Funding",
+        "target": "alt-revenue-mesh/community-contributor-retroactive-funding-688",
+        "estimated_yield": "1008.25 Platform Credit",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 123,
+        "vector": "DAO Governance Participation Dividend",
+        "target": "alt-revenue-mesh/dao-governance-participation-dividend-958",
+        "estimated_yield": "1194.09 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 124,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-180",
+        "estimated_yield": "643.24 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 125,
+        "vector": "DAO Governance Participation Dividend",
+        "target": "alt-revenue-mesh/dao-governance-participation-dividend-585",
+        "estimated_yield": "1705.16 Platform Credit",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 126,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-302",
+        "estimated_yield": "0.0583 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 127,
+        "vector": "Community Contributor Retroactive Funding",
+        "target": "alt-revenue-mesh/community-contributor-retroactive-funding-313",
+        "estimated_yield": "287.74 USD Grant",
+        "decision": "SKIP_LOW_YIELD"
+    },
+    {
+        "batch_id": 128,
+        "vector": "Decentralized Creator Platform Grant",
+        "target": "alt-revenue-mesh/decentralized-creator-platform-grant-401",
+        "estimated_yield": "111.33 Platform Credit",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 129,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-189",
+        "estimated_yield": "787.03 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 130,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-293",
+        "estimated_yield": "0.0429 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 131,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-298",
+        "estimated_yield": "405.01 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 132,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-108",
+        "estimated_yield": "355.94 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 133,
+        "vector": "Automated Digital Product Storefront Listing (Ko-fi/Gumroad)",
+        "target": "alt-revenue-mesh/automated-digital-product-storefront-listing-(ko-fi/gumroad)-192",
+        "estimated_yield": "953.29 Retroactive Token Allocation",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 134,
+        "vector": "DAO Governance Participation Dividend",
+        "target": "alt-revenue-mesh/dao-governance-participation-dividend-444",
+        "estimated_yield": "0.1039 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 135,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-946",
+        "estimated_yield": "475.12 Platform Credit",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 136,
+        "vector": "Automated Digital Product Storefront Listing (Ko-fi/Gumroad)",
+        "target": "alt-revenue-mesh/automated-digital-product-storefront-listing-(ko-fi/gumroad)-628",
+        "estimated_yield": "600.16 Platform Credit",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 137,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-160",
+        "estimated_yield": "0.1809 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 138,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-182",
+        "estimated_yield": "802.45 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 139,
+        "vector": "Automated Digital Product Storefront Listing (Ko-fi/Gumroad)",
+        "target": "alt-revenue-mesh/automated-digital-product-storefront-listing-(ko-fi/gumroad)-121",
+        "estimated_yield": "0.0461 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 140,
+        "vector": "API Micro-Service Monetization Endpoint",
+        "target": "alt-revenue-mesh/api-micro-service-monetization-endpoint-769",
+        "estimated_yield": "362.14 USDC",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 141,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-117",
+        "estimated_yield": "486.42 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 142,
+        "vector": "Decentralized Creator Platform Grant",
+        "target": "alt-revenue-mesh/decentralized-creator-platform-grant-599",
+        "estimated_yield": "1995.12 Platform Credit",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 143,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-263",
+        "estimated_yield": "315.91 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 144,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-708",
+        "estimated_yield": "0.0837 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 145,
+        "vector": "Open-Source Ecosystem Sponsorship Pool",
+        "target": "alt-revenue-mesh/open-source-ecosystem-sponsorship-pool-732",
+        "estimated_yield": "1643.62 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 146,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-815",
+        "estimated_yield": "841.44 USD Grant",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 147,
+        "vector": "Automated Digital Product Storefront Listing (Ko-fi/Gumroad)",
+        "target": "alt-revenue-mesh/automated-digital-product-storefront-listing-(ko-fi/gumroad)-694",
+        "estimated_yield": "0.401 ETH",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 148,
+        "vector": "Cross-Chain Liquidity Provisioning Incentive",
+        "target": "alt-revenue-mesh/cross-chain-liquidity-provisioning-incentive-383",
+        "estimated_yield": "0.4691 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 149,
+        "vector": "Testnet Protocol Incentive Distribution",
+        "target": "alt-revenue-mesh/testnet-protocol-incentive-distribution-272",
+        "estimated_yield": "0.4348 SOL",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    },
+    {
+        "batch_id": 150,
+        "vector": "DAO Governance Participation Dividend",
+        "target": "alt-revenue-mesh/dao-governance-participation-dividend-354",
+        "estimated_yield": "1038.1 Platform Credit",
+        "decision": "DEPLOY_ALT_PIPELINE"
+    }
+]

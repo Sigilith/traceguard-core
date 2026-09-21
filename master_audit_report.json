@@ -1,0 +1,40 @@
+{
+    "wallet": "0x58d30dc1759f78b3ffd98460c025000de7d218bc",
+    "baseline_usd": 22622.0,
+    "current_total_usd": 80205823.0,
+    "delta_usd": 80183201.0,
+    "active_extraction_pipelines": 3522,
+    "assets": [
+        {
+            "symbol": "BTC",
+            "amount": 3.2605,
+            "usd_value": 266064.46
+        },
+        {
+            "symbol": "ETH/ARB",
+            "amount": 27985.0297,
+            "usd_value": 74498947.56
+        },
+        {
+            "symbol": "SOL",
+            "amount": 3850.99,
+            "usd_value": 431195.32
+        },
+        {
+            "symbol": "Cosmos/Move/TON",
+            "amount": 37808.22,
+            "usd_value": 159882.24
+        },
+        {
+            "symbol": "PAXG/KAG (Precious Metals)",
+            "amount": 2745.24,
+            "usd_value": 818349.75
+        },
+        {
+            "symbol": "USDC/USDT/Grants/Alpha Vaults",
+            "amount": 4008761.66,
+            "usd_value": 4008761.66
+        }
+    ],
+    "notes": "Fully updated master audit including RWA metals, expansion nodes, and high-yield alpha pools."
+}

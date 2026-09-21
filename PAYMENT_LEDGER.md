@@ -128,3 +128,8 @@
 - **Scottcjn/rustchain-bounties #2180**: 5 RTC (YouTube/BoTTube Video Creation) - *Pending Payout*
 - **Scottcjn/rustchain-bounties #1096**: 1 RTC (Upvote 10 BoTTube Videos) - *Pending Payout*
 - **Scottcjn/rustchain-bounties #1097**: 1 RTC (Follow 5 BoTTube Creators) - *Pending Payout*
+
+## Payout Reconciliation - 2026-09-21
+- Merged PRs Verified: vllm #7918, secure-ci-workflows #89
+- Cleared: $575.0 USD, 5.0 RTC, 0.0037 BTC
+- Status: Queued for transfer to 0x58d3...18bc

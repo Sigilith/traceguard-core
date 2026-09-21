@@ -1,0 +1,1402 @@
+[
+    {
+        "batch_id": 1,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-5931",
+        "reward": "3137.88 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 2,
+        "domain": "Open-Source Treasury Grant Pool",
+        "target": "fiat-treasury-mesh/open-source-treasury-grant-pool-2906",
+        "reward": "9354.67 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 3,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-4947",
+        "reward": "3055.2 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 4,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-9966",
+        "reward": "2448.77 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 5,
+        "domain": "Decentralized Exchange Liquidity Routing",
+        "target": "fiat-treasury-mesh/decentralized-exchange-liquidity-routing-5626",
+        "reward": "3322.13 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 6,
+        "domain": "Developer Ecosystem Grant Program",
+        "target": "fiat-treasury-mesh/developer-ecosystem-grant-program-2560",
+        "reward": "940.02 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 7,
+        "domain": "Developer Ecosystem Grant Program",
+        "target": "fiat-treasury-mesh/developer-ecosystem-grant-program-5628",
+        "reward": "1612.2 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 8,
+        "domain": "Open-Source Treasury Grant Pool",
+        "target": "fiat-treasury-mesh/open-source-treasury-grant-pool-2689",
+        "reward": "2058.86 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 9,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-2138",
+        "reward": "1224.93 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 10,
+        "domain": "High-Frequency Trading Gateway Bug Fix",
+        "target": "fiat-treasury-mesh/high-frequency-trading-gateway-bug-fix-6687",
+        "reward": "802.51 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 11,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-2952",
+        "reward": "5489.35 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 12,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-4785",
+        "reward": "156.13 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 13,
+        "domain": "Decentralized Exchange Liquidity Routing",
+        "target": "fiat-treasury-mesh/decentralized-exchange-liquidity-routing-6426",
+        "reward": "1299.65 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 14,
+        "domain": "Open-Source Treasury Grant Pool",
+        "target": "fiat-treasury-mesh/open-source-treasury-grant-pool-2606",
+        "reward": "3610.92 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 15,
+        "domain": "Open-Source Treasury Grant Pool",
+        "target": "fiat-treasury-mesh/open-source-treasury-grant-pool-1332",
+        "reward": "5557.06 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 16,
+        "domain": "Developer Ecosystem Grant Program",
+        "target": "fiat-treasury-mesh/developer-ecosystem-grant-program-8886",
+        "reward": "1595.29 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 17,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-5105",
+        "reward": "1496.45 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 18,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-3668",
+        "reward": "2883.21 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 19,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-4534",
+        "reward": "514.72 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 20,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-5739",
+        "reward": "4741.92 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 21,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-7023",
+        "reward": "1913.51 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 22,
+        "domain": "Core Protocol Documentation & SDK Grant",
+        "target": "fiat-treasury-mesh/core-protocol-documentation-&-sdk-grant-1308",
+        "reward": "179.16 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 23,
+        "domain": "Core Protocol Documentation & SDK Grant",
+        "target": "fiat-treasury-mesh/core-protocol-documentation-&-sdk-grant-8164",
+        "reward": "4320.12 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 24,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-6880",
+        "reward": "965.62 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 25,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-7523",
+        "reward": "6129.04 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 26,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-3770",
+        "reward": "7731.8 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 27,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-3335",
+        "reward": "1080.36 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 28,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-9143",
+        "reward": "2252.84 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 29,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-5934",
+        "reward": "2372.56 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 30,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-2395",
+        "reward": "2540.35 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 31,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-1798",
+        "reward": "1783.02 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 32,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-2117",
+        "reward": "591.41 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 33,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-8843",
+        "reward": "395.2 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 34,
+        "domain": "High-Frequency Trading Gateway Bug Fix",
+        "target": "fiat-treasury-mesh/high-frequency-trading-gateway-bug-fix-6947",
+        "reward": "2159.56 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 35,
+        "domain": "High-Frequency Trading Gateway Bug Fix",
+        "target": "fiat-treasury-mesh/high-frequency-trading-gateway-bug-fix-7806",
+        "reward": "4523.99 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 36,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-2002",
+        "reward": "1928.14 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 37,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-5515",
+        "reward": "1072.92 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 38,
+        "domain": "High-Frequency Trading Gateway Bug Fix",
+        "target": "fiat-treasury-mesh/high-frequency-trading-gateway-bug-fix-7465",
+        "reward": "1750.54 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 39,
+        "domain": "Open-Source Treasury Grant Pool",
+        "target": "fiat-treasury-mesh/open-source-treasury-grant-pool-2641",
+        "reward": "581.89 GBP",
+        "decision": "SKIP_LOW_LIQUIDITY"
+    },
+    {
+        "batch_id": 40,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-6795",
+        "reward": "367.12 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 41,
+        "domain": "Decentralized Exchange Liquidity Routing",
+        "target": "fiat-treasury-mesh/decentralized-exchange-liquidity-routing-5411",
+        "reward": "1896.05 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 42,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-5421",
+        "reward": "4837.79 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 43,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-8115",
+        "reward": "4890.12 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 44,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-4179",
+        "reward": "795.13 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 45,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-6486",
+        "reward": "1336.58 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 46,
+        "domain": "Decentralized Exchange Liquidity Routing",
+        "target": "fiat-treasury-mesh/decentralized-exchange-liquidity-routing-1725",
+        "reward": "4741.1 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 47,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-5053",
+        "reward": "2015.23 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 48,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-2558",
+        "reward": "575.79 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 49,
+        "domain": "High-Frequency Trading Gateway Bug Fix",
+        "target": "fiat-treasury-mesh/high-frequency-trading-gateway-bug-fix-5003",
+        "reward": "4625.21 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 50,
+        "domain": "Open-Source Treasury Grant Pool",
+        "target": "fiat-treasury-mesh/open-source-treasury-grant-pool-5884",
+        "reward": "2167.55 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 51,
+        "domain": "High-Frequency Trading Gateway Bug Fix",
+        "target": "fiat-treasury-mesh/high-frequency-trading-gateway-bug-fix-8791",
+        "reward": "2129.13 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 52,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-5869",
+        "reward": "1847.6 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 53,
+        "domain": "Decentralized Exchange Liquidity Routing",
+        "target": "fiat-treasury-mesh/decentralized-exchange-liquidity-routing-2475",
+        "reward": "4651.04 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 54,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-6487",
+        "reward": "7308.62 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 55,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-4625",
+        "reward": "1107.38 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 56,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-2346",
+        "reward": "2579.41 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 57,
+        "domain": "Developer Ecosystem Grant Program",
+        "target": "fiat-treasury-mesh/developer-ecosystem-grant-program-7772",
+        "reward": "2255.33 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 58,
+        "domain": "Core Protocol Documentation & SDK Grant",
+        "target": "fiat-treasury-mesh/core-protocol-documentation-&-sdk-grant-4782",
+        "reward": "381.69 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 59,
+        "domain": "High-Frequency Trading Gateway Bug Fix",
+        "target": "fiat-treasury-mesh/high-frequency-trading-gateway-bug-fix-1129",
+        "reward": "363.53 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 60,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-7903",
+        "reward": "3601.03 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 61,
+        "domain": "Decentralized Exchange Liquidity Routing",
+        "target": "fiat-treasury-mesh/decentralized-exchange-liquidity-routing-4673",
+        "reward": "3637.08 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 62,
+        "domain": "Open-Source Treasury Grant Pool",
+        "target": "fiat-treasury-mesh/open-source-treasury-grant-pool-9337",
+        "reward": "2579.92 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 63,
+        "domain": "High-Frequency Trading Gateway Bug Fix",
+        "target": "fiat-treasury-mesh/high-frequency-trading-gateway-bug-fix-1520",
+        "reward": "300.07 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 64,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-2154",
+        "reward": "375.58 GBP",
+        "decision": "SKIP_LOW_LIQUIDITY"
+    },
+    {
+        "batch_id": 65,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-5331",
+        "reward": "673.11 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 66,
+        "domain": "Decentralized Exchange Liquidity Routing",
+        "target": "fiat-treasury-mesh/decentralized-exchange-liquidity-routing-2844",
+        "reward": "117.6 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 67,
+        "domain": "Decentralized Exchange Liquidity Routing",
+        "target": "fiat-treasury-mesh/decentralized-exchange-liquidity-routing-8679",
+        "reward": "1476.9 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 68,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-6287",
+        "reward": "4605.25 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 69,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-7452",
+        "reward": "2339.62 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 70,
+        "domain": "High-Frequency Trading Gateway Bug Fix",
+        "target": "fiat-treasury-mesh/high-frequency-trading-gateway-bug-fix-8949",
+        "reward": "2069.42 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 71,
+        "domain": "Open-Source Treasury Grant Pool",
+        "target": "fiat-treasury-mesh/open-source-treasury-grant-pool-5970",
+        "reward": "2070.78 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 72,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-9780",
+        "reward": "4894.78 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 73,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-3666",
+        "reward": "3817.52 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 74,
+        "domain": "Decentralized Exchange Liquidity Routing",
+        "target": "fiat-treasury-mesh/decentralized-exchange-liquidity-routing-9468",
+        "reward": "1293.93 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 75,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-1305",
+        "reward": "4820.73 USD",
+        "decision": "SKIP_LOW_LIQUIDITY"
+    },
+    {
+        "batch_id": 76,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-9394",
+        "reward": "2730.62 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 77,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-8170",
+        "reward": "1971.63 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 78,
+        "domain": "Core Protocol Documentation & SDK Grant",
+        "target": "fiat-treasury-mesh/core-protocol-documentation-&-sdk-grant-8477",
+        "reward": "1032.29 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 79,
+        "domain": "Core Protocol Documentation & SDK Grant",
+        "target": "fiat-treasury-mesh/core-protocol-documentation-&-sdk-grant-3754",
+        "reward": "1073.37 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 80,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-2121",
+        "reward": "2469.16 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 81,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-6453",
+        "reward": "1120.01 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 82,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-6142",
+        "reward": "1997.97 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 83,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-4764",
+        "reward": "2380.9 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 84,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-6114",
+        "reward": "710.36 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 85,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-5341",
+        "reward": "4712.68 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 86,
+        "domain": "Developer Ecosystem Grant Program",
+        "target": "fiat-treasury-mesh/developer-ecosystem-grant-program-6168",
+        "reward": "4772.0 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 87,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-3615",
+        "reward": "2177.9 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 88,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-6217",
+        "reward": "693.55 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 89,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-6391",
+        "reward": "5700.72 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 90,
+        "domain": "Core Protocol Documentation & SDK Grant",
+        "target": "fiat-treasury-mesh/core-protocol-documentation-&-sdk-grant-4882",
+        "reward": "441.57 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 91,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-3838",
+        "reward": "1036.96 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 92,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-8254",
+        "reward": "135.34 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 93,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-5084",
+        "reward": "3618.04 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 94,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-1331",
+        "reward": "1002.58 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 95,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-3231",
+        "reward": "9777.88 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 96,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-4142",
+        "reward": "1646.08 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 97,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-3898",
+        "reward": "1092.99 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 98,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-6116",
+        "reward": "3589.95 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 99,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-1078",
+        "reward": "6574.1 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 100,
+        "domain": "Developer Ecosystem Grant Program",
+        "target": "fiat-treasury-mesh/developer-ecosystem-grant-program-4664",
+        "reward": "4940.79 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 101,
+        "domain": "Developer Ecosystem Grant Program",
+        "target": "fiat-treasury-mesh/developer-ecosystem-grant-program-8713",
+        "reward": "1608.72 GBP",
+        "decision": "SKIP_LOW_LIQUIDITY"
+    },
+    {
+        "batch_id": 102,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-2726",
+        "reward": "1163.85 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 103,
+        "domain": "High-Frequency Trading Gateway Bug Fix",
+        "target": "fiat-treasury-mesh/high-frequency-trading-gateway-bug-fix-3947",
+        "reward": "2003.7 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 104,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-7103",
+        "reward": "1854.02 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 105,
+        "domain": "Decentralized Exchange Liquidity Routing",
+        "target": "fiat-treasury-mesh/decentralized-exchange-liquidity-routing-8577",
+        "reward": "1140.44 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 106,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-3473",
+        "reward": "6848.41 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 107,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-1735",
+        "reward": "1706.3 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 108,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-6270",
+        "reward": "1299.7 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 109,
+        "domain": "Decentralized Exchange Liquidity Routing",
+        "target": "fiat-treasury-mesh/decentralized-exchange-liquidity-routing-3845",
+        "reward": "9209.89 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 110,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-1251",
+        "reward": "2403.63 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 111,
+        "domain": "High-Frequency Trading Gateway Bug Fix",
+        "target": "fiat-treasury-mesh/high-frequency-trading-gateway-bug-fix-3707",
+        "reward": "2192.91 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 112,
+        "domain": "High-Frequency Trading Gateway Bug Fix",
+        "target": "fiat-treasury-mesh/high-frequency-trading-gateway-bug-fix-6409",
+        "reward": "1439.19 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 113,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-6874",
+        "reward": "939.93 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 114,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-3106",
+        "reward": "7107.0 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 115,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-6990",
+        "reward": "6209.51 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 116,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-6954",
+        "reward": "505.41 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 117,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-2415",
+        "reward": "1742.53 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 118,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-2029",
+        "reward": "1057.93 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 119,
+        "domain": "Developer Ecosystem Grant Program",
+        "target": "fiat-treasury-mesh/developer-ecosystem-grant-program-5753",
+        "reward": "2647.31 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 120,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-4736",
+        "reward": "1732.21 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 121,
+        "domain": "Open-Source Treasury Grant Pool",
+        "target": "fiat-treasury-mesh/open-source-treasury-grant-pool-7458",
+        "reward": "606.92 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 122,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-8799",
+        "reward": "822.35 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 123,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-9153",
+        "reward": "2563.55 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 124,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-8058",
+        "reward": "4514.23 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 125,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-1125",
+        "reward": "4875.59 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 126,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-9273",
+        "reward": "4983.77 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 127,
+        "domain": "Decentralized Exchange Liquidity Routing",
+        "target": "fiat-treasury-mesh/decentralized-exchange-liquidity-routing-8390",
+        "reward": "1509.89 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 128,
+        "domain": "Developer Ecosystem Grant Program",
+        "target": "fiat-treasury-mesh/developer-ecosystem-grant-program-7145",
+        "reward": "2038.42 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 129,
+        "domain": "Decentralized Exchange Liquidity Routing",
+        "target": "fiat-treasury-mesh/decentralized-exchange-liquidity-routing-3761",
+        "reward": "1361.42 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 130,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-3626",
+        "reward": "6262.96 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 131,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-5638",
+        "reward": "8203.81 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 132,
+        "domain": "Open-Source Treasury Grant Pool",
+        "target": "fiat-treasury-mesh/open-source-treasury-grant-pool-8546",
+        "reward": "233.52 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 133,
+        "domain": "High-Frequency Trading Gateway Bug Fix",
+        "target": "fiat-treasury-mesh/high-frequency-trading-gateway-bug-fix-2344",
+        "reward": "2337.62 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 134,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-3495",
+        "reward": "2550.28 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 135,
+        "domain": "Core Protocol Documentation & SDK Grant",
+        "target": "fiat-treasury-mesh/core-protocol-documentation-&-sdk-grant-7330",
+        "reward": "333.5 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 136,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-6116",
+        "reward": "7741.56 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 137,
+        "domain": "Decentralized Exchange Liquidity Routing",
+        "target": "fiat-treasury-mesh/decentralized-exchange-liquidity-routing-2323",
+        "reward": "1333.73 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 138,
+        "domain": "High-Frequency Trading Gateway Bug Fix",
+        "target": "fiat-treasury-mesh/high-frequency-trading-gateway-bug-fix-8318",
+        "reward": "339.14 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 139,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-7611",
+        "reward": "3425.22 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 140,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-1535",
+        "reward": "1049.48 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 141,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-3441",
+        "reward": "1719.86 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 142,
+        "domain": "Decentralized Exchange Liquidity Routing",
+        "target": "fiat-treasury-mesh/decentralized-exchange-liquidity-routing-1851",
+        "reward": "2470.23 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 143,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-9232",
+        "reward": "3085.89 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 144,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-3626",
+        "reward": "1327.1 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 145,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-5856",
+        "reward": "2318.4 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 146,
+        "domain": "Open-Source Treasury Grant Pool",
+        "target": "fiat-treasury-mesh/open-source-treasury-grant-pool-8891",
+        "reward": "1094.51 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 147,
+        "domain": "Developer Ecosystem Grant Program",
+        "target": "fiat-treasury-mesh/developer-ecosystem-grant-program-1143",
+        "reward": "1306.82 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 148,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-1538",
+        "reward": "1453.99 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 149,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-3139",
+        "reward": "2666.56 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 150,
+        "domain": "Developer Ecosystem Grant Program",
+        "target": "fiat-treasury-mesh/developer-ecosystem-grant-program-3689",
+        "reward": "2190.33 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 151,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-2951",
+        "reward": "2321.73 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 152,
+        "domain": "Open-Source Treasury Grant Pool",
+        "target": "fiat-treasury-mesh/open-source-treasury-grant-pool-4489",
+        "reward": "1768.6 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 153,
+        "domain": "Open-Source Treasury Grant Pool",
+        "target": "fiat-treasury-mesh/open-source-treasury-grant-pool-1315",
+        "reward": "6257.59 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 154,
+        "domain": "Developer Ecosystem Grant Program",
+        "target": "fiat-treasury-mesh/developer-ecosystem-grant-program-6664",
+        "reward": "1050.73 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 155,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-3026",
+        "reward": "3596.62 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 156,
+        "domain": "Open-Source Treasury Grant Pool",
+        "target": "fiat-treasury-mesh/open-source-treasury-grant-pool-8638",
+        "reward": "3661.63 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 157,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-9138",
+        "reward": "661.08 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 158,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-9489",
+        "reward": "567.76 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 159,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-8015",
+        "reward": "3918.93 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 160,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-5530",
+        "reward": "1149.19 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 161,
+        "domain": "Core Protocol Documentation & SDK Grant",
+        "target": "fiat-treasury-mesh/core-protocol-documentation-&-sdk-grant-5381",
+        "reward": "962.54 DAI",
+        "decision": "SKIP_LOW_LIQUIDITY"
+    },
+    {
+        "batch_id": 162,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-7878",
+        "reward": "4027.78 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 163,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-1251",
+        "reward": "967.81 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 164,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-6528",
+        "reward": "2072.68 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 165,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-3008",
+        "reward": "456.48 USD",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 166,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-4468",
+        "reward": "5775.88 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 167,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-4655",
+        "reward": "1479.15 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 168,
+        "domain": "Core Protocol Documentation & SDK Grant",
+        "target": "fiat-treasury-mesh/core-protocol-documentation-&-sdk-grant-7035",
+        "reward": "2689.0 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 169,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-4715",
+        "reward": "2448.49 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 170,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-4434",
+        "reward": "1840.51 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 171,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-7809",
+        "reward": "1935.9 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 172,
+        "domain": "High-Frequency Trading Gateway Bug Fix",
+        "target": "fiat-treasury-mesh/high-frequency-trading-gateway-bug-fix-9314",
+        "reward": "2349.63 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 173,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-4456",
+        "reward": "1637.46 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 174,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-3059",
+        "reward": "1302.99 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 175,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-4158",
+        "reward": "1614.19 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 176,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-7761",
+        "reward": "376.12 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 177,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-5166",
+        "reward": "534.0 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 178,
+        "domain": "Developer Ecosystem Grant Program",
+        "target": "fiat-treasury-mesh/developer-ecosystem-grant-program-8622",
+        "reward": "2453.96 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 179,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-3278",
+        "reward": "540.14 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 180,
+        "domain": "Enterprise Cloud Infrastructure Bug Bounty",
+        "target": "fiat-treasury-mesh/enterprise-cloud-infrastructure-bug-bounty-3350",
+        "reward": "740.34 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 181,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-5775",
+        "reward": "4069.97 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 182,
+        "domain": "Developer Ecosystem Grant Program",
+        "target": "fiat-treasury-mesh/developer-ecosystem-grant-program-6996",
+        "reward": "1645.49 Grant Pool Share",
+        "decision": "SKIP_LOW_LIQUIDITY"
+    },
+    {
+        "batch_id": 183,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-9603",
+        "reward": "925.77 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 184,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-4906",
+        "reward": "2001.73 DAI",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 185,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-9261",
+        "reward": "1043.62 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 186,
+        "domain": "Developer Ecosystem Grant Program",
+        "target": "fiat-treasury-mesh/developer-ecosystem-grant-program-1696",
+        "reward": "3702.46 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 187,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-7522",
+        "reward": "484.06 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 188,
+        "domain": "API Gateway Performance Optimization",
+        "target": "fiat-treasury-mesh/api-gateway-performance-optimization-7439",
+        "reward": "378.9 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 189,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-2684",
+        "reward": "4328.14 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 190,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-8973",
+        "reward": "471.77 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 191,
+        "domain": "Decentralized Exchange Liquidity Routing",
+        "target": "fiat-treasury-mesh/decentralized-exchange-liquidity-routing-8668",
+        "reward": "1996.51 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 192,
+        "domain": "Developer Ecosystem Grant Program",
+        "target": "fiat-treasury-mesh/developer-ecosystem-grant-program-3562",
+        "reward": "8137.44 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 193,
+        "domain": "Decentralized Exchange Liquidity Routing",
+        "target": "fiat-treasury-mesh/decentralized-exchange-liquidity-routing-7632",
+        "reward": "6464.45 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 194,
+        "domain": "Security Vulnerability Disclosure Pool",
+        "target": "fiat-treasury-mesh/security-vulnerability-disclosure-pool-9599",
+        "reward": "3370.4 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 195,
+        "domain": "Developer Ecosystem Grant Program",
+        "target": "fiat-treasury-mesh/developer-ecosystem-grant-program-5741",
+        "reward": "125.68 USDC",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 196,
+        "domain": "High-Frequency Trading Gateway Bug Fix",
+        "target": "fiat-treasury-mesh/high-frequency-trading-gateway-bug-fix-6580",
+        "reward": "1816.44 Grant Pool Share",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 197,
+        "domain": "Developer Ecosystem Grant Program",
+        "target": "fiat-treasury-mesh/developer-ecosystem-grant-program-7497",
+        "reward": "1833.72 USDT",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 198,
+        "domain": "Core Protocol Documentation & SDK Grant",
+        "target": "fiat-treasury-mesh/core-protocol-documentation-&-sdk-grant-9273",
+        "reward": "3189.44 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 199,
+        "domain": "Automated Compliance & Audit Payout Pool",
+        "target": "fiat-treasury-mesh/automated-compliance-&-audit-payout-pool-6119",
+        "reward": "4431.81 EUR",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    },
+    {
+        "batch_id": 200,
+        "domain": "Protocol Liquidity Incentive Audit",
+        "target": "fiat-treasury-mesh/protocol-liquidity-incentive-audit-3358",
+        "reward": "462.29 GBP",
+        "decision": "DEPLOY_CASH_PIPELINE"
+    }
+]

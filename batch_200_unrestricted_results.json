@@ -1,0 +1,1402 @@
+[
+    {
+        "batch_id": 1,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-8209",
+        "reward": "132.39 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 2,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-8919",
+        "reward": "140.99 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 3,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-5609",
+        "reward": "80.03 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 4,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-1280",
+        "reward": "0.001848 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 5,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-5472",
+        "reward": "0.0713 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 6,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-3348",
+        "reward": "0.002523 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 7,
+        "domain": "P2P Gossip Protocol Hardening",
+        "target": "global-node-mesh/p2p-gossip-protocol-hardening-8174",
+        "reward": "0.002098 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 8,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-4451",
+        "reward": "22.74 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 9,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-8748",
+        "reward": "0.000601 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 10,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-8876",
+        "reward": "0.9341 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 11,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-6057",
+        "reward": "0.001864 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 12,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-2531",
+        "reward": "1.1467 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 13,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-2611",
+        "reward": "0.002647 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 14,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-9866",
+        "reward": "141.26 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 15,
+        "domain": "Consensus Fork Recovery Scripts",
+        "target": "global-node-mesh/consensus-fork-recovery-scripts-1995",
+        "reward": "82.43 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 16,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-9520",
+        "reward": "97.29 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 17,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-9155",
+        "reward": "6.87 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 18,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-7102",
+        "reward": "9.4 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 19,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-4335",
+        "reward": "0.002299 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 20,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-3369",
+        "reward": "9.06 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 21,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-5961",
+        "reward": "0.001962 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 22,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-4867",
+        "reward": "10.36 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 23,
+        "domain": "Memory Pool Congestion Mitigation",
+        "target": "global-node-mesh/memory-pool-congestion-mitigation-8169",
+        "reward": "1.1723 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 24,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-5010",
+        "reward": "1.4782 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 25,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-6302",
+        "reward": "0.002698 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 26,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-7991",
+        "reward": "30.97 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 27,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-3925",
+        "reward": "0.000444 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 28,
+        "domain": "Memory Pool Congestion Mitigation",
+        "target": "global-node-mesh/memory-pool-congestion-mitigation-5616",
+        "reward": "52.05 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 29,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-2222",
+        "reward": "0.3226 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 30,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-4751",
+        "reward": "118.19 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 31,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-4382",
+        "reward": "123.7 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 32,
+        "domain": "Memory Pool Congestion Mitigation",
+        "target": "global-node-mesh/memory-pool-congestion-mitigation-5366",
+        "reward": "1.57 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 33,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-7684",
+        "reward": "39.21 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 34,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-2011",
+        "reward": "0.002752 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 35,
+        "domain": "Consensus Fork Recovery Scripts",
+        "target": "global-node-mesh/consensus-fork-recovery-scripts-3704",
+        "reward": "66.98 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 36,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-8738",
+        "reward": "0.2184 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 37,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-9371",
+        "reward": "0.6671 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 38,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-2582",
+        "reward": "24.4 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 39,
+        "domain": "Consensus Fork Recovery Scripts",
+        "target": "global-node-mesh/consensus-fork-recovery-scripts-7825",
+        "reward": "3.85 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 40,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-7415",
+        "reward": "93.98 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 41,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-7485",
+        "reward": "0.001429 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 42,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-3243",
+        "reward": "0.8113 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 43,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-9084",
+        "reward": "17.35 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 44,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-9366",
+        "reward": "67.88 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 45,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-3102",
+        "reward": "0.191 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 46,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-1210",
+        "reward": "60.12 USDC",
+        "decision": "SKIP_SUB_OPTIMAL"
+    },
+    {
+        "batch_id": 47,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-5719",
+        "reward": "1.3207 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 48,
+        "domain": "P2P Gossip Protocol Hardening",
+        "target": "global-node-mesh/p2p-gossip-protocol-hardening-4866",
+        "reward": "0.000762 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 49,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-2927",
+        "reward": "84.93 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 50,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-8895",
+        "reward": "10.71 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 51,
+        "domain": "P2P Gossip Protocol Hardening",
+        "target": "global-node-mesh/p2p-gossip-protocol-hardening-4260",
+        "reward": "17.39 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 52,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-1277",
+        "reward": "0.471 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 53,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-1671",
+        "reward": "11.48 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 54,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-1602",
+        "reward": "0.4253 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 55,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-2380",
+        "reward": "0.3314 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 56,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-3577",
+        "reward": "14.12 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 57,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-2204",
+        "reward": "2.89 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 58,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-3591",
+        "reward": "1.3294 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 59,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-8941",
+        "reward": "17.62 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 60,
+        "domain": "Consensus Fork Recovery Scripts",
+        "target": "global-node-mesh/consensus-fork-recovery-scripts-5146",
+        "reward": "13.98 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 61,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-4860",
+        "reward": "89.63 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 62,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-1469",
+        "reward": "0.001873 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 63,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-6491",
+        "reward": "0.1068 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 64,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-6744",
+        "reward": "10.98 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 65,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-4215",
+        "reward": "0.33 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 66,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-2132",
+        "reward": "7.1 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 67,
+        "domain": "Consensus Fork Recovery Scripts",
+        "target": "global-node-mesh/consensus-fork-recovery-scripts-8191",
+        "reward": "16.93 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 68,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-3466",
+        "reward": "0.002336 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 69,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-2388",
+        "reward": "21.06 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 70,
+        "domain": "P2P Gossip Protocol Hardening",
+        "target": "global-node-mesh/p2p-gossip-protocol-hardening-2396",
+        "reward": "0.002109 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 71,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-6524",
+        "reward": "71.06 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 72,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-8964",
+        "reward": "16.0 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 73,
+        "domain": "Memory Pool Congestion Mitigation",
+        "target": "global-node-mesh/memory-pool-congestion-mitigation-1532",
+        "reward": "87.58 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 74,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-6114",
+        "reward": "0.003117 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 75,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-1255",
+        "reward": "0.002737 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 76,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-8425",
+        "reward": "0.00261 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 77,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-7136",
+        "reward": "10.54 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 78,
+        "domain": "Consensus Fork Recovery Scripts",
+        "target": "global-node-mesh/consensus-fork-recovery-scripts-1905",
+        "reward": "15.49 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 79,
+        "domain": "Consensus Fork Recovery Scripts",
+        "target": "global-node-mesh/consensus-fork-recovery-scripts-3952",
+        "reward": "0.003035 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 80,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-6734",
+        "reward": "1.0479 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 81,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-3032",
+        "reward": "6.47 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 82,
+        "domain": "P2P Gossip Protocol Hardening",
+        "target": "global-node-mesh/p2p-gossip-protocol-hardening-3996",
+        "reward": "109.42 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 83,
+        "domain": "Memory Pool Congestion Mitigation",
+        "target": "global-node-mesh/memory-pool-congestion-mitigation-4312",
+        "reward": "118.3 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 84,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-2165",
+        "reward": "0.000381 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 85,
+        "domain": "Consensus Fork Recovery Scripts",
+        "target": "global-node-mesh/consensus-fork-recovery-scripts-8471",
+        "reward": "1.1992 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 86,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-8704",
+        "reward": "0.0007 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 87,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-5422",
+        "reward": "0.002124 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 88,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-6472",
+        "reward": "59.09 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 89,
+        "domain": "Memory Pool Congestion Mitigation",
+        "target": "global-node-mesh/memory-pool-congestion-mitigation-5888",
+        "reward": "0.000366 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 90,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-1798",
+        "reward": "0.9363 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 91,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-6588",
+        "reward": "1.2756 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 92,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-9426",
+        "reward": "0.003267 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 93,
+        "domain": "Memory Pool Congestion Mitigation",
+        "target": "global-node-mesh/memory-pool-congestion-mitigation-2799",
+        "reward": "0.4942 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 94,
+        "domain": "Consensus Fork Recovery Scripts",
+        "target": "global-node-mesh/consensus-fork-recovery-scripts-1934",
+        "reward": "0.002698 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 95,
+        "domain": "P2P Gossip Protocol Hardening",
+        "target": "global-node-mesh/p2p-gossip-protocol-hardening-6613",
+        "reward": "70.69 DOT",
+        "decision": "SKIP_SUB_OPTIMAL"
+    },
+    {
+        "batch_id": 96,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-5853",
+        "reward": "1.0678 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 97,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-6163",
+        "reward": "0.002985 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 98,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-3379",
+        "reward": "9.88 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 99,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-5909",
+        "reward": "133.29 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 100,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-1224",
+        "reward": "6.74 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 101,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-3070",
+        "reward": "55.72 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 102,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-9502",
+        "reward": "10.4 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 103,
+        "domain": "Consensus Fork Recovery Scripts",
+        "target": "global-node-mesh/consensus-fork-recovery-scripts-4969",
+        "reward": "79.27 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 104,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-7557",
+        "reward": "103.92 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 105,
+        "domain": "Memory Pool Congestion Mitigation",
+        "target": "global-node-mesh/memory-pool-congestion-mitigation-8351",
+        "reward": "0.002865 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 106,
+        "domain": "Consensus Fork Recovery Scripts",
+        "target": "global-node-mesh/consensus-fork-recovery-scripts-1160",
+        "reward": "0.001963 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 107,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-2119",
+        "reward": "1.91 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 108,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-4896",
+        "reward": "67.06 DOT",
+        "decision": "SKIP_SUB_OPTIMAL"
+    },
+    {
+        "batch_id": 109,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-4278",
+        "reward": "0.3455 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 110,
+        "domain": "P2P Gossip Protocol Hardening",
+        "target": "global-node-mesh/p2p-gossip-protocol-hardening-2060",
+        "reward": "5.37 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 111,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-5963",
+        "reward": "0.002931 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 112,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-6722",
+        "reward": "7.06 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 113,
+        "domain": "Memory Pool Congestion Mitigation",
+        "target": "global-node-mesh/memory-pool-congestion-mitigation-9110",
+        "reward": "0.5892 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 114,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-4609",
+        "reward": "1.65 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 115,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-2371",
+        "reward": "80.77 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 116,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-6058",
+        "reward": "1.4752 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 117,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-9282",
+        "reward": "47.48 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 118,
+        "domain": "Memory Pool Congestion Mitigation",
+        "target": "global-node-mesh/memory-pool-congestion-mitigation-3661",
+        "reward": "0.3427 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 119,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-3515",
+        "reward": "26.48 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 120,
+        "domain": "P2P Gossip Protocol Hardening",
+        "target": "global-node-mesh/p2p-gossip-protocol-hardening-5909",
+        "reward": "0.6487 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 121,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-3169",
+        "reward": "0.3785 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 122,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-7856",
+        "reward": "145.01 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 123,
+        "domain": "Consensus Fork Recovery Scripts",
+        "target": "global-node-mesh/consensus-fork-recovery-scripts-8558",
+        "reward": "69.54 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 124,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-5660",
+        "reward": "106.19 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 125,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-3452",
+        "reward": "0.00084 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 126,
+        "domain": "P2P Gossip Protocol Hardening",
+        "target": "global-node-mesh/p2p-gossip-protocol-hardening-1372",
+        "reward": "1.4197 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 127,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-4748",
+        "reward": "1.14 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 128,
+        "domain": "Consensus Fork Recovery Scripts",
+        "target": "global-node-mesh/consensus-fork-recovery-scripts-3881",
+        "reward": "98.1 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 129,
+        "domain": "P2P Gossip Protocol Hardening",
+        "target": "global-node-mesh/p2p-gossip-protocol-hardening-1477",
+        "reward": "0.000876 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 130,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-6093",
+        "reward": "0.4051 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 131,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-9881",
+        "reward": "95.39 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 132,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-5509",
+        "reward": "0.0002 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 133,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-1796",
+        "reward": "130.53 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 134,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-1826",
+        "reward": "0.2954 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 135,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-8400",
+        "reward": "0.5247 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 136,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-5283",
+        "reward": "111.73 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 137,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-8219",
+        "reward": "0.002408 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 138,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-7350",
+        "reward": "99.91 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 139,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-3325",
+        "reward": "97.99 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 140,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-2751",
+        "reward": "0.002405 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 141,
+        "domain": "P2P Gossip Protocol Hardening",
+        "target": "global-node-mesh/p2p-gossip-protocol-hardening-1951",
+        "reward": "1.0989 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 142,
+        "domain": "P2P Gossip Protocol Hardening",
+        "target": "global-node-mesh/p2p-gossip-protocol-hardening-1948",
+        "reward": "0.002085 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 143,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-3206",
+        "reward": "1.11 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 144,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-2098",
+        "reward": "74.65 DOT",
+        "decision": "SKIP_SUB_OPTIMAL"
+    },
+    {
+        "batch_id": 145,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-3733",
+        "reward": "129.46 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 146,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-1986",
+        "reward": "0.001623 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 147,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-5847",
+        "reward": "0.000352 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 148,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-4174",
+        "reward": "107.96 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 149,
+        "domain": "Memory Pool Congestion Mitigation",
+        "target": "global-node-mesh/memory-pool-congestion-mitigation-3472",
+        "reward": "24.85 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 150,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-8698",
+        "reward": "35.52 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 151,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-3056",
+        "reward": "10.86 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 152,
+        "domain": "Consensus Fork Recovery Scripts",
+        "target": "global-node-mesh/consensus-fork-recovery-scripts-9994",
+        "reward": "94.56 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 153,
+        "domain": "Memory Pool Congestion Mitigation",
+        "target": "global-node-mesh/memory-pool-congestion-mitigation-6352",
+        "reward": "25.87 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 154,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-3014",
+        "reward": "125.13 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 155,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-1993",
+        "reward": "17.78 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 156,
+        "domain": "Memory Pool Congestion Mitigation",
+        "target": "global-node-mesh/memory-pool-congestion-mitigation-9139",
+        "reward": "0.8913 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 157,
+        "domain": "P2P Gossip Protocol Hardening",
+        "target": "global-node-mesh/p2p-gossip-protocol-hardening-9681",
+        "reward": "89.12 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 158,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-6930",
+        "reward": "3.51 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 159,
+        "domain": "Memory Pool Congestion Mitigation",
+        "target": "global-node-mesh/memory-pool-congestion-mitigation-1490",
+        "reward": "55.76 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 160,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-7202",
+        "reward": "46.88 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 161,
+        "domain": "Consensus Fork Recovery Scripts",
+        "target": "global-node-mesh/consensus-fork-recovery-scripts-5844",
+        "reward": "22.74 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 162,
+        "domain": "P2P Gossip Protocol Hardening",
+        "target": "global-node-mesh/p2p-gossip-protocol-hardening-4450",
+        "reward": "99.29 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 163,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-9655",
+        "reward": "13.46 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 164,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-8128",
+        "reward": "1.0715 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 165,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-8402",
+        "reward": "16.61 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 166,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-3931",
+        "reward": "0.001269 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 167,
+        "domain": "Memory Pool Congestion Mitigation",
+        "target": "global-node-mesh/memory-pool-congestion-mitigation-2471",
+        "reward": "1.4092 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 168,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-3051",
+        "reward": "97.02 USDC",
+        "decision": "SKIP_SUB_OPTIMAL"
+    },
+    {
+        "batch_id": 169,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-6753",
+        "reward": "123.01 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 170,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-4599",
+        "reward": "139.11 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 171,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-2721",
+        "reward": "0.003299 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 172,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-7067",
+        "reward": "0.9 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 173,
+        "domain": "Memory Pool Congestion Mitigation",
+        "target": "global-node-mesh/memory-pool-congestion-mitigation-1066",
+        "reward": "0.000451 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 174,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-4460",
+        "reward": "85.21 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 175,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-1632",
+        "reward": "143.66 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 176,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-3437",
+        "reward": "1.2217 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 177,
+        "domain": "Consensus Fork Recovery Scripts",
+        "target": "global-node-mesh/consensus-fork-recovery-scripts-5027",
+        "reward": "46.7 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 178,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-8954",
+        "reward": "5.74 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 179,
+        "domain": "Decentralized Storage Node Sharding",
+        "target": "global-node-mesh/decentralized-storage-node-sharding-5179",
+        "reward": "44.55 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 180,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-9075",
+        "reward": "146.51 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 181,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-2973",
+        "reward": "116.95 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 182,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-5525",
+        "reward": "0.9349 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 183,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-1440",
+        "reward": "16.81 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 184,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-7721",
+        "reward": "0.002445 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 185,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-5167",
+        "reward": "95.36 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 186,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-7981",
+        "reward": "133.48 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 187,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-6092",
+        "reward": "13.42 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 188,
+        "domain": "Smart Contract Event Indexing",
+        "target": "global-node-mesh/smart-contract-event-indexing-9671",
+        "reward": "65.66 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 189,
+        "domain": "AI Agent Runtime Containment",
+        "target": "global-node-mesh/ai-agent-runtime-containment-8138",
+        "reward": "1.0958 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 190,
+        "domain": "Memory Pool Congestion Mitigation",
+        "target": "global-node-mesh/memory-pool-congestion-mitigation-7003",
+        "reward": "0.000252 BTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 191,
+        "domain": "Memory Pool Congestion Mitigation",
+        "target": "global-node-mesh/memory-pool-congestion-mitigation-9734",
+        "reward": "60.12 USDC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 192,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-1703",
+        "reward": "16.09 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 193,
+        "domain": "Consensus Fork Recovery Scripts",
+        "target": "global-node-mesh/consensus-fork-recovery-scripts-7890",
+        "reward": "0.001954 ETH",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 194,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-7882",
+        "reward": "130.03 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 195,
+        "domain": "Consensus Fork Recovery Scripts",
+        "target": "global-node-mesh/consensus-fork-recovery-scripts-8154",
+        "reward": "81.85 wBTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 196,
+        "domain": "Zero-Knowledge Circuit Verification",
+        "target": "global-node-mesh/zero-knowledge-circuit-verification-5819",
+        "reward": "30.47 DOT",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 197,
+        "domain": "P2P Gossip Protocol Hardening",
+        "target": "global-node-mesh/p2p-gossip-protocol-hardening-9079",
+        "reward": "12.74 RTC",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 198,
+        "domain": "Decentralized Oracle Integration",
+        "target": "global-node-mesh/decentralized-oracle-integration-1478",
+        "reward": "0.2447 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 199,
+        "domain": "L2 Sequencer State Reconciliation",
+        "target": "global-node-mesh/l2-sequencer-state-reconciliation-1663",
+        "reward": "0.997 AVAX",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    },
+    {
+        "batch_id": 200,
+        "domain": "Cross-Chain Bridge Relayer Fuzzing",
+        "target": "global-node-mesh/cross-chain-bridge-relayer-fuzzing-7604",
+        "reward": "0.7866 SOL",
+        "decision": "DEPLOY_UNRESTRICTED_PATCH"
+    }
+]

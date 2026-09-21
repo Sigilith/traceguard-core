@@ -1,0 +1,3502 @@
+[
+    {
+        "batch_id": 1,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/392281",
+        "projected_yield": "84.59 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 2,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/238254",
+        "projected_yield": "0.6514 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 3,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/303926",
+        "projected_yield": "264.26 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 4,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/960134",
+        "projected_yield": "0.6884 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 5,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/424119",
+        "projected_yield": "144.18 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 6,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/153238",
+        "projected_yield": "3900.75 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 7,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/628760",
+        "projected_yield": "0.8435 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 8,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/574697",
+        "projected_yield": "27.83 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 9,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/840575",
+        "projected_yield": "88.52 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 10,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/385876",
+        "projected_yield": "140.46 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 11,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/606557",
+        "projected_yield": "56.71 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 12,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/125445",
+        "projected_yield": "19.18 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 13,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/415620",
+        "projected_yield": "1.301 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 14,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/185970",
+        "projected_yield": "0.766 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 15,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/596523",
+        "projected_yield": "76.85 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 16,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/982010",
+        "projected_yield": "118.89 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 17,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/325672",
+        "projected_yield": "136.26 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 18,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/183145",
+        "projected_yield": "101.45 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 19,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/382457",
+        "projected_yield": "78.89 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 20,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/257721",
+        "projected_yield": "0.1205 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 21,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/901983",
+        "projected_yield": "0.2349 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 22,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/476236",
+        "projected_yield": "127.75 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 23,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/376143",
+        "projected_yield": "246.18 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 24,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/226431",
+        "projected_yield": "2954.38 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 25,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/493239",
+        "projected_yield": "0.1632 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 26,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/219218",
+        "projected_yield": "135.8 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 27,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/173352",
+        "projected_yield": "246.56 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 28,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/963029",
+        "projected_yield": "238.95 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 29,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/881969",
+        "projected_yield": "0.458 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 30,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/996111",
+        "projected_yield": "0.4286 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 31,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/126647",
+        "projected_yield": "0.9842 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 32,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/818847",
+        "projected_yield": "103.4 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 33,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/944644",
+        "projected_yield": "0.6113 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 34,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/314981",
+        "projected_yield": "0.2147 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 35,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/410616",
+        "projected_yield": "272.69 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 36,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/540048",
+        "projected_yield": "1.2195 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 37,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/477622",
+        "projected_yield": "1.26 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 38,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/704111",
+        "projected_yield": "116.61 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 39,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/760445",
+        "projected_yield": "106.0 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 40,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/570257",
+        "projected_yield": "63.13 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 41,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/951019",
+        "projected_yield": "2742.77 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 42,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/283517",
+        "projected_yield": "1.3279 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 43,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/528271",
+        "projected_yield": "0.8984 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 44,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/216824",
+        "projected_yield": "2428.51 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 45,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/648072",
+        "projected_yield": "129.12 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 46,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/483680",
+        "projected_yield": "1.25 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 47,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/942569",
+        "projected_yield": "46.59 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 48,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/572172",
+        "projected_yield": "3755.43 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 49,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/347923",
+        "projected_yield": "122.37 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 50,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/192942",
+        "projected_yield": "255.9 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 51,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/127971",
+        "projected_yield": "89.5 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 52,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/204131",
+        "projected_yield": "1.4266 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 53,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/352265",
+        "projected_yield": "1.2503 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 54,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/862693",
+        "projected_yield": "138.68 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 55,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/725692",
+        "projected_yield": "1.3137 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 56,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/709914",
+        "projected_yield": "55.77 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 57,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/823086",
+        "projected_yield": "1.0209 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 58,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/769413",
+        "projected_yield": "4942.23 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 59,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/491187",
+        "projected_yield": "107.72 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 60,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/744894",
+        "projected_yield": "204.0 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 61,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/401454",
+        "projected_yield": "99.79 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 62,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/752034",
+        "projected_yield": "149.92 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 63,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/734949",
+        "projected_yield": "0.3576 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 64,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/191205",
+        "projected_yield": "262.49 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 65,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/592081",
+        "projected_yield": "190.96 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 66,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/378994",
+        "projected_yield": "35.9 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 67,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/829211",
+        "projected_yield": "67.6 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 68,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/407453",
+        "projected_yield": "30.75 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 69,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/785891",
+        "projected_yield": "33.17 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 70,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/596850",
+        "projected_yield": "57.09 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 71,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/586464",
+        "projected_yield": "110.91 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 72,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/496744",
+        "projected_yield": "0.2051 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 73,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/616131",
+        "projected_yield": "89.66 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 74,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/219217",
+        "projected_yield": "223.27 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 75,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/100657",
+        "projected_yield": "219.98 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 76,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/945700",
+        "projected_yield": "67.0 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 77,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/483582",
+        "projected_yield": "0.1624 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 78,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/655021",
+        "projected_yield": "210.52 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 79,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/635546",
+        "projected_yield": "2849.49 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 80,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/362872",
+        "projected_yield": "3209.17 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 81,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/250091",
+        "projected_yield": "3665.89 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 82,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/882181",
+        "projected_yield": "0.7872 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 83,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/548561",
+        "projected_yield": "1.3834 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 84,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/440454",
+        "projected_yield": "2127.0 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 85,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/263600",
+        "projected_yield": "19.51 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 86,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/535488",
+        "projected_yield": "0.156 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 87,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/158447",
+        "projected_yield": "27.89 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 88,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/710906",
+        "projected_yield": "0.1452 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 89,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/742053",
+        "projected_yield": "42.09 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 90,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/524155",
+        "projected_yield": "0.3762 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 91,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/460032",
+        "projected_yield": "208.53 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 92,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/905259",
+        "projected_yield": "260.14 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 93,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/217640",
+        "projected_yield": "0.9832 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 94,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/549742",
+        "projected_yield": "619.87 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 95,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/279708",
+        "projected_yield": "184.95 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 96,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/915569",
+        "projected_yield": "36.77 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 97,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/940471",
+        "projected_yield": "98.14 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 98,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/778331",
+        "projected_yield": "247.96 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 99,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/595296",
+        "projected_yield": "41.66 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 100,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/406571",
+        "projected_yield": "138.01 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 101,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/461288",
+        "projected_yield": "75.44 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 102,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/762574",
+        "projected_yield": "0.274 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 103,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/616557",
+        "projected_yield": "0.4375 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 104,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/966712",
+        "projected_yield": "214.7 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 105,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/788182",
+        "projected_yield": "272.09 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 106,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/745967",
+        "projected_yield": "1.4312 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 107,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/290792",
+        "projected_yield": "294.9 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 108,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/728160",
+        "projected_yield": "297.78 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 109,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/437107",
+        "projected_yield": "68.82 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 110,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/747897",
+        "projected_yield": "37.54 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 111,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/922955",
+        "projected_yield": "94.56 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 112,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/846607",
+        "projected_yield": "295.66 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 113,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/413096",
+        "projected_yield": "141.24 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 114,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/612111",
+        "projected_yield": "13.38 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 115,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/402041",
+        "projected_yield": "49.95 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 116,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/390030",
+        "projected_yield": "46.12 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 117,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/843929",
+        "projected_yield": "95.99 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 118,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/398541",
+        "projected_yield": "103.28 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 119,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/933623",
+        "projected_yield": "0.3486 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 120,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/607751",
+        "projected_yield": "0.1093 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 121,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/433188",
+        "projected_yield": "0.2164 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 122,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/193644",
+        "projected_yield": "0.5486 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 123,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/846184",
+        "projected_yield": "127.56 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 124,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/842783",
+        "projected_yield": "271.64 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 125,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/107145",
+        "projected_yield": "1979.31 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 126,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/792930",
+        "projected_yield": "0.7786 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 127,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/404229",
+        "projected_yield": "0.1222 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 128,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/947505",
+        "projected_yield": "273.56 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 129,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/417169",
+        "projected_yield": "101.97 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 130,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/622682",
+        "projected_yield": "101.04 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 131,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/740618",
+        "projected_yield": "3344.97 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 132,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/436509",
+        "projected_yield": "134.31 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 133,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/335077",
+        "projected_yield": "2062.73 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 134,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/893206",
+        "projected_yield": "184.57 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 135,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/566089",
+        "projected_yield": "106.34 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 136,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/112867",
+        "projected_yield": "260.01 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 137,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/592362",
+        "projected_yield": "1414.05 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 138,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/633153",
+        "projected_yield": "78.61 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 139,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/212170",
+        "projected_yield": "93.92 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 140,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/705769",
+        "projected_yield": "32.21 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 141,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/767938",
+        "projected_yield": "0.2111 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 142,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/583494",
+        "projected_yield": "74.28 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 143,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/141632",
+        "projected_yield": "158.43 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 144,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/632845",
+        "projected_yield": "281.87 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 145,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/721770",
+        "projected_yield": "0.6517 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 146,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/511723",
+        "projected_yield": "132.5 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 147,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/393591",
+        "projected_yield": "1.4261 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 148,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/375905",
+        "projected_yield": "118.42 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 149,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/769657",
+        "projected_yield": "236.2 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 150,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/505066",
+        "projected_yield": "0.3412 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 151,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/874232",
+        "projected_yield": "267.99 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 152,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/786507",
+        "projected_yield": "225.84 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 153,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/887974",
+        "projected_yield": "126.64 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 154,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/265967",
+        "projected_yield": "1.0141 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 155,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/730974",
+        "projected_yield": "2090.04 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 156,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/887314",
+        "projected_yield": "176.44 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 157,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/964617",
+        "projected_yield": "51.28 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 158,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/197762",
+        "projected_yield": "248.94 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 159,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/922931",
+        "projected_yield": "1.2218 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 160,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/293337",
+        "projected_yield": "238.81 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 161,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/317039",
+        "projected_yield": "205.73 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 162,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/322389",
+        "projected_yield": "24.5 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 163,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/330235",
+        "projected_yield": "200.52 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 164,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/355535",
+        "projected_yield": "0.8352 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 165,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/471635",
+        "projected_yield": "183.78 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 166,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/580566",
+        "projected_yield": "149.94 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 167,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/591467",
+        "projected_yield": "275.24 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 168,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/616856",
+        "projected_yield": "1.2455 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 169,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/289129",
+        "projected_yield": "2105.15 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 170,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/851364",
+        "projected_yield": "1.419 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 171,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/520408",
+        "projected_yield": "1.1602 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 172,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/326486",
+        "projected_yield": "84.56 OSMO",
+        "execution_status": "OPTIMIZE_CROSS_CHAIN"
+    },
+    {
+        "batch_id": 173,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/112017",
+        "projected_yield": "53.21 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 174,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/142775",
+        "projected_yield": "290.03 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 175,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/810121",
+        "projected_yield": "17.65 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 176,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/197171",
+        "projected_yield": "220.3 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 177,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/455263",
+        "projected_yield": "113.74 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 178,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/144478",
+        "projected_yield": "226.85 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 179,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/998924",
+        "projected_yield": "0.2556 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 180,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/453328",
+        "projected_yield": "2283.55 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 181,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/531027",
+        "projected_yield": "0.7387 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 182,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/591326",
+        "projected_yield": "105.26 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 183,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/244523",
+        "projected_yield": "1.4542 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 184,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/206735",
+        "projected_yield": "212.01 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 185,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/374561",
+        "projected_yield": "192.15 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 186,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/811249",
+        "projected_yield": "105.86 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 187,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/702686",
+        "projected_yield": "2261.2 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 188,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/890867",
+        "projected_yield": "0.6283 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 189,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/367702",
+        "projected_yield": "132.32 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 190,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/896129",
+        "projected_yield": "0.6821 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 191,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/276538",
+        "projected_yield": "83.25 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 192,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/638514",
+        "projected_yield": "19.25 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 193,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/573433",
+        "projected_yield": "96.37 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 194,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/730716",
+        "projected_yield": "142.29 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 195,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/760596",
+        "projected_yield": "26.44 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 196,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/425598",
+        "projected_yield": "0.9 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 197,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/651656",
+        "projected_yield": "3784.14 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 198,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/499297",
+        "projected_yield": "265.58 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 199,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/311645",
+        "projected_yield": "281.88 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 200,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/648841",
+        "projected_yield": "288.45 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 201,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/136949",
+        "projected_yield": "1.3827 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 202,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/310931",
+        "projected_yield": "284.99 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 203,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/862291",
+        "projected_yield": "286.67 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 204,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/779299",
+        "projected_yield": "109.37 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 205,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/979383",
+        "projected_yield": "66.03 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 206,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/836322",
+        "projected_yield": "119.63 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 207,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/703477",
+        "projected_yield": "15.08 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 208,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/706353",
+        "projected_yield": "3142.56 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 209,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/139370",
+        "projected_yield": "35.36 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 210,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/985324",
+        "projected_yield": "81.25 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 211,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/648011",
+        "projected_yield": "1753.64 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 212,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/637060",
+        "projected_yield": "0.9004 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 213,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/235320",
+        "projected_yield": "1.2948 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 214,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/568550",
+        "projected_yield": "53.99 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 215,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/555223",
+        "projected_yield": "0.7078 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 216,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/202865",
+        "projected_yield": "84.26 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 217,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/694821",
+        "projected_yield": "180.26 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 218,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/364843",
+        "projected_yield": "30.2 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 219,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/650491",
+        "projected_yield": "72.2 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 220,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/116282",
+        "projected_yield": "62.34 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 221,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/717668",
+        "projected_yield": "96.76 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 222,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/446242",
+        "projected_yield": "45.57 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 223,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/433848",
+        "projected_yield": "0.637 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 224,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/368810",
+        "projected_yield": "241.23 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 225,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/403780",
+        "projected_yield": "64.24 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 226,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/425981",
+        "projected_yield": "105.55 TON",
+        "execution_status": "OPTIMIZE_CROSS_CHAIN"
+    },
+    {
+        "batch_id": 227,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/736951",
+        "projected_yield": "1.2918 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 228,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/215606",
+        "projected_yield": "147.85 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 229,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/597981",
+        "projected_yield": "33.96 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 230,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/378331",
+        "projected_yield": "146.85 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 231,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/780651",
+        "projected_yield": "121.49 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 232,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/805124",
+        "projected_yield": "104.89 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 233,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/880609",
+        "projected_yield": "0.2349 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 234,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/146861",
+        "projected_yield": "85.36 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 235,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/106584",
+        "projected_yield": "95.67 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 236,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/987064",
+        "projected_yield": "96.44 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 237,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/526974",
+        "projected_yield": "295.49 TON",
+        "execution_status": "OPTIMIZE_CROSS_CHAIN"
+    },
+    {
+        "batch_id": 238,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/656556",
+        "projected_yield": "120.2 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 239,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/550638",
+        "projected_yield": "1.3954 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 240,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/820418",
+        "projected_yield": "0.5795 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 241,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/456858",
+        "projected_yield": "1292.53 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 242,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/701309",
+        "projected_yield": "39.72 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 243,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/178600",
+        "projected_yield": "176.99 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 244,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/941958",
+        "projected_yield": "1677.32 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 245,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/243050",
+        "projected_yield": "28.97 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 246,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/146267",
+        "projected_yield": "0.8156 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 247,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/108940",
+        "projected_yield": "0.5675 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 248,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/690011",
+        "projected_yield": "3251.64 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 249,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/434369",
+        "projected_yield": "206.4 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 250,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/243929",
+        "projected_yield": "1.4321 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 251,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/982642",
+        "projected_yield": "0.81 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 252,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/214125",
+        "projected_yield": "231.93 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 253,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/430940",
+        "projected_yield": "246.38 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 254,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/835912",
+        "projected_yield": "106.67 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 255,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/440426",
+        "projected_yield": "1061.13 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 256,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/801934",
+        "projected_yield": "74.41 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 257,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/557078",
+        "projected_yield": "0.834 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 258,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/636740",
+        "projected_yield": "192.33 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 259,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/929993",
+        "projected_yield": "10.81 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 260,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/839882",
+        "projected_yield": "1.1266 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 261,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/378596",
+        "projected_yield": "0.357 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 262,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/187455",
+        "projected_yield": "931.87 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 263,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/701330",
+        "projected_yield": "76.3 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 264,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/944404",
+        "projected_yield": "3373.48 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 265,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/740875",
+        "projected_yield": "50.96 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 266,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/192058",
+        "projected_yield": "83.62 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 267,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/147679",
+        "projected_yield": "155.47 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 268,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/720270",
+        "projected_yield": "82.45 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 269,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/424137",
+        "projected_yield": "1.0632 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 270,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/570253",
+        "projected_yield": "196.83 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 271,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/616719",
+        "projected_yield": "171.96 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 272,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/244823",
+        "projected_yield": "121.69 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 273,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/475685",
+        "projected_yield": "69.54 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 274,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/918036",
+        "projected_yield": "85.81 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 275,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/823827",
+        "projected_yield": "211.9 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 276,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/937686",
+        "projected_yield": "1.0779 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 277,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/331037",
+        "projected_yield": "77.36 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 278,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/976118",
+        "projected_yield": "1.3945 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 279,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/161401",
+        "projected_yield": "134.76 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 280,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/555812",
+        "projected_yield": "0.9271 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 281,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/288353",
+        "projected_yield": "1.3392 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 282,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/904820",
+        "projected_yield": "0.9341 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 283,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/985009",
+        "projected_yield": "838.86 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 284,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/880038",
+        "projected_yield": "36.8 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 285,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/875076",
+        "projected_yield": "213.72 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 286,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/809394",
+        "projected_yield": "2637.24 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 287,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/727054",
+        "projected_yield": "112.43 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 288,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/320006",
+        "projected_yield": "58.71 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 289,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/537404",
+        "projected_yield": "31.03 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 290,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/448879",
+        "projected_yield": "33.84 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 291,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/312237",
+        "projected_yield": "233.19 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 292,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/678564",
+        "projected_yield": "3903.96 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 293,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/996898",
+        "projected_yield": "139.56 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 294,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/899399",
+        "projected_yield": "149.91 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 295,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/720155",
+        "projected_yield": "73.07 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 296,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/917262",
+        "projected_yield": "13.33 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 297,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/605163",
+        "projected_yield": "90.24 ATOM",
+        "execution_status": "OPTIMIZE_CROSS_CHAIN"
+    },
+    {
+        "batch_id": 298,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/956049",
+        "projected_yield": "11.36 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 299,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/316555",
+        "projected_yield": "74.57 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 300,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/129299",
+        "projected_yield": "4804.36 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 301,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/220777",
+        "projected_yield": "18.91 ATOM",
+        "execution_status": "OPTIMIZE_CROSS_CHAIN"
+    },
+    {
+        "batch_id": 302,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/112246",
+        "projected_yield": "1.1473 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 303,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/450211",
+        "projected_yield": "96.0 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 304,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/791610",
+        "projected_yield": "144.54 ARB",
+        "execution_status": "OPTIMIZE_CROSS_CHAIN"
+    },
+    {
+        "batch_id": 305,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/922374",
+        "projected_yield": "137.21 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 306,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/785880",
+        "projected_yield": "0.955 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 307,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/515954",
+        "projected_yield": "1.0585 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 308,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/346961",
+        "projected_yield": "86.8 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 309,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/596721",
+        "projected_yield": "47.78 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 310,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/882841",
+        "projected_yield": "25.49 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 311,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/928650",
+        "projected_yield": "220.02 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 312,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/594843",
+        "projected_yield": "213.49 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 313,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/276130",
+        "projected_yield": "0.8248 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 314,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/880030",
+        "projected_yield": "122.35 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 315,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/991837",
+        "projected_yield": "1.0435 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 316,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/858929",
+        "projected_yield": "262.11 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 317,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/764460",
+        "projected_yield": "89.33 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 318,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/230823",
+        "projected_yield": "139.23 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 319,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/636158",
+        "projected_yield": "198.31 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 320,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/210104",
+        "projected_yield": "103.63 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 321,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/735181",
+        "projected_yield": "49.61 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 322,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/929096",
+        "projected_yield": "4158.98 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 323,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/884356",
+        "projected_yield": "162.88 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 324,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/314674",
+        "projected_yield": "97.9 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 325,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/661403",
+        "projected_yield": "130.3 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 326,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/167830",
+        "projected_yield": "125.06 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 327,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/806534",
+        "projected_yield": "17.65 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 328,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/961540",
+        "projected_yield": "3391.03 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 329,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/546338",
+        "projected_yield": "1.3744 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 330,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/311519",
+        "projected_yield": "123.67 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 331,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/621694",
+        "projected_yield": "0.9191 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 332,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/805038",
+        "projected_yield": "0.3617 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 333,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/206360",
+        "projected_yield": "164.54 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 334,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/988814",
+        "projected_yield": "85.59 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 335,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/912384",
+        "projected_yield": "140.58 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 336,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/595054",
+        "projected_yield": "91.25 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 337,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/719586",
+        "projected_yield": "59.34 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 338,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/128539",
+        "projected_yield": "33.32 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 339,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/751374",
+        "projected_yield": "104.49 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 340,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/156515",
+        "projected_yield": "201.18 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 341,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/394049",
+        "projected_yield": "119.47 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 342,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/951064",
+        "projected_yield": "193.08 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 343,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/141471",
+        "projected_yield": "76.66 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 344,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/556703",
+        "projected_yield": "1.2431 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 345,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/499819",
+        "projected_yield": "47.43 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 346,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/333693",
+        "projected_yield": "204.68 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 347,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/133915",
+        "projected_yield": "1.2319 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 348,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/857691",
+        "projected_yield": "0.5602 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 349,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/211575",
+        "projected_yield": "16.95 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 350,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/411039",
+        "projected_yield": "245.12 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 351,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/485648",
+        "projected_yield": "141.64 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 352,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/196397",
+        "projected_yield": "4893.04 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 353,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/113574",
+        "projected_yield": "108.51 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 354,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/334242",
+        "projected_yield": "239.72 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 355,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/288616",
+        "projected_yield": "0.6244 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 356,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/767810",
+        "projected_yield": "0.6672 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 357,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/616319",
+        "projected_yield": "0.6018 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 358,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/526557",
+        "projected_yield": "123.08 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 359,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/101299",
+        "projected_yield": "91.94 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 360,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/941548",
+        "projected_yield": "124.13 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 361,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/509556",
+        "projected_yield": "142.24 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 362,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/485064",
+        "projected_yield": "273.82 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 363,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/857187",
+        "projected_yield": "0.5499 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 364,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/361075",
+        "projected_yield": "626.13 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 365,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/732137",
+        "projected_yield": "0.2004 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 366,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/926120",
+        "projected_yield": "88.79 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 367,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/354182",
+        "projected_yield": "248.63 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 368,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/330450",
+        "projected_yield": "0.9964 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 369,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/851653",
+        "projected_yield": "0.2522 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 370,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/801745",
+        "projected_yield": "161.64 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 371,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/975567",
+        "projected_yield": "19.72 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 372,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/231282",
+        "projected_yield": "20.01 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 373,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/414882",
+        "projected_yield": "200.45 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 374,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/157982",
+        "projected_yield": "53.44 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 375,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/181583",
+        "projected_yield": "4083.94 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 376,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/921877",
+        "projected_yield": "0.7288 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 377,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/483355",
+        "projected_yield": "1084.92 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 378,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/656506",
+        "projected_yield": "124.25 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 379,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/618975",
+        "projected_yield": "104.7 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 380,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/911042",
+        "projected_yield": "47.81 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 381,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/857413",
+        "projected_yield": "4426.17 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 382,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/704440",
+        "projected_yield": "108.03 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 383,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/374004",
+        "projected_yield": "77.63 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 384,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/233484",
+        "projected_yield": "134.97 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 385,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/166285",
+        "projected_yield": "111.31 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 386,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/409912",
+        "projected_yield": "4629.0 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 387,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/895199",
+        "projected_yield": "127.28 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 388,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/990465",
+        "projected_yield": "0.7644 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 389,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/888200",
+        "projected_yield": "278.51 TON",
+        "execution_status": "OPTIMIZE_CROSS_CHAIN"
+    },
+    {
+        "batch_id": 390,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/976665",
+        "projected_yield": "68.18 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 391,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/115981",
+        "projected_yield": "1.0841 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 392,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/959158",
+        "projected_yield": "2024.83 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 393,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/944674",
+        "projected_yield": "0.8569 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 394,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/290571",
+        "projected_yield": "14.91 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 395,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/513613",
+        "projected_yield": "3900.65 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 396,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/473345",
+        "projected_yield": "0.27 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 397,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/227164",
+        "projected_yield": "0.6603 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 398,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/252858",
+        "projected_yield": "129.03 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 399,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/286515",
+        "projected_yield": "15.74 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 400,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/238891",
+        "projected_yield": "127.7 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 401,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/634089",
+        "projected_yield": "276.07 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 402,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/348063",
+        "projected_yield": "72.29 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 403,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/832904",
+        "projected_yield": "60.41 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 404,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/998532",
+        "projected_yield": "1492.44 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 405,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/825393",
+        "projected_yield": "117.29 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 406,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/649331",
+        "projected_yield": "133.39 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 407,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/441889",
+        "projected_yield": "50.56 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 408,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/882382",
+        "projected_yield": "68.07 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 409,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/995193",
+        "projected_yield": "3326.6 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 410,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/786727",
+        "projected_yield": "51.07 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 411,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/124229",
+        "projected_yield": "56.22 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 412,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/649162",
+        "projected_yield": "159.31 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 413,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/573037",
+        "projected_yield": "272.36 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 414,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/624917",
+        "projected_yield": "80.72 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 415,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/144104",
+        "projected_yield": "1.4617 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 416,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/503789",
+        "projected_yield": "240.18 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 417,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/383925",
+        "projected_yield": "124.58 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 418,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/896236",
+        "projected_yield": "43.13 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 419,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/907244",
+        "projected_yield": "288.21 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 420,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/952143",
+        "projected_yield": "0.7778 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 421,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/374382",
+        "projected_yield": "123.28 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 422,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/311712",
+        "projected_yield": "0.4221 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 423,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/484565",
+        "projected_yield": "288.97 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 424,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/832636",
+        "projected_yield": "216.74 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 425,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/689230",
+        "projected_yield": "73.6 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 426,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/555244",
+        "projected_yield": "241.98 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 427,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/775374",
+        "projected_yield": "149.14 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 428,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/167182",
+        "projected_yield": "2669.19 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 429,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/525525",
+        "projected_yield": "3688.11 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 430,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/140929",
+        "projected_yield": "109.53 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 431,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/408945",
+        "projected_yield": "104.43 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 432,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/120401",
+        "projected_yield": "82.21 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 433,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/675943",
+        "projected_yield": "69.07 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 434,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/644441",
+        "projected_yield": "51.87 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 435,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/714267",
+        "projected_yield": "122.63 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 436,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/658472",
+        "projected_yield": "148.99 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 437,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/564778",
+        "projected_yield": "3054.08 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 438,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/988529",
+        "projected_yield": "0.6046 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 439,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/255186",
+        "projected_yield": "161.05 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 440,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/269601",
+        "projected_yield": "0.9269 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 441,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/154276",
+        "projected_yield": "0.7993 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 442,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/949930",
+        "projected_yield": "147.13 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 443,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/293755",
+        "projected_yield": "287.44 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 444,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/589884",
+        "projected_yield": "1419.32 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 445,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/914122",
+        "projected_yield": "0.5331 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 446,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/507602",
+        "projected_yield": "237.95 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 447,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/335104",
+        "projected_yield": "257.72 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 448,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/547644",
+        "projected_yield": "4933.59 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 449,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/567593",
+        "projected_yield": "0.7849 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 450,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/902374",
+        "projected_yield": "180.65 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 451,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/451998",
+        "projected_yield": "258.29 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 452,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/892056",
+        "projected_yield": "0.1682 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 453,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/580053",
+        "projected_yield": "225.3 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 454,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/804248",
+        "projected_yield": "38.6 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 455,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/543093",
+        "projected_yield": "819.12 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 456,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/426214",
+        "projected_yield": "216.18 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 457,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/737006",
+        "projected_yield": "1.1516 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 458,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/926767",
+        "projected_yield": "2465.04 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 459,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/542525",
+        "projected_yield": "32.93 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 460,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/235621",
+        "projected_yield": "41.34 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 461,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/262171",
+        "projected_yield": "279.42 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 462,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/769330",
+        "projected_yield": "129.26 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 463,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/673941",
+        "projected_yield": "223.66 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 464,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/423686",
+        "projected_yield": "128.22 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 465,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/932748",
+        "projected_yield": "285.04 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 466,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/162032",
+        "projected_yield": "0.948 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 467,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/265916",
+        "projected_yield": "242.45 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 468,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/944760",
+        "projected_yield": "272.82 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 469,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/441820",
+        "projected_yield": "113.73 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 470,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/120954",
+        "projected_yield": "72.06 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 471,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/688556",
+        "projected_yield": "61.21 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 472,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/595477",
+        "projected_yield": "161.54 APT",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 473,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/307750",
+        "projected_yield": "1.3281 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 474,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/942584",
+        "projected_yield": "4912.06 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 475,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/120553",
+        "projected_yield": "174.25 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 476,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/322559",
+        "projected_yield": "44.8 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 477,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/115387",
+        "projected_yield": "0.5632 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 478,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/616090",
+        "projected_yield": "1.0569 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 479,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/679173",
+        "projected_yield": "0.9813 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 480,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/852270",
+        "projected_yield": "0.3556 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 481,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/468567",
+        "projected_yield": "255.45 TON",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 482,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/760862",
+        "projected_yield": "244.7 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 483,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/683962",
+        "projected_yield": "115.07 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 484,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/842908",
+        "projected_yield": "93.39 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 485,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/320227",
+        "projected_yield": "0.3502 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 486,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/784291",
+        "projected_yield": "1.3922 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 487,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/927674",
+        "projected_yield": "114.68 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 488,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/264290",
+        "projected_yield": "3400.46 USDC",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 489,
+        "ecosystem": "Cosmos-IBC-Appchain",
+        "node_target": "cosmos-ibc-appchain/898818",
+        "projected_yield": "134.58 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 490,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/749144",
+        "projected_yield": "130.3 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 491,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/100318",
+        "projected_yield": "0.8479 SOL",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 492,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/776696",
+        "projected_yield": "116.18 ARB",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 493,
+        "ecosystem": "Base-Arbitrum-L2-Rollup",
+        "node_target": "base-arbitrum-l2-rollup/533035",
+        "projected_yield": "137.45 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 494,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/703386",
+        "projected_yield": "95.93 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 495,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/631935",
+        "projected_yield": "0.1391 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 496,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/484223",
+        "projected_yield": "31.08 ATOM",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 497,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/864966",
+        "projected_yield": "0.1524 ETH",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 498,
+        "ecosystem": "Solana-Jito-DePIN-Node",
+        "node_target": "solana-jito-depin-node/271613",
+        "projected_yield": "97.2 OSMO",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 499,
+        "ecosystem": "TON-Telegram-MiniApp-Bridge",
+        "node_target": "ton-telegram-miniapp-bridge/716329",
+        "projected_yield": "264.88 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    },
+    {
+        "batch_id": 500,
+        "ecosystem": "Move-Sui-Aptos-Mesh",
+        "node_target": "move-sui-aptos-mesh/964424",
+        "projected_yield": "97.46 SUI",
+        "execution_status": "MULTI_ECO_DEPLOY"
+    }
+]

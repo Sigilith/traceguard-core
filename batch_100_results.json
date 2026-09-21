@@ -1,0 +1,802 @@
+[
+    {
+        "batch_id": 1,
+        "region": "Global-Core",
+        "category": "CI/CD Governance",
+        "target": "open-source-mesh/ci/cd-governance-915",
+        "estimated_btc": 0.0027,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 2,
+        "region": "APAC-Distributed",
+        "category": "Memory Safety & Fuzzing",
+        "target": "open-source-mesh/memory-safety-&-fuzzing-653",
+        "estimated_btc": 0.004,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 3,
+        "region": "Americas-Edge",
+        "category": "AI Model Runtime Safety",
+        "target": "open-source-mesh/ai-model-runtime-safety-972",
+        "estimated_btc": 0.0027,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 4,
+        "region": "Americas-Edge",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-661",
+        "estimated_btc": 0.0043,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 5,
+        "region": "Americas-Edge",
+        "category": "CI/CD Governance",
+        "target": "open-source-mesh/ci/cd-governance-822",
+        "estimated_btc": 0.003,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 6,
+        "region": "EMEA-Node-Mesh",
+        "category": "Distributed Consensus",
+        "target": "open-source-mesh/distributed-consensus-804",
+        "estimated_btc": 0.0015,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 7,
+        "region": "EMEA-Node-Mesh",
+        "category": "Memory Safety & Fuzzing",
+        "target": "open-source-mesh/memory-safety-&-fuzzing-193",
+        "estimated_btc": 0.0023,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 8,
+        "region": "Americas-Edge",
+        "category": "CI/CD Governance",
+        "target": "open-source-mesh/ci/cd-governance-395",
+        "estimated_btc": 0.003,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 9,
+        "region": "APAC-Distributed",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-368",
+        "estimated_btc": 0.0015,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 10,
+        "region": "Americas-Edge",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-867",
+        "estimated_btc": 0.0033,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 11,
+        "region": "APAC-Distributed",
+        "category": "Distributed Consensus",
+        "target": "open-source-mesh/distributed-consensus-183",
+        "estimated_btc": 0.0013,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 12,
+        "region": "Global-Core",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-608",
+        "estimated_btc": 0.0021,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 13,
+        "region": "Americas-Edge",
+        "category": "Memory Safety & Fuzzing",
+        "target": "open-source-mesh/memory-safety-&-fuzzing-237",
+        "estimated_btc": 0.0033,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 14,
+        "region": "Americas-Edge",
+        "category": "AI Model Runtime Safety",
+        "target": "open-source-mesh/ai-model-runtime-safety-892",
+        "estimated_btc": 0.0017,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 15,
+        "region": "Americas-Edge",
+        "category": "Memory Safety & Fuzzing",
+        "target": "open-source-mesh/memory-safety-&-fuzzing-404",
+        "estimated_btc": 0.0044,
+        "decision": "SKIP_LOW_ROI"
+    },
+    {
+        "batch_id": 16,
+        "region": "Global-Core",
+        "category": "Memory Safety & Fuzzing",
+        "target": "open-source-mesh/memory-safety-&-fuzzing-544",
+        "estimated_btc": 0.001,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 17,
+        "region": "Americas-Edge",
+        "category": "CI/CD Governance",
+        "target": "open-source-mesh/ci/cd-governance-519",
+        "estimated_btc": 0.0025,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 18,
+        "region": "Global-Core",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-328",
+        "estimated_btc": 0.003,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 19,
+        "region": "Global-Core",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-607",
+        "estimated_btc": 0.002,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 20,
+        "region": "Americas-Edge",
+        "category": "Distributed Consensus",
+        "target": "open-source-mesh/distributed-consensus-958",
+        "estimated_btc": 0.0017,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 21,
+        "region": "APAC-Distributed",
+        "category": "AI Model Runtime Safety",
+        "target": "open-source-mesh/ai-model-runtime-safety-396",
+        "estimated_btc": 0.0024,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 22,
+        "region": "APAC-Distributed",
+        "category": "Distributed Consensus",
+        "target": "open-source-mesh/distributed-consensus-135",
+        "estimated_btc": 0.001,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 23,
+        "region": "EMEA-Node-Mesh",
+        "category": "Distributed Consensus",
+        "target": "open-source-mesh/distributed-consensus-187",
+        "estimated_btc": 0.0011,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 24,
+        "region": "EMEA-Node-Mesh",
+        "category": "AI Model Runtime Safety",
+        "target": "open-source-mesh/ai-model-runtime-safety-116",
+        "estimated_btc": 0.0033,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 25,
+        "region": "APAC-Distributed",
+        "category": "Distributed Consensus",
+        "target": "open-source-mesh/distributed-consensus-762",
+        "estimated_btc": 0.0034,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 26,
+        "region": "Global-Core",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-685",
+        "estimated_btc": 0.0019,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 27,
+        "region": "APAC-Distributed",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-480",
+        "estimated_btc": 0.0032,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 28,
+        "region": "EMEA-Node-Mesh",
+        "category": "CI/CD Governance",
+        "target": "open-source-mesh/ci/cd-governance-415",
+        "estimated_btc": 0.0012,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 29,
+        "region": "APAC-Distributed",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-510",
+        "estimated_btc": 0.0018,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 30,
+        "region": "Americas-Edge",
+        "category": "CI/CD Governance",
+        "target": "open-source-mesh/ci/cd-governance-858",
+        "estimated_btc": 0.0043,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 31,
+        "region": "Americas-Edge",
+        "category": "Memory Safety & Fuzzing",
+        "target": "open-source-mesh/memory-safety-&-fuzzing-137",
+        "estimated_btc": 0.0043,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 32,
+        "region": "Americas-Edge",
+        "category": "Memory Safety & Fuzzing",
+        "target": "open-source-mesh/memory-safety-&-fuzzing-523",
+        "estimated_btc": 0.0027,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 33,
+        "region": "APAC-Distributed",
+        "category": "CI/CD Governance",
+        "target": "open-source-mesh/ci/cd-governance-645",
+        "estimated_btc": 0.0035,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 34,
+        "region": "Americas-Edge",
+        "category": "Distributed Consensus",
+        "target": "open-source-mesh/distributed-consensus-908",
+        "estimated_btc": 0.0024,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 35,
+        "region": "APAC-Distributed",
+        "category": "Distributed Consensus",
+        "target": "open-source-mesh/distributed-consensus-114",
+        "estimated_btc": 0.0026,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 36,
+        "region": "EMEA-Node-Mesh",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-615",
+        "estimated_btc": 0.0035,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 37,
+        "region": "Global-Core",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-710",
+        "estimated_btc": 0.0034,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 38,
+        "region": "APAC-Distributed",
+        "category": "AI Model Runtime Safety",
+        "target": "open-source-mesh/ai-model-runtime-safety-344",
+        "estimated_btc": 0.003,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 39,
+        "region": "EMEA-Node-Mesh",
+        "category": "CI/CD Governance",
+        "target": "open-source-mesh/ci/cd-governance-495",
+        "estimated_btc": 0.0005,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 40,
+        "region": "APAC-Distributed",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-195",
+        "estimated_btc": 0.0022,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 41,
+        "region": "APAC-Distributed",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-356",
+        "estimated_btc": 0.0032,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 42,
+        "region": "Global-Core",
+        "category": "Memory Safety & Fuzzing",
+        "target": "open-source-mesh/memory-safety-&-fuzzing-955",
+        "estimated_btc": 0.0026,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 43,
+        "region": "APAC-Distributed",
+        "category": "CI/CD Governance",
+        "target": "open-source-mesh/ci/cd-governance-162",
+        "estimated_btc": 0.0037,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 44,
+        "region": "APAC-Distributed",
+        "category": "CI/CD Governance",
+        "target": "open-source-mesh/ci/cd-governance-176",
+        "estimated_btc": 0.0023,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 45,
+        "region": "Americas-Edge",
+        "category": "CI/CD Governance",
+        "target": "open-source-mesh/ci/cd-governance-181",
+        "estimated_btc": 0.0032,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 46,
+        "region": "EMEA-Node-Mesh",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-982",
+        "estimated_btc": 0.0043,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 47,
+        "region": "Americas-Edge",
+        "category": "Distributed Consensus",
+        "target": "open-source-mesh/distributed-consensus-346",
+        "estimated_btc": 0.0024,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 48,
+        "region": "APAC-Distributed",
+        "category": "Distributed Consensus",
+        "target": "open-source-mesh/distributed-consensus-654",
+        "estimated_btc": 0.0011,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 49,
+        "region": "APAC-Distributed",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-718",
+        "estimated_btc": 0.0016,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 50,
+        "region": "Global-Core",
+        "category": "CI/CD Governance",
+        "target": "open-source-mesh/ci/cd-governance-655",
+        "estimated_btc": 0.0031,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 51,
+        "region": "EMEA-Node-Mesh",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-138",
+        "estimated_btc": 0.0027,
+        "decision": "SKIP_LOW_ROI"
+    },
+    {
+        "batch_id": 52,
+        "region": "Global-Core",
+        "category": "CI/CD Governance",
+        "target": "open-source-mesh/ci/cd-governance-888",
+        "estimated_btc": 0.0031,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 53,
+        "region": "Americas-Edge",
+        "category": "Distributed Consensus",
+        "target": "open-source-mesh/distributed-consensus-479",
+        "estimated_btc": 0.0015,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 54,
+        "region": "EMEA-Node-Mesh",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-517",
+        "estimated_btc": 0.0024,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 55,
+        "region": "Americas-Edge",
+        "category": "CI/CD Governance",
+        "target": "open-source-mesh/ci/cd-governance-915",
+        "estimated_btc": 0.0008,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 56,
+        "region": "Global-Core",
+        "category": "Distributed Consensus",
+        "target": "open-source-mesh/distributed-consensus-750",
+        "estimated_btc": 0.0045,
+        "decision": "SKIP_LOW_ROI"
+    },
+    {
+        "batch_id": 57,
+        "region": "Global-Core",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-719",
+        "estimated_btc": 0.0036,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 58,
+        "region": "EMEA-Node-Mesh",
+        "category": "AI Model Runtime Safety",
+        "target": "open-source-mesh/ai-model-runtime-safety-824",
+        "estimated_btc": 0.0009,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 59,
+        "region": "Americas-Edge",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-199",
+        "estimated_btc": 0.0031,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 60,
+        "region": "EMEA-Node-Mesh",
+        "category": "Memory Safety & Fuzzing",
+        "target": "open-source-mesh/memory-safety-&-fuzzing-512",
+        "estimated_btc": 0.0007,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 61,
+        "region": "Americas-Edge",
+        "category": "Memory Safety & Fuzzing",
+        "target": "open-source-mesh/memory-safety-&-fuzzing-826",
+        "estimated_btc": 0.0039,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 62,
+        "region": "Global-Core",
+        "category": "AI Model Runtime Safety",
+        "target": "open-source-mesh/ai-model-runtime-safety-407",
+        "estimated_btc": 0.0036,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 63,
+        "region": "Americas-Edge",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-535",
+        "estimated_btc": 0.0015,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 64,
+        "region": "Americas-Edge",
+        "category": "Distributed Consensus",
+        "target": "open-source-mesh/distributed-consensus-506",
+        "estimated_btc": 0.0041,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 65,
+        "region": "Americas-Edge",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-630",
+        "estimated_btc": 0.0042,
+        "decision": "SKIP_LOW_ROI"
+    },
+    {
+        "batch_id": 66,
+        "region": "Americas-Edge",
+        "category": "Memory Safety & Fuzzing",
+        "target": "open-source-mesh/memory-safety-&-fuzzing-823",
+        "estimated_btc": 0.0023,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 67,
+        "region": "APAC-Distributed",
+        "category": "Memory Safety & Fuzzing",
+        "target": "open-source-mesh/memory-safety-&-fuzzing-696",
+        "estimated_btc": 0.001,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 68,
+        "region": "Global-Core",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-859",
+        "estimated_btc": 0.004,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 69,
+        "region": "Global-Core",
+        "category": "Distributed Consensus",
+        "target": "open-source-mesh/distributed-consensus-420",
+        "estimated_btc": 0.0021,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 70,
+        "region": "EMEA-Node-Mesh",
+        "category": "CI/CD Governance",
+        "target": "open-source-mesh/ci/cd-governance-345",
+        "estimated_btc": 0.0042,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 71,
+        "region": "EMEA-Node-Mesh",
+        "category": "AI Model Runtime Safety",
+        "target": "open-source-mesh/ai-model-runtime-safety-153",
+        "estimated_btc": 0.0019,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 72,
+        "region": "Global-Core",
+        "category": "CI/CD Governance",
+        "target": "open-source-mesh/ci/cd-governance-313",
+        "estimated_btc": 0.0009,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 73,
+        "region": "APAC-Distributed",
+        "category": "AI Model Runtime Safety",
+        "target": "open-source-mesh/ai-model-runtime-safety-149",
+        "estimated_btc": 0.0027,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 74,
+        "region": "Americas-Edge",
+        "category": "AI Model Runtime Safety",
+        "target": "open-source-mesh/ai-model-runtime-safety-948",
+        "estimated_btc": 0.0007,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 75,
+        "region": "Global-Core",
+        "category": "Distributed Consensus",
+        "target": "open-source-mesh/distributed-consensus-252",
+        "estimated_btc": 0.0011,
+        "decision": "SKIP_LOW_ROI"
+    },
+    {
+        "batch_id": 76,
+        "region": "Global-Core",
+        "category": "AI Model Runtime Safety",
+        "target": "open-source-mesh/ai-model-runtime-safety-869",
+        "estimated_btc": 0.0006,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 77,
+        "region": "EMEA-Node-Mesh",
+        "category": "AI Model Runtime Safety",
+        "target": "open-source-mesh/ai-model-runtime-safety-850",
+        "estimated_btc": 0.0038,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 78,
+        "region": "Americas-Edge",
+        "category": "AI Model Runtime Safety",
+        "target": "open-source-mesh/ai-model-runtime-safety-760",
+        "estimated_btc": 0.0038,
+        "decision": "SKIP_LOW_ROI"
+    },
+    {
+        "batch_id": 79,
+        "region": "APAC-Distributed",
+        "category": "Memory Safety & Fuzzing",
+        "target": "open-source-mesh/memory-safety-&-fuzzing-176",
+        "estimated_btc": 0.0023,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 80,
+        "region": "EMEA-Node-Mesh",
+        "category": "CI/CD Governance",
+        "target": "open-source-mesh/ci/cd-governance-169",
+        "estimated_btc": 0.0021,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 81,
+        "region": "EMEA-Node-Mesh",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-432",
+        "estimated_btc": 0.0015,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 82,
+        "region": "Americas-Edge",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-974",
+        "estimated_btc": 0.0021,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 83,
+        "region": "APAC-Distributed",
+        "category": "CI/CD Governance",
+        "target": "open-source-mesh/ci/cd-governance-351",
+        "estimated_btc": 0.0033,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 84,
+        "region": "APAC-Distributed",
+        "category": "Memory Safety & Fuzzing",
+        "target": "open-source-mesh/memory-safety-&-fuzzing-728",
+        "estimated_btc": 0.0019,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 85,
+        "region": "Americas-Edge",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-846",
+        "estimated_btc": 0.004,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 86,
+        "region": "APAC-Distributed",
+        "category": "Memory Safety & Fuzzing",
+        "target": "open-source-mesh/memory-safety-&-fuzzing-141",
+        "estimated_btc": 0.0005,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 87,
+        "region": "Americas-Edge",
+        "category": "Memory Safety & Fuzzing",
+        "target": "open-source-mesh/memory-safety-&-fuzzing-948",
+        "estimated_btc": 0.0015,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 88,
+        "region": "Global-Core",
+        "category": "Distributed Consensus",
+        "target": "open-source-mesh/distributed-consensus-824",
+        "estimated_btc": 0.004,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 89,
+        "region": "Global-Core",
+        "category": "Memory Safety & Fuzzing",
+        "target": "open-source-mesh/memory-safety-&-fuzzing-145",
+        "estimated_btc": 0.0028,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 90,
+        "region": "Americas-Edge",
+        "category": "AI Model Runtime Safety",
+        "target": "open-source-mesh/ai-model-runtime-safety-937",
+        "estimated_btc": 0.0009,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 91,
+        "region": "EMEA-Node-Mesh",
+        "category": "Distributed Consensus",
+        "target": "open-source-mesh/distributed-consensus-979",
+        "estimated_btc": 0.0007,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 92,
+        "region": "EMEA-Node-Mesh",
+        "category": "AI Model Runtime Safety",
+        "target": "open-source-mesh/ai-model-runtime-safety-408",
+        "estimated_btc": 0.0018,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 93,
+        "region": "Americas-Edge",
+        "category": "Distributed Consensus",
+        "target": "open-source-mesh/distributed-consensus-787",
+        "estimated_btc": 0.0035,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 94,
+        "region": "EMEA-Node-Mesh",
+        "category": "CI/CD Governance",
+        "target": "open-source-mesh/ci/cd-governance-847",
+        "estimated_btc": 0.0014,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 95,
+        "region": "APAC-Distributed",
+        "category": "AI Model Runtime Safety",
+        "target": "open-source-mesh/ai-model-runtime-safety-202",
+        "estimated_btc": 0.0011,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 96,
+        "region": "Americas-Edge",
+        "category": "Distributed Consensus",
+        "target": "open-source-mesh/distributed-consensus-967",
+        "estimated_btc": 0.0035,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 97,
+        "region": "Global-Core",
+        "category": "AI Model Runtime Safety",
+        "target": "open-source-mesh/ai-model-runtime-safety-114",
+        "estimated_btc": 0.0012,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 98,
+        "region": "APAC-Distributed",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-654",
+        "estimated_btc": 0.0023,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 99,
+        "region": "EMEA-Node-Mesh",
+        "category": "Smart Contract Gas Optimization",
+        "target": "open-source-mesh/smart-contract-gas-optimization-539",
+        "estimated_btc": 0.0015,
+        "decision": "DEPLOY_PATCH"
+    },
+    {
+        "batch_id": 100,
+        "region": "Americas-Edge",
+        "category": "AI Model Runtime Safety",
+        "target": "open-source-mesh/ai-model-runtime-safety-588",
+        "estimated_btc": 0.0016,
+        "decision": "DEPLOY_PATCH"
+    }
+]

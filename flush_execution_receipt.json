@@ -1,0 +1,8 @@
+{
+    "wallet": "0x58d30dc1759f78b3ffd98460c025000de7d218bc",
+    "action": "FORCE_FLUSH_ALL_PENDING_QUEUES",
+    "status": "SETTLEMENT_TRANSACTION_BROADCASTED",
+    "gas_strategy": "MAX_PRIORITY_FEE",
+    "target_pipelines_cleared": 3522,
+    "routing_node": "omnichain-master-relayer"
+}

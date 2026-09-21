@@ -113,3 +113,18 @@
 | #378 | Scottcjn/rustchain-bounties | PR Submitted | High-Scale Sweep | 2026-09-21 |
 | #165 | Scottcjn/rustchain-bounties | PR Submitted | High-Scale Sweep | 2026-09-21 |
 | #9017 | Scottcjn/rustchain-bounties | PR Submitted | High-Scale Sweep | 2026-09-21 |
+| #377 | knowall-ai/zaplie-bot | PR Submitted | High-Scale Sweep | 2026-09-21 |
+| #7287 | vllm-project/vllm-omni | PR Submitted | High-Scale Sweep | 2026-09-21 |
+| #1344 | inso1337/revl | PR Submitted | High-Scale Sweep | 2026-09-21 |
+| #1986 | Ikalus1988/MisakaNet | PR Submitted | High-Scale Sweep | 2026-09-21 |
+| #282 | Scottcjn/rustchain-bounties | PR Submitted | High-Scale Sweep | 2026-09-21 |
+| #2180 | Scottcjn/rustchain-bounties | PR Submitted | High-Scale Sweep | 2026-09-21 |
+| #1215 | nebgov/nebgov | PR Submitted | High-Scale Sweep | 2026-09-21 |
+| #1213 | nebgov/nebgov | PR Submitted | High-Scale Sweep | 2026-09-21 |
+| #1096 | Scottcjn/rustchain-bounties | PR Submitted | High-Scale Sweep | 2026-09-21 |
+| #1097 | Scottcjn/rustchain-bounties | PR Submitted | High-Scale Sweep | 2026-09-21 |
+
+## Active Bounty Claims (Recent Accelerator Run)
+- **Scottcjn/rustchain-bounties #2180**: 5 RTC (YouTube/BoTTube Video Creation) - *Pending Payout*
+- **Scottcjn/rustchain-bounties #1096**: 1 RTC (Upvote 10 BoTTube Videos) - *Pending Payout*
+- **Scottcjn/rustchain-bounties #1097**: 1 RTC (Follow 5 BoTTube Creators) - *Pending Payout*

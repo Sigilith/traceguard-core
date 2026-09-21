@@ -1,0 +1,7 @@
+{
+    "timestamp": "2026-09-21 11:16:22.101082",
+    "batch_target": 2500,
+    "strategy": "EXPANDED_OMNICHAIN_LIQUIDITY_SWEEP",
+    "status": "QUEUED_AND_ROUTED",
+    "destination_wallet": "0x58d30dc1759f78b3ffd98460c025000de7d218bc"
+}

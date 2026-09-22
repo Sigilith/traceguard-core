@@ -1,21 +1,19 @@
-__pycache__/
-*.pyc
-*.pdf
-fresh_env/
-venv/
-.pytest_cache/
-build/
-dist/
-*.egg-info/
+# Ignore all media and telemetry
+*.mp4
+*.mp3
+*.log
+*.txt
+*.jsonl
 
-# Ignore Rust build artifacts
-target/
+# Ignore local test and simulation scripts
+*.py
+*.sol
 
-# Ignore temporary Sentinel & diagnostic scripts
-*.sh
-vault_*
-system_integration_test.py
+# Ignore massive data directories
+nasa_battery_data/
+staging_functional/
+staging_passive/
 
-# Ephemeral runtime files and queues
-sys_production.log
-staging/
+# Ignore local state files
+.env
+termux_history.txt

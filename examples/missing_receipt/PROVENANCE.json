@@ -1,0 +1,15 @@
+{
+  "project": "ThreeLineage: The Missing Receipt",
+  "core_source": "Previously supplied ThreeLineage updated audit snapshot; vendored in the conversation agent workspace",
+  "upstream_commit": null,
+  "upstream_repository": "Core snapshot supplied separately by owner; not sourced from this repository",
+  "attribution": "Ky Nash / ThreeLineage, as supplied by project owner",
+  "demo_authorship": "Assembled with AI assistance at owner request",
+  "core_modified": false,
+  "files": {
+    "ledger_writer.py": "592743eb51c8bf1ab86404b11a597963ab95bf36cc0412321c46c8f682dad349",
+    "arbitration_engine.py": "f1395faeabb24fe6b5e29421991afddbea82b88f77e96c6da599dc48b1e24b5a"
+  },
+  "integration_repository": "https://github.com/Sigilith/traceguard-core",
+  "integration_base_commit": "e13b74a4f71e2f4c5d76678df95dcb53fda87740"
+}

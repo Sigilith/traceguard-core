@@ -1,0 +1,12 @@
+THE ACTION HAPPENED. THE RECEIPT DID NOT.
+
+normal          completed            deliveries=1
+veto            blocked_or_failed    deliveries=0
+storage-fault   blocked_or_failed    deliveries=0
+crash           process_terminated   deliveries=1
+restart         blocked_or_failed    deliveries=1
+unsafe-retry    duplicate            deliveries=2
+
+Checks: PASS
+The unresolved action is preserved. No automatic reconciliation or retry.
+Unsafe retry is a deliberately naive comparison, not a benchmark of other products.

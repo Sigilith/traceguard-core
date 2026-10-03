@@ -1,0 +1,46 @@
+name: Missing Receipt evidence
+
+on:
+  pull_request:
+    paths:
+      - 'examples/missing_receipt/**'
+      - '.github/workflows/missing-receipt.yml'
+  push:
+    branches: [main, demo/missing-receipt-crash-restart]
+    paths:
+      - 'examples/missing_receipt/**'
+      - '.github/workflows/missing-receipt.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  reproduce:
+    name: Python ${{ matrix.python }} crash and restart
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    strategy:
+      fail-fast: false
+      matrix:
+        python: ['3.10', '3.12']
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          sparse-checkout: examples/missing_receipt
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Test execution boundary
+        run: python -m unittest discover -s examples/missing_receipt/tests -v
+      - name: Capture fresh crash evidence
+        run: python examples/missing_receipt/demo.py run --output "$RUNNER_TEMP/missing-receipt-run"
+      - name: Preserve reproduction evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: missing-receipt-python-${{ matrix.python }}
+          path: ${{ runner.temp }}/missing-receipt-run/
+          if-no-files-found: warn
+          retention-days: 14

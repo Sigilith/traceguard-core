@@ -28,7 +28,9 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false
-          sparse-checkout: examples/missing_receipt
+          # Exclude unrelated root files and the incomplete legacy submodule.
+          sparse-checkout: /examples/missing_receipt/
+          sparse-checkout-cone-mode: false
       - uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python }}

@@ -25,12 +25,17 @@ jobs:
       matrix:
         python: ['3.10', '3.12']
     steps:
-      - uses: actions/checkout@v4
-        with:
-          persist-credentials: false
-          # Exclude unrelated root files and the incomplete legacy submodule.
-          sparse-checkout: /examples/missing_receipt/
-          sparse-checkout-cone-mode: false
+      - name: Check out public demo at the tested revision
+        # The legacy tree has a gitlink without .gitmodules. Avoid submodule
+        # traversal and credential setup; this public checkout needs no token.
+        shell: bash
+        run: |
+          git init .
+          git remote add origin "$GITHUB_SERVER_URL/$GITHUB_REPOSITORY.git"
+          git -c protocol.version=2 fetch --no-tags --no-recurse-submodules --filter=blob:none --depth=1 origin "$GITHUB_SHA"
+          git sparse-checkout set --no-cone '/examples/missing_receipt/'
+          git checkout --detach FETCH_HEAD
+          test "$(git rev-parse HEAD)" = "$GITHUB_SHA"
       - uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python }}

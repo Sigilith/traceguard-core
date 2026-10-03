@@ -2,58 +2,63 @@
 
 **The action happened. The receipt didn't. What happens next?**
 
-A small executable incident demonstration of a separately supplied ThreeLineage-Core snapshot. It is isolated from this repository's current MCP gateway and runtime. Watch a worker durably append a delivery, terminate before recording completion, and restart. Inspect whether a second delivery is allowed.
+A runnable incident demonstration of a separately supplied ThreeLineage-Core snapshot. A worker writes a delivery, dies before recording completion, and a fresh process attempts execution. This example is isolated from this repository's current MCP gateway and runtime.
 
-## Run in under a minute
+## Inspect the evidence
 
-Python 3.10+ on Linux or Termux. Standard library only; no API keys, accounts, payment services or network calls. Run in a local directory with working file locking and fsync.
+Read the captured [incident timeline](sample-run/timeline.txt), [machine-readable checks](sample-run/evidence.json), and [crash ledger](sample-run/crash/ledger.jsonl). Then reproduce the behavior yourself.
+
+| Scenario | Observable result |
+|---|---|
+| Normal execution | One delivery and a completion record |
+| BLACK_ABORT veto | No delivery |
+| Reservation fsync failure | No delivery; ledger bytes may already exist |
+| Worker dies after delivery | One delivery; unresolved EXECUTION_STARTED |
+| Fresh process attempts execution | Denied; delivery count stays at one |
+| Deliberately naive retry | Two deliveries |
+
+## Reproduce it
+
+Python 3.10+ on Linux or Termux. Standard library only; no credentials, dependencies or network calls. Use a filesystem with working locks and fsync. From the repository root:
 
 ```sh
+cd examples/missing_receipt
 python3 demo.py run --output ./my-first-run
 python3 -m unittest discover -s tests -v
 cat my-first-run/timeline.txt
 ```
 
-Choose a new output directory each time. Existing directories are rejected to preserve evidence. `sample-run/` contains a captured run, not a substitute for rerunning locally.
+Use a new output directory each run; existing directories are rejected to preserve evidence. Inspect its `evidence.json`, `crash/ledger.jsonl` and `crash/deliveries.txt`. The included sample is a captured run, not a substitute for rerunning locally.
 
-## What to inspect
+## The precise claim
 
-| Scenario | Expected observable result |
-|---|---|
-| Normal execution | One delivery and a completion record |
-| BLACK_ABORT vote | No delivery |
-| Reservation fsync failure | No delivery, although ledger bytes may already exist |
-| Worker exits after delivery | One delivery; unresolved EXECUTION_STARTED |
-| Fresh process attempts execution | Denied; delivery count remains one |
-| Deliberately naive retry | Two deliveries |
+An unresolved `EXECUTION_STARTED` prevents subsequent reservations through `SovereignExecutionGate` using the same intact ledger. In the demonstrated crash window, restart does not automatically repeat the side effect.
 
-Open `evidence.json` for acceptance checks, errors, runtime, core hashes and the crash ledger scan. Open `crash/ledger.jsonl` and `crash/deliveries.txt` to compare the record of intent against the actual local effect. The harness checks outcomes; it does not merely print a scripted success story.
+This is a tested behavior, not a formal proof, an exactly-once guarantee, or a claim of market uniqueness.
 
-## Precise claim
+## Challenge the claim
 
-In this supplied core snapshot, an unresolved `EXECUTION_STARTED` record prevents subsequent execution reservations through `SovereignExecutionGate` using the same ledger. In the demonstrated crash window, restarting does not automatically repeat the side effect.
+Try to produce a second callback execution through this gate while the same intact ledger still contains an unresolved `EXECUTION_STARTED`. Report the source revision, Python and OS versions, reproduction steps, ledger and observed side effect. Use synthetic local data only.
 
-This is a reproducible test of one behavior, not a formal proof or an exactly-once execution guarantee.
+Calling the callback directly, replacing the ledger, or choosing another ledger changes an explicit assumption. Other failure modes are still useful findings; identify which assumption they change. A passing suite does not prove that no counterexample exists.
 
-## Assumptions and limits
+## Assumptions and limitations
 
-- All relevant work must use this gate and the same intact ledger. Direct callback invocation, another ledger, or an actor rewriting the ledger bypasses this boundary.
-- The callback's local effect is flushed with fsync before abrupt process exit using `os._exit(77)`. This tests process death, not a power failure or every filesystem/storage implementation.
-- The gate cannot atomically commit an arbitrary external effect and its ledger receipt. Reconciliation remains necessary. This demo deliberately leaves the crashed invocation unresolved.
-- This ledger is hash-linked, not independently authenticated. A writer controlling the whole file can rewrite and rehash history. This package includes no external trust anchor or TraceGuard service.
-- `EXECUTION_FAILED_AFTER_START` and `COMPLETION_RECORDING_FAILED` are terminal states in this core. If such a record is successfully written, later reservations can proceed. One test preserves this limitation visibly.
-- A reservation persistence failure can leave bytes in a file; it must not be interpreted as a clean rollback or permission to retry blindly.
-- The unresolved intent blocks all reservations on that ledger, with an availability cost. Production designs need a defined recovery process and suitable isolation.
-- The unsafe comparison is deliberately naive automatic retry. It is not a comparison against a named competitor or evidence of market uniqueness.
+- Relevant work must use this gate and the same ledger. It does not contain arbitrary code or prevent direct callback invocation.
+- The callback flushes its local effect with fsync before `os._exit(77)`. This tests abrupt process death, not power failure or every storage implementation.
+- An external side effect and its ledger receipt are not atomically committed. Reconciliation remains necessary; the demo leaves the crashed invocation unresolved.
+- The ledger is hash-linked, not independently authenticated. An actor able to rewrite and rehash the entire file can change history. No external anchor or TraceGuard daemon is included.
+- `EXECUTION_FAILED_AFTER_START` and `COMPLETION_RECORDING_FAILED` are terminal states in this snapshot. If successfully recorded, later reservations can proceed. A dedicated test exposes this limitation.
+- A reservation persistence failure can leave bytes behind. It is not evidence of rollback or permission to retry blindly.
+- An unresolved intent blocks all reservations on that ledger, imposing an availability cost. Recovery and isolation need system-specific design.
+- The unsafe comparison deliberately retries a non-idempotent operation; it is not a competitor benchmark.
 
-## Why this demonstration is useful
+## Integrate and evaluate
 
-An integrator gets an observable business failure: a delivery happened but the normal completion receipt is absent. They can inspect both artifacts, reproduce the crash and evaluate the restart decision. The project makes a narrow promise and exposes the point where human or system-specific reconciliation is still required.
-
-See `INTEGRATION.md`, `COMMERCIAL.md` and `PROVENANCE.json`. The core files are copied unchanged from the ThreeLineage snapshot available in this conversation. The hosting repository base commit is recorded separately in provenance; it is not the source commit of these core files. No production deployment is claimed.
+See the [integration guide](INTEGRATION.md), [source provenance](PROVENANCE.json), and separate [paid implementation scope](COMMERCIAL.md). The core files are copied unchanged from an owner-supplied snapshot. The hosting repository base commit is recorded separately; it is not the core snapshot's source commit. No production deployment is claimed.
 
 ## Attribution and licensing
 
-ThreeLineage framework attribution: Ky Nash / ThreeLineage, as supplied by the project owner. The demonstration, tests and documentation were assembled with AI assistance. Core file hashes identify the exact reviewed snapshot.
+ThreeLineage framework attribution: Ky Nash / ThreeLineage, as supplied by the project owner. Demonstration, tests and documentation assembled with AI assistance. Exact core hashes are recorded in provenance.
 
-The hosting repository declares MIT in its package metadata, but its current LICENSE contains only the heading “MIT License”. This example does not amend that file or settle the separate core snapshot's licensing. Confirm complete licence terms and preserve upstream notices before downstream redistribution. Do not imply Google, AISI or another organisation endorses this work.
+The hosting repository declares MIT in package metadata, but its LICENSE currently contains only an MIT heading. This example does not amend that file or settle the separately supplied snapshot's licensing. Confirm complete terms and preserve upstream notices before downstream redistribution. No endorsement by Google, AISI or another organisation is claimed.

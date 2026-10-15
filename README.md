@@ -1,42 +1,43 @@
-## 🛡️ Secure Claude Desktop with TraceGuard
+# TraceGuard Core
 
-TraceGuard can be deployed immediately as a Model Context Protocol (MCP) gateway to intercept, audit, and validate commands before Claude Desktop can execute them on your local system.
+TraceGuard Core includes a Python governance/evidence library and an optional MCP action-name gate.
 
-### One-Click Configuration
+## MCP gate scope
 
-Add the following configuration to your Claude Desktop config file to automatically run TraceGuard as your secure perimeter.
+The `traceguard-core` command exposes `traceguard_check_action`. It returns `ALLOW` or `BLOCK` based on an exact action-name allowlist configured with `TRACEGUARD_ALLOWED_ACTIONS`, a JSON array of non-empty strings. Missing or invalid configuration blocks all actions. The MCP server returns a decision only; it does not execute the requested tool. Its current allowlist does not validate argument values or per-tool schemas, so the caller must enforce the decision and any argument-level policy separately.
 
-**Config Locations:**
-* **macOS:** `~/Library/Application Support/Claude/claude_desktop_config.json`
-* **Windows:** `%APPDATA%\Claude\claude_desktop_config.json`
+Example configuration:
 
 ```json
 {
   "mcpServers": {
-    "traceguard-perimeter": {
+    "traceguard-core": {
       "command": "uvx",
-      "args": ["traceguard-core"]
+      "args": ["traceguard-core"],
+      "env": {
+        "TRACEGUARD_ALLOWED_ACTIONS": "[\"read_logs\"]"
+      }
     }
   }
 }
-# TraceGuard
+```
 
-TraceGuard is a zero-trust governance and audit framework providing:
-- Action verification
-- Ledger integrity
-- AXIOMOS risk scoring
-- Compliance reporting
-- CLI demo
+## Install
 
-## Installation
-    pip install traceguard
+After the 0.1.7 release is published:
 
-## Examples
-See the `examples/` directory.
+```sh
+python -m pip install traceguard-core==0.1.7
+```
 
-## Documentation
-See the `docs/` directory.
+The distribution name is `traceguard-core`; the core Python package is `traceguard` and the MCP adapter is `traceguard_core`.
 
-## CLI
-    traceguard demo
+## Development tests
 
+Pytest is configured to put `src/` first on the import path, preventing the legacy root-level `traceguard.py` script from shadowing the `traceguard` package during collection.
+
+
+```sh
+python -m pip install -e '.[test]'
+python -m pytest -q
+```

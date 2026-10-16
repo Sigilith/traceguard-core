@@ -23,7 +23,7 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install -e ".[test]"
       - name: Run package tests
-        run: python -m pytest -q tests/test_engine_extra.py tests/test_mcp_gate.py
+        run: python -m pytest -q tests/test_engine_extra.py tests/test_mcp_gate.py tests/test_mcp_server_startup.py
 
   build:
     needs: test

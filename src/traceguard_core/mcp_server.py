@@ -4,6 +4,7 @@ import asyncio
 import mcp.server.stdio
 import mcp.types as types
 from mcp.server import Server
+from mcp.server.lowlevel.server import NotificationOptions
 from mcp.server.models import InitializationOptions
 
 from traceguard_core import __version__
@@ -60,16 +61,24 @@ async def handle_call_tool(name: str, arguments: dict | None) -> list[types.Text
     ]
 
 
+def _build_initialization_options() -> InitializationOptions:
+    """Build capabilities with the MCP 1.x SDK's required option objects."""
+    return InitializationOptions(
+        server_name="traceguard-core",
+        server_version=__version__,
+        capabilities=server.get_capabilities(
+            notification_options=NotificationOptions(),
+            experimental_capabilities={},
+        ),
+    )
+
+
 async def main() -> None:
     async with mcp.server.stdio.stdio_server() as (read_stream, write_stream):
         await server.run(
             read_stream,
             write_stream,
-            InitializationOptions(
-                server_name="traceguard-core",
-                server_version=__version__,
-                capabilities=server.get_capabilities(),
-            ),
+            _build_initialization_options(),
         )
 
 

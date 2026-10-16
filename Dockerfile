@@ -1,17 +1,14 @@
-FROM python:3.11-slim
+FROM python:3.12-slim
 
-# Set working directory
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1
+
 WORKDIR /app
 
-# Install dependencies
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+# Install only the TraceGuard Core package and its declared runtime dependencies.
+COPY pyproject.toml README.md ./
+COPY src/ ./src/
+RUN python -m pip install --no-cache-dir .
 
-# Copy the entire workspace into the container
-COPY . .
-
-# Ensure logs and telemetry directories exist
-RUN mkdir -p logs/telemetry engine
-
-# Default command runs the ControlArena protocol test wrapper
-CMD ["PYTHONPATH=.", "python3", "engine/test_protocol.py"]
+# Run the decision-only MCP server over stdio.
+CMD ["traceguard-core"]

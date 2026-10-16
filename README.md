@@ -4,7 +4,7 @@ TraceGuard Core includes a Python governance/evidence library and an optional MC
 
 ## MCP gate scope
 
-        "TRACEGUARD_ALLOWED_ACTIONS": "[\"read_logs"\]"
+        "TRACEGUARD_ALLOWED_ACTIONS": "[\"read_logs\"]"
 
 Example configuration:
 
@@ -15,7 +15,7 @@ Example configuration:
       "command": "uvx",
       "args": ["traceguard-core"],
       "env": {
-        "TRACEGUARD_ALLOWED_ACTIONS": "[\"read_logs"\]"
+        "TRACEGUARD_ALLOWED_ACTIONS": "[\"read_logs\"]"
       }
     }
   }

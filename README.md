@@ -4,7 +4,7 @@ TraceGuard Core includes a Python governance/evidence library and an optional MC
 
 ## MCP gate scope
 
-The `traceguard-core` command exposes `traceguard_check_action`. It returns `ALLOW` or `BLOCK` based on an exact action-name allowlist configured with `TRACEGUARD_ALLOWED_ACTIONS`, a JSON array of non-empty strings. Missing or invalid configuration blocks all actions. The MCP server returns a decision only; it does not execute the requested tool. Its current allowlist does not validate argument values or per-tool schemas, so the caller must enforce the decision and any argument-level policy separately.
+        "TRACEGUARD_ALLOWED_ACTIONS": "[\"read_logs"\]"
 
 Example configuration:
 
@@ -15,7 +15,7 @@ Example configuration:
       "command": "uvx",
       "args": ["traceguard-core"],
       "env": {
-        "TRACEGUARD_ALLOWED_ACTIONS": "[\\"read_logs\\"]"
+        "TRACEGUARD_ALLOWED_ACTIONS": "[\"read_logs"\]"
       }
     }
   }

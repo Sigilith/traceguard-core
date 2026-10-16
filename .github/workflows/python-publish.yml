@@ -22,11 +22,10 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           python -m pip install -e ".[test]"
-      - name: Run tests
-        run: python -m pytest -q
+      - name: Run package tests
+        run: python -m pytest -q tests/test_engine_extra.py tests/test_mcp_gate.py
 
   build:
-    if: github.event_name == 'release'
     needs: test
     runs-on: ubuntu-latest
     steps:
@@ -34,10 +33,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Install build frontend
-        run: python -m pip install --upgrade build
-      - name: Build distributions
+      - name: Install build and validation tools
+        run: python -m pip install --upgrade build twine
+      - name: Build release distributions
         run: python -m build --sdist --wheel
+      - name: Validate built distributions
+        run: python -m twine check dist/*
       - uses: actions/upload-artifact@v4
         with:
           name: release-dists

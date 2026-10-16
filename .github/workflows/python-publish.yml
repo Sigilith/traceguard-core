@@ -39,6 +39,8 @@ jobs:
         run: python -m build --sdist --wheel --outdir package-dist
       - name: Validate built distributions
         run: python -m twine check package-dist/*.whl package-dist/*.tar.gz
+      - name: Build Glama MCP container
+        run: docker build --tag traceguard-core-glama .
       - uses: actions/upload-artifact@v4
         with:
           name: release-dists

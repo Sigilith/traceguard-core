@@ -36,13 +36,13 @@ jobs:
       - name: Install build and validation tools
         run: python -m pip install --upgrade build twine
       - name: Build release distributions
-        run: python -m build --sdist --wheel
+        run: python -m build --sdist --wheel --outdir package-dist
       - name: Validate built distributions
-        run: python -m twine check dist/*
+        run: python -m twine check package-dist/*.whl package-dist/*.tar.gz
       - uses: actions/upload-artifact@v4
         with:
           name: release-dists
-          path: dist/
+          path: package-dist/
 
   publish:
     if: github.event_name == 'release'

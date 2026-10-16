@@ -15,7 +15,7 @@ Example configuration:
       "command": "uvx",
       "args": ["traceguard-core"],
       "env": {
-        "TRACEGUARD_ALLOWED_ACTIONS": "[\\\"read_logs\\\"]"
+        "TRACEGUARD_ALLOWED_ACTIONS": "[\\"read_logs\\"]"
       }
     }
   }

@@ -15,7 +15,7 @@ Example configuration:
       "command": "uvx",
       "args": ["traceguard-core"],
       "env": {
-        "TRACEGUARD_ALLOWED_ACTIONS": "[\"read_logs\"]"
+        "TRACEGUARD_ALLOWED_ACTIONS": "[\\\"read_logs\\\"]"
       }
     }
   }
@@ -34,10 +34,9 @@ The distribution name is `traceguard-core`; the core Python package is `tracegua
 
 ## Development tests
 
-Pytest is configured to put `src/` first on the import path, preventing the legacy root-level `traceguard.py` script from shadowing the `traceguard` package during collection.
-
+Pytest is configured to put `src/` first on the import path, preventing the legacy root-level `traceguard.py` script from shadowing the `traceguard` package during collection. The release checks run the package contract tests directly; unrelated legacy integration tests are not part of this package test command.
 
 ```sh
 python -m pip install -e '.[test]'
-python -m pytest -q
+python -m pytest -q tests/test_engine_extra.py tests/test_mcp_gate.py
 ```

@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "traceguard-core"
-version = "0.1.7"
+version = "0.1.8"
 description = "Action governance, tamper-evident evidence, and an optional MCP policy gate."
 readme = "README.md"
 authors = [{ name = "Sigilith", email = "sigilith@github.com" }]
@@ -23,7 +23,7 @@ classifiers = [
 ]
 keywords = ["zero-trust", "runtime", "ledger", "cryptographic", "audit", "axiomos", "mcp"]
 requires-python = ">=3.10"
-dependencies = ["mcp"]
+dependencies = ["mcp>=1.0,<2"]
 
 [project.optional-dependencies]
 test = ["pytest>=7", "pytest-asyncio>=0.21"]

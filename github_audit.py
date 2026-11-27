@@ -1,10 +1,13 @@
+import os
 import requests
 
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 REPO_OWNER = "Sigilith"
 REPO_NAME = "traceguard-core"
 
 def audit_github_boundary():
+    if not GITHUB_TOKEN:
+        raise SystemExit("Set GITHUB_TOKEN in the environment; no credential is embedded in source.")
     headers = {
         "Authorization": f"Bearer {GITHUB_TOKEN}",
         "Accept": "application/vnd.github.v3+json"
@@ -12,7 +15,7 @@ def audit_github_boundary():
     url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}"
     
     print(f"[*] Initiating structural audit for: {REPO_OWNER}/{REPO_NAME}")
-    response = requests.get(url, headers=headers)
+    response = requests.get(url, headers=headers, timeout=10)
     
     if response.status_code == 200:
         repo_data = response.json()

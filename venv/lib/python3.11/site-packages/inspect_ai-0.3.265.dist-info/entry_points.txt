@@ -1,2 +1,0 @@
-[console_scripts]
-inspect = inspect_ai._cli.main:main

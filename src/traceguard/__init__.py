@@ -1,6 +1,6 @@
 """Public API for the TraceGuard governance package."""
 
-__version__ = "0.1.7"
+__version__ = "0.1.8"
 
 from traceguard.traceguard import TraceGuard
 from traceguard.asyncledger import AsyncEvidenceLedger
